@@ -722,9 +722,13 @@ get_amber_files <- function(path = "/mnt/hpccs01/scratch/microbiome/n10853499/00
             grepl("das_tool_without", `Bin ID`),
             "DASTool w/o Rosella",
             ifelse(
-                grepl("das_tool_bins", `Bin ID`),
+                grepl("das_tool_bins_no_refine", `Bin ID`),
                 "DASTool w/ Rosella",
-                binner
+                ifelse(
+                    grepl("das_tool_bins_with_refine", `Bin ID`),
+                    "DASTool w/ Refine",
+                    binner
+                )
             )
     )]
 
@@ -744,22 +748,22 @@ generate_plots_amber <- function(path = "/mnt/hpccs01/scratch/microbiome/n108534
     # breaks the manual linetype values I set in the plots
     if ("VAMB" %in% amber$binner) {
         values = c(
-            CONCOCT="#F8766D",  `DASTool w/ Rosella`="#D89000", `DASTool w/o Rosella`="#A3A500", MaxBin2="#39B600", `MetaBAT Sens.`="#00BF7D", `MetaBAT Spec.`="#00BFC4", 
+            CONCOCT="#F8766D",  `DASTool w/ Rosella`="#D89000", `DASTool w/ Refine`="#D99000", `DASTool w/o Rosella`="#A3A500", MaxBin2="#39B600", `MetaBAT Sens.`="#00BF7D", `MetaBAT Spec.`="#00BFC4", 
             `MetaBAT SuperSens.`="#00B0F6", `MetaBAT SuperSpec.`="#9590FF", VAMB="#FF62BC", `MetaBAT2`="#E76BF3", `MetaBAT2 Refined`="#E76BF3", SemiBin="#880808", `SemiBin Refined`="#880808", 
             Rosella="#000000", `Rosella Refined`="#000000"
         )
         print(values)
     
-        amber$binner = factor(amber$binner, levels=c('CONCOCT', 'DASTool w/o Rosella', 'DASTool w/ Rosella', 'MaxBin2', 'MetaBAT Sens.', 'MetaBAT Spec.', 'MetaBAT SuperSens.', 'MetaBAT SuperSpec.', 'VAMB', 'MetaBAT2', 'MetaBAT2 Refined', 'SemiBin', 'SemiBin Refined', 'Rosella', 'Rosella Refined'))
-        linetypes = c(3, 2, 2, 3, 3, 3, 3, 3, 3, 3, 1, 3, 1, 3, 1)
+        amber$binner = factor(amber$binner, levels=c('CONCOCT', 'DASTool w/o Rosella', 'DASTool w/ Rosella', 'DASTool w/ Refine', 'MaxBin2', 'MetaBAT Sens.', 'MetaBAT Spec.', 'MetaBAT SuperSens.', 'MetaBAT SuperSpec.', 'VAMB', 'MetaBAT2', 'MetaBAT2 Refined', 'SemiBin', 'SemiBin Refined', 'Rosella', 'Rosella Refined'))
+        linetypes = c(3, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 1, 3, 1, 3, 1)
     } else {
-        values = c(CONCOCT="#F8766D",  `DASTool w/ Rosella`="#D89000", `DASTool w/o Rosella`="#A3A500", MaxBin2="#39B600", `MetaBAT Sens.`="#00BF7D", `MetaBAT Spec.`="#00BFC4", 
+        values = c(CONCOCT="#F8766D",  `DASTool w/ Rosella`="#D89000", `DASTool w/ Refine`="#D99000", `DASTool w/o Rosella`="#A3A500", MaxBin2="#39B600", `MetaBAT Sens.`="#00BF7D", `MetaBAT Spec.`="#00BFC4", 
                    `MetaBAT SuperSens.`="#00B0F6", `MetaBAT SuperSpec.`="#9590FF", `MetaBAT2`="#E76BF3", `MetaBAT2 Refined`="#E76BF3", SemiBin="#880808", `SemiBin Refined`="#880808",
                    Rosella="#000000", `Rosella Refined`="#000000")
         print(values)
     
-        amber$binner = factor(amber$binner, levels=c('CONCOCT', 'DASTool w/o Rosella', 'DASTool w/ Rosella', 'MaxBin2', 'MetaBAT Sens.', 'MetaBAT Spec.', 'MetaBAT SuperSens.', 'MetaBAT SuperSpec.', 'MetaBAT2', 'MetaBAT2 Refined', 'SemiBin', 'SemiBin Refined', 'Rosella', 'Rosella Refined'))
-        linetypes = c(3, 2, 2, 3, 3, 3, 3, 3, 3, 1, 3, 1, 3, 1)
+        amber$binner = factor(amber$binner, levels=c('CONCOCT', 'DASTool w/o Rosella', 'DASTool w/ Rosella', 'DASTool w/ Refine', 'MaxBin2', 'MetaBAT Sens.', 'MetaBAT Spec.', 'MetaBAT SuperSens.', 'MetaBAT SuperSpec.', 'MetaBAT2', 'MetaBAT2 Refined', 'SemiBin', 'SemiBin Refined', 'Rosella', 'Rosella Refined'))
+        linetypes = c(3, 2, 2, 2, 3, 3, 3, 3, 3, 3, 1, 3, 1, 3, 1)
     }
     
     amber$group = factor(amber$group, levels=c("Independent", "Refined", "DASTool"))
@@ -838,4 +842,162 @@ generate_plots_amber <- function(path = "/mnt/hpccs01/scratch/microbiome/n108534
     t_all <- get_thresholds(amber, check_vamb=TRUE)
     
     return(list(com, con, gt, t_all, amber))
+}
+
+combine_amber_results <- function(path="/mnt/hpccs01/scratch/microbiome/n10853499/00-rosella_testing/01-CAMI_II/CAMI_uro/binning/", regexp="amber_sample_*", inner_directory="/data/amber_out/benchmarks/genome/") {
+    results <- Sys.glob(paste0(path, regexp))
+
+    amber <- do.call(rbind, lapply(results, function(x) {
+        result <- get_amber_files(paste0(x, "/", inner_directory))
+        return(result)
+    }))
+
+    generate_ranks_refined(amber, 5)
+
+    if ("VAMB" %in% amber$binner) {
+        values = c(
+            CONCOCT="#F8766D",  `DASTool w/ Rosella`="#D89000", `DASTool w/ Refine`="#D99000", `DASTool w/o Rosella`="#A3A500", MaxBin2="#39B600", `MetaBAT Sens.`="#00BF7D", `MetaBAT Spec.`="#00BFC4", 
+            `MetaBAT SuperSens.`="#00B0F6", `MetaBAT SuperSpec.`="#9590FF", VAMB="#FF62BC", `MetaBAT2`="#E76BF3", `MetaBAT2 Refined`="#E76BF3", SemiBin="#880808", `SemiBin Refined`="#880808", 
+            Rosella="#000000", `Rosella Refined`="#000000"
+        )
+        print(values)
+    
+        amber$binner = factor(amber$binner, levels=c('CONCOCT', 'DASTool w/o Rosella', 'DASTool w/ Rosella', 'DASTool w/ Refine', 'MaxBin2', 'MetaBAT Sens.', 'MetaBAT Spec.', 'MetaBAT SuperSens.', 'MetaBAT SuperSpec.', 'VAMB', 'MetaBAT2', 'MetaBAT2 Refined', 'SemiBin', 'SemiBin Refined', 'Rosella', 'Rosella Refined'))
+        linetypes = c(3, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 1, 3, 1, 3, 1)
+    } else {
+        values = c(CONCOCT="#F8766D",  `DASTool w/ Rosella`="#D89000", `DASTool w/ Refine`="#D99000", `DASTool w/o Rosella`="#A3A500", MaxBin2="#39B600", `MetaBAT Sens.`="#00BF7D", `MetaBAT Spec.`="#00BFC4", 
+                   `MetaBAT SuperSens.`="#00B0F6", `MetaBAT SuperSpec.`="#9590FF", `MetaBAT2`="#E76BF3", `MetaBAT2 Refined`="#E76BF3", SemiBin="#880808", `SemiBin Refined`="#880808",
+                   Rosella="#000000", `Rosella Refined`="#000000")
+        print(values)
+    
+        amber$binner = factor(amber$binner, levels=c('CONCOCT', 'DASTool w/o Rosella', 'DASTool w/ Rosella', 'DASTool w/ Refine', 'MaxBin2', 'MetaBAT Sens.', 'MetaBAT Spec.', 'MetaBAT SuperSens.', 'MetaBAT SuperSpec.', 'MetaBAT2', 'MetaBAT2 Refined', 'SemiBin', 'SemiBin Refined', 'Rosella', 'Rosella Refined'))
+        linetypes = c(3, 2, 2, 2, 3, 3, 3, 3, 3, 3, 1, 3, 1, 3, 1)
+    }
+    
+    amber$group = factor(amber$group, levels=c("Independent", "Refined", "DASTool"))
+    
+    com <- ggplot() + 
+        geom_line(data=amber[Completeness >= 50 & Contamination <= 5,], aes(x=com_rank, y=Completeness, color=binner, linetype=binner)) +
+        ylim(50, 100) +
+        scale_colour_manual("Binner", values=values) +
+        scale_linetype_manual("Binner", values = linetypes, guide="none") + 
+        labs(x="Com. rank", color="Binner", y="", linetype="Binner") +
+        guides(color = guide_legend(override.aes = list(color = values, linetype=linetypes))) +
+        theme(axis.text=element_text(size=10),
+              axis.title=element_text(size=10),
+              axis.line = element_line(size=0.25),
+              axis.ticks=element_line(size=0.25),
+              panel.grid.major = element_blank(),
+              panel.grid.minor = element_blank(),
+              panel.border = element_blank(),
+              panel.background = element_blank(),
+              legend.position="bottom" ,
+              legend.direction="horizontal", 
+              legend.title=element_blank(),
+              legend.text=element_text(size=10), 
+              legend.background=element_blank(), 
+              legend.key=element_blank())
+
+    con <- ggplot() + 
+        geom_line(data=amber[Completeness >= 50 & Contamination <= 5,], aes(x=con_rank, y=Contamination, color=binner, linetype=binner)) +   
+        ylim(0, 5) +
+        scale_colour_manual("", values=values) +
+        scale_linetype_manual("", values = linetypes, guide="none") + 
+        labs(x="Con. rank", color="Binner", y="", linetype="") +
+        guides(color = guide_legend(override.aes = list(color = values, linetype=linetypes))) +
+        theme(axis.text=element_text(size=10),
+              axis.title=element_text(size=10),
+              axis.line = element_line(size=0.25),
+              axis.ticks=element_line(size=0.25),
+              panel.grid.major = element_blank(),
+              panel.grid.minor = element_blank(),
+              panel.border = element_blank(),
+              panel.background = element_blank(),
+              legend.position="bottom" ,
+              legend.direction="horizontal", 
+              legend.text=element_text(size=10), 
+              legend.background=element_blank(), 
+              legend.key=element_blank())
+
+    amber[, mag_group:=ifelse(Completeness >= 90 & Contamination <= 5, "90%", 
+                              ifelse(Completeness >= 80 & Contamination <= 5, "80%", 
+                                     ifelse(Completeness >= 70 & Contamination <= 5, "70%", 
+                                            ifelse(Completeness >= 60 & Contamination <= 5, "60%", 
+                                                   ifelse(Completeness >= 50 & Contamination <= 5, "50%", "<50%")))))]
+
+    # amber_low[, .N, by=c("group", "binner", "mag_group")]
+
+    bar_chart <- ggplot(data=amber[mag_group != "<50%", .N, by=c("group", "binner", "mag_group")], aes(fill=mag_group, y=N, x=binner)) +
+        geom_bar(position="stack", stat="identity") + 
+        labs(fill="Completeness", x = "", y = "MAGs") +
+    #     scale_fill_viridis(discrete=TRUE, option="mako")
+        scale_fill_brewer() +
+        theme(panel.grid.major = element_blank(),
+              panel.grid.minor = element_blank(),
+              legend.position="right",
+              legend.direction="vertical", 
+              legend.text=element_text(size=10),
+              axis.text.x=element_text(angle=45, hjust=1, vjust=1)
+            ) +
+        facet_wrap(~group, nrow=3, ncol=1, scales="free_y") +
+        coord_flip()
+    
+    gt = ggplot_gtable(ggplot_build(bar_chart))
+    gt$heights[8] = 2*gt$heights[8]
+    gt$heights[13] = 0.5*gt$heights[13]
+    gt$heights[18] = 0.5*gt$heights[18]
+
+    t_all <- get_thresholds(amber, check_vamb=TRUE)
+    
+    return(list(com, con, gt, t_all, amber))
+}
+
+get_benchmarks <- function(benchmark_folder) {
+    rosella_b <- fread(paste0(benchmark_folder, "/rosella.benchmark.txt"))
+    rosella_b$binner <- "Rosella"
+    semibin_b <- fread(paste0(benchmark_folder, "/semibin.benchmark.txt"))
+    semibin_b$binner <- "SemiBin"
+    metabat2_b <- fread(paste0(benchmark_folder, "/metabat_2.benchmark.txt"))
+    metabat2_b$binner <- "MetaBAT2"
+    maxbin2_b <- fread(paste0(benchmark_folder, "/maxbin2.benchmark.txt"))
+    maxbin2_b$binner <- "MaxBin2"
+    metabat_sens_b <- fread(paste0(benchmark_folder, "/metabat_sens.benchmark.txt"))
+    metabat_sens_b$binner <- "MetaBAT Sens."
+    metabat_ssens_b <- fread(paste0(benchmark_folder, "/metabat_ssens.benchmark.txt"))
+    metabat_ssens_b$binner <- "MetaBAT SuperSens."
+    metabat_spec_b <- fread(paste0(benchmark_folder, "/metabat_spec.benchmark.txt"))
+    metabat_spec_b$binner <- "MetaBAT Spec."
+    metabat_sspec_b <- fread(paste0(benchmark_folder, "/metabat_sspec.benchmark.txt"))
+    metabat_sspec_b$binner <- "MetaBAT SuperSpec."
+    concoct_b <- fread(paste0(benchmark_folder, "/concoct.benchmark.txt"))
+    concoct_b$binner <- "CONCOCT"
+    vamb_b <- fread(paste0(benchmark_folder, "/vamb.benchmark.txt"))
+    vamb_b$binner <- "VAMB"
+
+    # refine_rosella <- fread(paste0(benchmark_folder, "/rosella_refine_rosella.benchmark.txt"))
+    # refine_rosella$binner <- "Rosella Refined"
+    # refine_semibin <- fread(paste0(benchmark_folder, "/rosella_refine_semibin.benchmark.txt"))
+    # refine_semibin$binner <- "SemiBin Refined"
+    # refine_metabat2 <- fread(paste0(benchmark_folder, "/rosella_refine_metabat2.benchmark.txt"))
+    # refine_metabat2$binner <- "MetaBAT2 Refined"
+    # refine_dastool <- fread(paste0(benchmark_folder, "/rosella_refine_dastool.benchmark.txt"))
+    # refine_dastool$binner <- "DASTool Refined"
+    
+    das_tool_with_refine <- fread(paste0(benchmark_folder, '/das_tool_refine.benchmark.txt'))
+    das_tool_with_refine$binner <- "DASTool w/ Refine"
+    das_tool_no_rosella <- fread(paste0(benchmark_folder, '/das_tool_no_rosella.benchmark.txt'))
+    das_tool_no_rosella$binner <- "DASTool w/o Rosella"
+    das_tool_no_refine <- fread(paste0(benchmark_folder, '/das_tool_no_refine.benchmark.txt'))
+    das_tool_no_refine$binner <- "DASTool w/ Rosella"
+
+    bound <- rbind(rosella_b, semibin_b, metabat2_b, maxbin2_b, metabat_sens_b, metabat_ssens_b, metabat_spec_b, 
+    metabat_sspec_b, concoct_b, vamb_b, das_tool_with_refine, das_tool_no_rosella, das_tool_no_refine)
+
+    bound[, m:=s/60]
+    bound[, h:=m/60]
+    bound[, max_rss:=max_rss/1024]
+    bound[, io_out:=io_out/1024]
+    bound[, io_in:=io_in/1024]
+
+    return(bound)
 }
