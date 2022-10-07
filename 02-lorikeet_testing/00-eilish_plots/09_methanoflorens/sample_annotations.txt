@@ -1,0 +1,200 @@
+run          study_accession  Gbp      library_strategy  library_selection  model                  sample_name                   taxon_name                    
+ERR3313646   ERP114459        6.515    WGS               RANDOM             Illumina HiSeq 2500    AK5YR 1T 45-55cm              metagenome                    
+ERR3313647   ERP114459        6.524    WGS               RANDOM             Illumina HiSeq 2500    AK5YR 2T 45-55cm              metagenome                    
+ERR3313648   ERP114459        6.117    WGS               RANDOM             Illumina HiSeq 2500    AK5YR 3T 45-55cm              metagenome                    
+ERR3313649   ERP114459        5.707    WGS               RANDOM             Illumina HiSeq 2500    AK5YR 4T 45-55cm              metagenome                    
+ERR3313650   ERP114459        3.656    WGS               RANDOM             Illumina HiSeq 2500    AK5YR 5T 45-55cm              metagenome                    
+ERR3313651   ERP114459        5.112    WGS               RANDOM             Illumina HiSeq 2500    AK5YR 6T 45-55cm              metagenome                    
+ERR3313656   ERP114459        4.132    WGS               RANDOM             Illumina HiSeq 2500    AK5YR 1C 45-55cm              metagenome                    
+ERR3313657   ERP114459        5.525    WGS               RANDOM             Illumina HiSeq 2500    AK5YR 2C 45-55cm              metagenome                    
+ERR3313658   ERP114459        5.419    WGS               RANDOM             Illumina HiSeq 2500    AK5YR 3C 45-55cm              metagenome                    
+ERR3313659   ERP114459        5.237    WGS               RANDOM             Illumina HiSeq 2500    AK5YR 4C 45-55cm              metagenome                    
+ERR3313660   ERP114459        4.489    WGS               RANDOM             Illumina HiSeq 2500    AK5YR 5C 45-55cm              metagenome                    
+ERR3313661   ERP114459        5.479    WGS               RANDOM             Illumina HiSeq 2500    AK5YR 6C 45-55cm              metagenome                    
+ERR4183327   ERP121998        25.392   WGS               RANDOM             Illumina HiSeq 2500    TL_incubated                  soil metagenome               
+ERR4183329   ERP121998        22.248   WGS               RANDOM             Illumina HiSeq 2500    PF_incubated                  soil metagenome               
+ERR4195938   ERP122124        17.798   WGS               RANDOM             Illumina NovaSeq 6000  A2                            pond metagenome               
+ERR5029657   ERP126103        198.000  WGS               RANDOM             Illumina NovaSeq 6000  DNAno34_Illumina2             permafrost metagenome         
+SRR10489811  SRP229959        15.165   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10489814  SRP229959        13.947   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10489815  SRP229959        15.152   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10489817  SRP229959        14.300   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10489818  SRP229959        17.105   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10489820  SRP229959        13.162   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10489821  SRP229959        14.861   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10489823  SRP229959        15.958   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10489826  SRP229959        14.728   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10489829  SRP229959        13.439   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10489830  SRP229959        14.045   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10489831  SRP229959        14.498   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10489833  SRP229959        13.003   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10489834  SRP229959        16.170   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10489836  SRP229959        14.835   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10489837  SRP229959        14.797   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10489839  SRP229959        13.546   WGS               RANDOM             Illumina HiSeq 4000    Metagenome                    permafrost metagenome         
+SRR10907119  SRP242528        6.283    WGS               RANDOM             Illumina NovaSeq 6000  1-17_5.4_m_B                  permafrost metagenome         
+SRR10907120  SRP242528        4.697    WGS               RANDOM             Illumina NovaSeq 6000  1-17_5.4_m_A                  permafrost metagenome         
+SRR11430613  SRP254216        85.890   WGS               RANDOM             HiSeq X Ten            S271TO                        freshwater metagenome         
+SRR12594517  SRP280157        74.369   WGS               RANDOM             Illumina HiSeq 2500    Svetloe1_illumina             freshwater sediment metagenome
+SRR12676968  SRP284006        8.388    WGS               RANDOM             Illumina HiSeq 2500    Jul2018-L111-30m-metagenome   freshwater metagenome         
+SRR12756227  SRP286001        5.709    WGS               RANDOM             Illumina HiSeq 4000    S107114.MG.010.UM2304         soil metagenome               
+SRR12756228  SRP286001        6.279    WGS               RANDOM             Illumina HiSeq 4000    S107113.MG.009.UM2304         soil metagenome               
+SRR12756230  SRP286001        7.086    WGS               RANDOM             Illumina HiSeq 4000    S107111.MG.007.UM2304         soil metagenome               
+SRR12756231  SRP286001        4.941    WGS               RANDOM             Illumina HiSeq 4000    S107110.MG.006.UM2304         soil metagenome               
+SRR12756252  SRP286001        4.107    WGS               RANDOM             Illumina HiSeq 4000    S107105.MG.002.UM2304         soil metagenome               
+SRR12756253  SRP286001        6.014    WGS               RANDOM             Illumina HiSeq 4000    S107104.MG.001.UM2304         soil metagenome               
+SRR12951261  SRP290047        32.237   WGS               RANDOM             Illumina NovaSeq 6000  GWBAP                         peat metagenome               
+SRR12951262  SRP290048        25.369   WGS               RANDOM             Illumina NovaSeq 6000  GWBAO                         peat metagenome               
+SRR12951263  SRP290049        57.143   WGS               RANDOM             Illumina NovaSeq 6000  GUYWW                         peat metagenome               
+SRR12951266  SRP290051        31.483   WGS               RANDOM             Illumina NovaSeq 6000  GWBAU                         peat metagenome               
+SRR12951267  SRP290052        65.661   WGS               RANDOM             Illumina NovaSeq 6000  GUYWU                         peat metagenome               
+SRR12951269  SRP290054        27.378   WGS               RANDOM             Illumina NovaSeq 6000  GWBBC                         peat metagenome               
+SRR12951270  SRP290055        38.937   WGS               RANDOM             Illumina NovaSeq 6000  GWBAS                         peat metagenome               
+SRR12951271  SRP290056        31.608   WGS               RANDOM             Illumina NovaSeq 6000  GWBAX                         peat metagenome               
+SRR12952107  SRP290131        38.908   WGS               RANDOM             Illumina NovaSeq 6000  GWSGW                         wetland metagenome            
+SRR12952125  SRP290136        37.433   WGS               RANDOM             Illumina NovaSeq 6000  GWSGU                         wetland metagenome            
+SRR12953085  SRP290173        53.954   WGS               RANDOM             Illumina NovaSeq 6000  GWSHA                         wetland metagenome            
+SRR12953104  SRP290174        36.465   WGS               RANDOM             Illumina NovaSeq 6000  GWSHC                         wetland metagenome            
+SRR12953107  SRP290175        41.153   WGS               RANDOM             Illumina NovaSeq 6000  GWSHP                         wetland metagenome            
+SRR12953108  SRP290176        37.989   WGS               RANDOM             Illumina NovaSeq 6000  GWSHO                         wetland metagenome            
+SRR12953253  SRP290181        45.883   WGS               RANDOM             Illumina NovaSeq 6000  GWSHG                         wetland metagenome            
+SRR12953260  SRP290180        44.672   WGS               RANDOM             Illumina NovaSeq 6000  GWSHN                         wetland metagenome            
+SRR12953417  SRP290184        49.228   WGS               RANDOM             Illumina NovaSeq 6000  GWSHH                         wetland metagenome            
+SRR13021852  SRP292110        20.632   WGS               RANDOM             Illumina NovaSeq 6000  GWBAY                         peat metagenome               
+SRR13021853  SRP292111        32.893   WGS               RANDOM             Illumina NovaSeq 6000  GWUHW                         peat metagenome               
+SRR13021854  SRP292112        28.669   WGS               RANDOM             Illumina NovaSeq 6000  GWUHY                         peat metagenome               
+SRR13021855  SRP292113        32.439   WGS               RANDOM             Illumina NovaSeq 6000  GWBAW                         peat metagenome               
+SRR13021902  SRP292115        37.376   WGS               RANDOM             Illumina NovaSeq 6000  GWBAT                         peat metagenome               
+SRR13021904  SRP292117        21.379   WGS               RANDOM             Illumina NovaSeq 6000  GWBAZ                         peat metagenome               
+SRR13021940  SRP292119        24.001   WGS               RANDOM             Illumina NovaSeq 6000  GWBBA                         peat metagenome               
+SRR13021941  SRP292120        26.719   WGS               RANDOM             Illumina NovaSeq 6000  GWBBB                         peat metagenome               
+SRR13021957  SRP292122        27.103   WGS               RANDOM             Illumina NovaSeq 6000  GWBBG                         peat metagenome               
+SRR13021960  SRP292124        44.187   WGS               RANDOM             Illumina NovaSeq 6000  GWBBH                         peat metagenome               
+SRR13201562  SRP296351        12.662   WGS               RANDOM             Illumina NovaSeq 6000  GWCBH                         peat metagenome               
+SRR13201563  SRP296351        5.589    WGS               RANDOM             Illumina NovaSeq 6000  GWCBH                         peat metagenome               
+SRR13201612  SRP296355        64.864   WGS               RANDOM             Illumina NovaSeq 6000  GUYWX                         peat metagenome               
+SRR13201613  SRP296356        12.379   WGS               RANDOM             Illumina NovaSeq 6000  GWCBO                         peat metagenome               
+SRR13201614  SRP296356        5.382    WGS               RANDOM             Illumina NovaSeq 6000  GWCBO                         peat metagenome               
+SRR13201617  SRP296358        19.872   WGS               RANDOM             Illumina NovaSeq 6000  GWCBP                         peat metagenome               
+SRR13201618  SRP296358        8.814    WGS               RANDOM             Illumina NovaSeq 6000  GWCBP                         peat metagenome               
+SRR13201821  SRP296360        20.044   WGS               RANDOM             Illumina NovaSeq 6000  GWCBT                         peat metagenome               
+SRR13201822  SRP296360        8.568    WGS               RANDOM             Illumina NovaSeq 6000  GWCBT                         peat metagenome               
+SRR13201824  SRP296362        18.265   WGS               RANDOM             Illumina NovaSeq 6000  GWCBU                         peat metagenome               
+SRR13201825  SRP296362        8.857    WGS               RANDOM             Illumina NovaSeq 6000  GWCBU                         peat metagenome               
+SRR13201919  SRP296365        30.254   WGS               RANDOM             Illumina NovaSeq 6000  GWUHU                         peat metagenome               
+SRR13201920  SRP296366        31.245   WGS               RANDOM             Illumina NovaSeq 6000  GWUHX                         peat metagenome               
+SRR13201962  SRP296370        28.181   WGS               RANDOM             Illumina NovaSeq 6000  GWUHZ                         peat metagenome               
+SRR13201976  SRP296380        25.309   WGS               RANDOM             Illumina NovaSeq 6000  GWUNA                         peat metagenome               
+SRR13202123  SRP296425        25.245   WGS               RANDOM             Illumina NovaSeq 6000  GWCBC                         peat metagenome               
+SRR13202124  SRP296425        10.798   WGS               RANDOM             Illumina NovaSeq 6000  GWCBC                         peat metagenome               
+SRR13220458  SRP297122        2.619    OTHER             RANDOM             Illumina NovaSeq 6000  GXBYO                         wetland metagenome            
+SRR13220837  SRP297136        1.950    OTHER             RANDOM             Illumina NovaSeq 6000  GXBYW                         wetland metagenome            
+SRR13222405  SRP297243        1.546    OTHER             RANDOM             Illumina NovaSeq 6000  GXAZC                         wetland metagenome            
+SRR13234433  SRP297455        1.682    OTHER             RANDOM             Illumina NovaSeq 6000  GXBNS                         wetland metagenome            
+SRR13557791  SRP303405        21.945   WGS               RANDOM             NextSeq 500            241                           peat metagenome               
+SRR13557792  SRP303405        23.576   WGS               RANDOM             NextSeq 500            245                           peat metagenome               
+SRR13557793  SRP303405        17.454   WGS               RANDOM             NextSeq 500            222                           peat metagenome               
+SRR13557794  SRP303405        16.142   WGS               RANDOM             NextSeq 500            253                           peat metagenome               
+SRR13557795  SRP303405        15.912   WGS               RANDOM             NextSeq 500            201                           peat metagenome               
+SRR13557796  SRP303405        25.250   WGS               RANDOM             NextSeq 500            210                           peat metagenome               
+SRR13621567  SRP304579        16.889   WGS               RANDOM             Illumina NovaSeq 6000  GXYWW                         peat metagenome               
+SRR13621568  SRP304579        25.229   WGS               RANDOM             Illumina NovaSeq 6000  GUZYC                         peat metagenome               
+SRR13674313  SRP305584        25.833   WGS               RANDOM             Illumina MiSeq         2a                            freshwater sediment metagenome
+SRR13674314  SRP305584        27.409   WGS               RANDOM             Illumina MiSeq         1a                            freshwater sediment metagenome
+SRR13674315  SRP305584        26.279   WGS               RANDOM             Illumina MiSeq         3a                            freshwater sediment metagenome
+SRR13780018  SRP308002        20.543   WGS               RANDOM             Illumina NovaSeq 6000  GXYWT                         peat metagenome               
+SRR13780019  SRP308002        26.225   WGS               RANDOM             Illumina NovaSeq 6000  GUZYA                         peat metagenome               
+SRR13781586  SRP308051        23.012   WGS               RANDOM             Illumina NovaSeq 6000  GXXAB                         peat metagenome               
+SRR13781756  SRP308063        23.656   WGS               RANDOM             Illumina NovaSeq 6000  GXXAG                         peat metagenome               
+SRR13781757  SRP308064        26.317   WGS               RANDOM             Illumina NovaSeq 6000  GXXAN                         peat metagenome               
+SRR3480276   SRP074488        0.286    WGS               RANDOM             Illumina MiSeq         PH121_0_551                   sediment metagenome           
+SRR3480278   SRP074488        0.571    WGS               RANDOM             Illumina MiSeq         PH082_0_579                   sediment metagenome           
+SRR5214707   SRP131523        15.919   WGS               RANDOM             Illumina HiSeq 2500    AZGZP                         peat metagenome               
+SRR5272222   SRP100306        49.472   WGS               RANDOM             Illumina HiSeq 2000    USOH                          freshwater metagenome         
+SRR5440529   SRP103729        6.767    WGS               RANDOM             Illumina HiSeq 2000    MG_T3M_75cm                   peat metagenome               
+SRR5440530   SRP103729        7.066    WGS               RANDOM             Illumina HiSeq 2000    MG_T3M_30cm                   peat metagenome               
+SRR5440533   SRP103729        9.267    WGS               RANDOM             Illumina HiSeq 2000    MG_T3F_30cm                   peat metagenome               
+SRR5440535   SRP103729        6.512    WGS               RANDOM             Illumina HiSeq 2000    MG_Fen1_75cm                  peat metagenome               
+SRR6152564   SRP119650        18.071   WGS               RANDOM             Illumina HiSeq 2000    Sb_2010_peat_soil_DNA_J2      peat metagenome               
+SRR6193119   SRP119650        34.813   WGS               RANDOM             Illumina HiSeq 2000    GOAT                          peat metagenome               
+SRR6960558   SRP138675        59.491   WGS               RANDOM             Illumina HiSeq 2500    BPONN                         permafrost metagenome         
+SRR6962291   SRP138804        59.071   WGS               RANDOM             Illumina HiSeq 2500    BPONP                         permafrost metagenome         
+SRR7151488   SRP145414        2.626    WGS               RANDOM             NextSeq 500            20110600_E1D.20140910.NA      peat metagenome               
+SRR7151493   SRP145414        12.405   WGS               RANDOM             Illumina HiSeq 2000    20120700_S1D..1               peat metagenome               
+SRR7151498   SRP145414        12.644   WGS               RANDOM             Illumina HiSeq 2000    20120700_S1D..2               peat metagenome               
+SRR7151499   SRP145414        11.931   WGS               RANDOM             Illumina HiSeq 2000    20120700_S1D..3               peat metagenome               
+SRR7151501   SRP145414        3.287    WGS               RANDOM             Illumina HiSeq 2500    20120700_E1S.20140516.NA      peat metagenome               
+SRR7151503   SRP145414        5.777    WGS               RANDOM             Illumina HiSeq 2000    20120700_E2D.20140723.NA      peat metagenome               
+SRR7151506   SRP145414        2.452    WGS               RANDOM             Illumina HiSeq 2500    20120700_E1M.20140516.NA      peat metagenome               
+SRR7151507   SRP145414        2.847    WGS               RANDOM             Illumina HiSeq 2500    20120700_E1D.20140516.NA      peat metagenome               
+SRR7151512   SRP145414        7.900    WGS               RANDOM             NextSeq 500            20110700_E3M.20140903.NA      peat metagenome               
+SRR7151516   SRP145414        4.423    WGS               RANDOM             NextSeq 500            20110700_E2D.20140910.NA      peat metagenome               
+SRR7151517   SRP145414        3.836    WGS               RANDOM             NextSeq 500            20110700_E2M.20140910.NA      peat metagenome               
+SRR7151523   SRP145414        3.722    WGS               RANDOM             NextSeq 500            20110600_E1M.20140910.NA      peat metagenome               
+SRR7151532   SRP145414        16.860   WGS               RANDOM             NextSeq 500            20120700_S1D.20140923.NA      peat metagenome               
+SRR7151533   SRP145414        12.129   WGS               RANDOM             Illumina HiSeq 2000    20120700_S1D..6               peat metagenome               
+SRR7151534   SRP145414        12.087   WGS               RANDOM             Illumina HiSeq 2000    20120700_S1D..5               peat metagenome               
+SRR7151535   SRP145414        11.675   WGS               RANDOM             Illumina HiSeq 2000    20120700_S1D..4               peat metagenome               
+SRR7151536   SRP145414        4.478    WGS               RANDOM             Illumina HiSeq 2500    20120700_S1X.20140516.NA      peat metagenome               
+SRR7151546   SRP145414        6.502    WGS               RANDOM             Illumina HiSeq 2000    20120500_P19.20140723.NA      peat metagenome               
+SRR7151554   SRP145414        5.592    WGS               RANDOM             Illumina HiSeq 2000    20120500_P28.20140723.NA      peat metagenome               
+SRR7151563   SRP145414        4.822    WGS               RANDOM             NextSeq 500            20110700_S2M.20140916.NA      peat metagenome               
+SRR7151564   SRP145414        6.661    WGS               RANDOM             NextSeq 500            20110700_S2D.20140916.NA      peat metagenome               
+SRR7151575   SRP145414        5.985    WGS               RANDOM             Illumina HiSeq 2000    20120700_S3X.20140723.NA      peat metagenome               
+SRR7151576   SRP145414        8.006    WGS               RANDOM             Illumina HiSeq 2000    20120800_E1D.20140723.NA      peat metagenome               
+SRR7151577   SRP145414        7.082    WGS               RANDOM             Illumina HiSeq 2000    20120700_S3D.20140723.NA      peat metagenome               
+SRR7151591   SRP145414        8.561    WGS               RANDOM             Illumina HiSeq 2500    20110800_E3M..NA              peat metagenome               
+SRR7151593   SRP145414        16.622   WGS               RANDOM             Illumina HiSeq 2000    20110800_E2D..NA              peat metagenome               
+SRR7151594   SRP145414        8.980    WGS               RANDOM             Illumina HiSeq 2500    20110800_E2M..NA              peat metagenome               
+SRR7151595   SRP145414        16.616   WGS               RANDOM             Illumina HiSeq 2000    20110800_E2S..NA              peat metagenome               
+SRR7151596   SRP145414        18.677   WGS               RANDOM             Illumina HiSeq 2000    20110800_E3D..NA              peat metagenome               
+SRR7151598   SRP145414        13.603   WGS               RANDOM             Illumina HiSeq 2000    20110800_E1D..NA              peat metagenome               
+SRR7151599   SRP145414        8.034    WGS               RANDOM             Illumina HiSeq 2500    20110800_E1M..NA              peat metagenome               
+SRR7151600   SRP145414        18.471   WGS               RANDOM             Illumina HiSeq 2000    20110800_E1S..NA              peat metagenome               
+SRR7151603   SRP145414        5.993    WGS               RANDOM             Illumina HiSeq 2000    20120800_E3S.20140723.NA      peat metagenome               
+SRR7151607   SRP145414        4.893    WGS               RANDOM             Illumina HiSeq 2000    20120800_E2S.20140723.NA      peat metagenome               
+SRR7151608   SRP145414        5.183    WGS               RANDOM             Illumina HiSeq 2000    20120800_E2M.20140723.NA      peat metagenome               
+SRR7151609   SRP145414        5.453    WGS               RANDOM             Illumina HiSeq 2000    20120800_E3D.20140723.NA      peat metagenome               
+SRR7151610   SRP145414        7.113    WGS               RANDOM             Illumina HiSeq 2000    20120800_E2X.20140723.NA      peat metagenome               
+SRR7151612   SRP145414        3.815    WGS               RANDOM             Illumina HiSeq 2500    20120600_E3D.20140516.NA      peat metagenome               
+SRR7151616   SRP145414        12.576   WGS               RANDOM             NextSeq 500            20120600_E1D.20140923.NA      peat metagenome               
+SRR7151617   SRP145414        12.014   WGS               RANDOM             NextSeq 500            20120600_E1D.20140929.NA      peat metagenome               
+SRR7151618   SRP145414        14.030   WGS               RANDOM             NextSeq 500            20120600_E2D.20140929.NA      peat metagenome               
+SRR7151620   SRP145414        3.899    WGS               RANDOM             Illumina HiSeq 2500    20120600_E2D.20140516.NA      peat metagenome               
+SRR7151621   SRP145414        14.711   WGS               RANDOM             NextSeq 500            20120600_E2D.20140923.NA      peat metagenome               
+SRR7151622   SRP145414        5.826    WGS               RANDOM             NextSeq 500            20110800_S1M.20140903.NA      peat metagenome               
+SRR7151623   SRP145414        4.743    WGS               RANDOM             Illumina HiSeq 2500    20110800_S1M.20130213.NA      peat metagenome               
+SRR7151630   SRP145414        4.855    WGS               RANDOM             Illumina HiSeq 2500    20110800_S1D..NA              peat metagenome               
+SRR7151632   SRP145414        5.436    WGS               RANDOM             Illumina HiSeq 2500    20110800_S2D..NA              peat metagenome               
+SRR7151633   SRP145414        3.025    WGS               RANDOM             Illumina HiSeq 2500    20120800_S1D.20140516.NA      peat metagenome               
+SRR7151637   SRP145414        3.298    WGS               RANDOM             NextSeq 500            20110600_E2D.20140910.NA      peat metagenome               
+SRR7151642   SRP145414        12.149   WGS               RANDOM             Illumina HiSeq 2000    20100900_E1D.20100901.raw.NA  peat metagenome               
+SRR7151643   SRP145414        13.157   WGS               RANDOM             Illumina HiSeq 2000    20100900_E1S.20100901.raw.NA  peat metagenome               
+SRR7151644   SRP145414        11.539   WGS               RANDOM             Illumina HiSeq 2000    20100900_E2D.20100901.raw.NA  peat metagenome               
+SRR7151645   SRP145414        3.243    WGS               RANDOM             Illumina HiSeq 2500    20120800_S1X.20140516.NA      peat metagenome               
+SRR7151646   SRP145414        3.599    WGS               RANDOM             Illumina HiSeq 2500    20120600_E1D.20140516.NA      peat metagenome               
+SRR7151657   SRP145414        3.712    WGS               RANDOM             NextSeq 500            20111000_E2D.20140916.NA      peat metagenome               
+SRR7151660   SRP145414        6.236    WGS               RANDOM             Illumina HiSeq 2500    20110800_S2M..NA              peat metagenome               
+SRR7151665   SRP145414        7.172    WGS               RANDOM             Illumina HiSeq 2000    20120800_E2D.20140723.NA      peat metagenome               
+SRR7151666   SRP145414        10.771   WGS               RANDOM             Illumina HiSeq 2500    20110800_S3D..NA              peat metagenome               
+SRR7151673   SRP145414        2.860    WGS               RANDOM             Illumina HiSeq 2500    20120800_S2X.20140516.NA      peat metagenome               
+SRR7151676   SRP145414        2.918    WGS               RANDOM             Illumina HiSeq 2500    20120700_S2X.20140516.NA      peat metagenome               
+SRR7151683   SRP145414        5.467    WGS               RANDOM             NextSeq 500            20111000_E3D.20140916.NA      peat metagenome               
+SRR7151687   SRP145414        4.110    WGS               RANDOM             Illumina HiSeq 2500    20120600_S2D.20140516.NA      peat metagenome               
+SRR7151692   SRP145414        3.739    WGS               RANDOM             Illumina HiSeq 2500    20120600_S1D.20140516.NA      peat metagenome               
+SRR7151703   SRP145414        4.499    WGS               RANDOM             Illumina HiSeq 2500    20120600_E3M.20140516.NA      peat metagenome               
+SRR7151704   SRP145414        13.252   WGS               RANDOM             NextSeq 500            20120600_E3D.20140929.NA      peat metagenome               
+SRR7151705   SRP145414        13.845   WGS               RANDOM             NextSeq 500            20120600_E3D.20140923.NA      peat metagenome               
+SRR7151710   SRP145414        5.115    WGS               RANDOM             NextSeq 500            20110600_S1D.20140903.NA      peat metagenome               
+SRR7151713   SRP145414        3.535    WGS               RANDOM             NextSeq 500            20110600_E3D.20140910.NA      peat metagenome               
+SRR7151714   SRP145414        2.652    WGS               RANDOM             NextSeq 500            20110600_E3M.20140910.NA      peat metagenome               
+SRR7151715   SRP145414        4.838    WGS               RANDOM             NextSeq 500            20110600_E3S.20140910.NA      peat metagenome               
+SRR7151720   SRP145414        12.874   WGS               RANDOM             Illumina HiSeq 2000    20100900_E3D.20100901.raw.NA  peat metagenome               
+SRR7151722   SRP145414        4.881    WGS               RANDOM             NextSeq 500            20111000_E3M.20140916.NA      peat metagenome               
+SRR7151724   SRP145414        3.843    WGS               RANDOM             Illumina HiSeq 2500    20120700_E3D.20140516.NA      peat metagenome               
+SRR7151733   SRP145414        5.516    WGS               RANDOM             NextSeq 500            20110600_S3M.20140903.NA      peat metagenome               
+SRR7151735   SRP145414        3.279    WGS               RANDOM             NextSeq 500            20110700_E1D.20140910.NA      peat metagenome               
+SRR7151737   SRP145414        4.961    WGS               RANDOM             NextSeq 500            20110600_S2D.20140903.NA      peat metagenome               
+SRR7151743   SRP145414        5.466    WGS               RANDOM             NextSeq 500            20110700_E1M.20140916.NA      peat metagenome               
+SRR8496342   SRP182688        7.108    WGS               RANDOM             Illumina HiSeq 2500    S22_L005                      pond metagenome               
+SRR8496345   SRP182688        7.328    WGS               RANDOM             Illumina HiSeq 2500    S23_L005                      pond metagenome               

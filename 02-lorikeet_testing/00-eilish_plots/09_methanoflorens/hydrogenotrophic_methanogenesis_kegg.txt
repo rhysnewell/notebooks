@@ -1,0 +1,38 @@
+ko	gene	product	EC
+K00200	"fwdA,FmdA"	formylmethanofuran dehydrogenase subunit A 	EC:1.2.7.12
+K00201	"fwdB,FmdB"	formylmethanofuran dehydrogenase subunit B 	EC:1.2.7.12
+K00202	"fwdC,FmdC"	formylmethanofuran dehydrogenase subunit C 	EC:1.2.7.12
+K00203	"fwdD,FmdD"	formylmethanofuran dehydrogenase subunit D 	EC:1.2.7.12
+K11261	"fwdE,FmdE"	formylmethanofuran dehydrogenase subunit E 	EC:1.2.7.12
+K00205	"fwdF,FmdF"	4Fe-4SFerredoxin	
+K11260	fwdG	4Fe-4SFerredoxin	
+K00204	fwdH	4Fe-4SFerredoxin	
+K00672	ftr	formylmethanofuran--tetrahydromethanopterin N-formyltransferase 	EC:2.3.1.101
+K01499	mch	methenyltetrahydromethanopterin cyclohydrolase 	EC:3.5.4.27
+K00319	mtd	methylenetetrahydromethanopterin dehydrogenase 	EC:1.5.98.1
+K13942	hmd	"5,10-methenyltetrahydromethanopterinhydrogenase "	EC:1.12.98.2
+K00320	mer	"5,10-methylenetetrahydromethanopterin reductase "	EC:1.5.98.2
+K00577	mtrA	tetrahydromethanopterin S-methyltransferase subunit A 	EC:2.1.1.86
+K00578	mtrB	tetrahydromethanopterin S-methyltransferase subunit B 	EC:2.1.1.86
+K00579	mtrC	tetrahydromethanopterin S-methyltransferase subunit C 	EC:2.1.1.86
+K00580	mtrD	tetrahydromethanopterin S-methyltransferase subunit D 	EC:2.1.1.86
+K00581	mtrE	tetrahydromethanopterin S-methyltransferase subunit E 	EC:2.1.1.86
+K00582	mtrF	tetrahydromethanopterin S-methyltransferase subunitF 	EC:2.1.1.86
+K00583	mtrG	tetrahydromethanopterin S-methyltransferase subunit G 	EC:2.1.1.86
+K00584	mtrH	tetrahydromethanopterin S-methyltransferase subunith 	EC:2.1.1.86
+K00399	mcrA	methyl-coenzymem reductase alpha subunit 	EC:2.8.4.1
+K00401	mcrB	methyl-coenzymem reductase beta subunit 	EC:2.8.4.1
+K00402	mcrG	methyl-coenzymem reductase gamma subunit 	EC:2.8.4.1
+K22480	hdrA1	heterodisulfide reductase subunit A1 	EC:1.8.7.3
+K22481	hdrB1	heterodisulfide reductase subunit B1 	EC:1.8.7.3
+K22482	hdrC1	heterodisulfide reductase subunit C1 	EC:1.8.7.3
+K03388	hdrA2	heterodisulfide reductase subunit A2 	EC:1.8.7.3Ê1.8.98.4Ê1.8.98.5Ê1.8.98.6
+K03389	hdrB2	heterodisulfide reductase subunit B2 	EC:1.8.7.3Ê1.8.98.4Ê1.8.98.5Ê1.8.98.6
+K03390	hdrC2	heterodisulfide reductase subunit C2 	EC:1.8.7.3Ê1.8.98.4Ê1.8.98.5Ê1.8.98.6
+K08264	hdrD	heterodisulfide reductase subunit D 	EC:1.8.98.1
+K08265	hdrE	heterodisulfide reductase subunit E 	EC:1.8.98.1
+K14126	"mvhA, vhuA, vhcA"	F420-non-reducinghydrogenase large subunit 	EC:1.12.99.-Ê1.8.98.5
+K14128	"mvhG, vhuG, vhcG"	F420-non-reducinghydrogenase small subunit 	EC:1.12.99.-Ê1.8.98.5
+K14127	"mvhD, vhuD, vhcD"	F420-non-reducinghydrogenase iron-sulfur subunit 	EC:1.12.99.-Ê1.8.98.5Ê1.8.98.6
+K22516	fdhA	Formate dehydrogenase (coenzymeF420) alpha subunit 	EC:1.17.98.3Ê1.8.98.6
+K00125	fdhB	Formate dehydrogenase (coenzymeF420) beta subunit 	EC:1.17.98.3Ê1.8.98.6

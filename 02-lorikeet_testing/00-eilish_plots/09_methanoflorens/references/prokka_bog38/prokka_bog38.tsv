@@ -1,0 +1,2182 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GHADJAEK_00001	CDS	333				hypothetical protein
+GHADJAEK_00002	CDS	912	ftr_1	2.3.1.101	COG2037	Formylmethanofuran--tetrahydromethanopterin formyltransferase
+GHADJAEK_00003	CDS	576				hypothetical protein
+GHADJAEK_00004	CDS	657				hypothetical protein
+GHADJAEK_00005	CDS	819				hypothetical protein
+GHADJAEK_00006	CDS	498				hypothetical protein
+GHADJAEK_00007	CDS	144				hypothetical protein
+GHADJAEK_00008	CDS	537				hypothetical protein
+GHADJAEK_00009	CDS	183				hypothetical protein
+GHADJAEK_00010	CDS	753				hypothetical protein
+GHADJAEK_00011	CDS	165				hypothetical protein
+GHADJAEK_00012	CDS	93				hypothetical protein
+GHADJAEK_00013	CDS	480	btuE	1.11.1.15		Thioredoxin/glutathione peroxidase BtuE
+GHADJAEK_00014	CDS	204				hypothetical protein
+GHADJAEK_00015	CDS	276				hypothetical protein
+GHADJAEK_00016	CDS	135				hypothetical protein
+GHADJAEK_00017	CDS	264				hypothetical protein
+GHADJAEK_00018	CDS	582			COG1853	Protein MTH_152
+GHADJAEK_00019	CDS	159				hypothetical protein
+GHADJAEK_00020	CDS	144				hypothetical protein
+GHADJAEK_00021	CDS	564				hypothetical protein
+GHADJAEK_00022	CDS	456				hypothetical protein
+GHADJAEK_00023	CDS	423				hypothetical protein
+GHADJAEK_00024	CDS	423				hypothetical protein
+GHADJAEK_00025	CDS	150				hypothetical protein
+GHADJAEK_00026	CDS	1173				hypothetical protein
+GHADJAEK_00027	CDS	606				hypothetical protein
+GHADJAEK_00028	CDS	237				hypothetical protein
+GHADJAEK_00029	CDS	723				hypothetical protein
+GHADJAEK_00030	CDS	366	cheY			Chemotaxis protein CheY
+GHADJAEK_00031	CDS	801	filR1_1		COG4742	Methanogenesis regulatory protein FilR1
+GHADJAEK_00032	CDS	915				hypothetical protein
+GHADJAEK_00033	CDS	1074				hypothetical protein
+GHADJAEK_00034	CDS	801				hypothetical protein
+GHADJAEK_00035	CDS	3312	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+GHADJAEK_00036	CDS	450	filR2		COG0784	putative methanogenesis regulatory protein FilR2
+GHADJAEK_00037	CDS	1119	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+GHADJAEK_00038	CDS	171				hypothetical protein
+GHADJAEK_00039	CDS	486		1.6.5.2	COG0655	NAD(P)H dehydrogenase (quinone)
+GHADJAEK_00040	CDS	162				hypothetical protein
+GHADJAEK_00041	CDS	156				hypothetical protein
+GHADJAEK_00042	CDS	477				hypothetical protein
+GHADJAEK_00043	CDS	108				hypothetical protein
+GHADJAEK_00044	CDS	489				hypothetical protein
+GHADJAEK_00045	CDS	288			COG0531	putative protein
+GHADJAEK_00046	CDS	444				hypothetical protein
+GHADJAEK_00047	CDS	840	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+GHADJAEK_00048	CDS	1536	mdtD_1			Putative multidrug resistance protein MdtD
+GHADJAEK_00049	CDS	780				hypothetical protein
+GHADJAEK_00050	CDS	957	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GHADJAEK_00051	CDS	108				hypothetical protein
+GHADJAEK_00052	CDS	438				hypothetical protein
+GHADJAEK_00053	CDS	831				hypothetical protein
+GHADJAEK_00054	CDS	558		2.7.8.39	COG0558	Archaetidylinositol phosphate synthase
+GHADJAEK_00055	CDS	501	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+GHADJAEK_00056	CDS	1062	cofG	4.3.1.32	COG1060	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase
+GHADJAEK_00057	CDS	621	cofC	2.7.7.68	COG1920	Phosphoenolpyruvate guanylyltransferase
+GHADJAEK_00058	CDS	915	ilvE	2.6.1.42	COG0115	Putative branched-chain-amino-acid aminotransferase
+GHADJAEK_00059	tRNA	75				tRNA-Arg(ccg)
+GHADJAEK_00060	CDS	708				hypothetical protein
+GHADJAEK_00061	CDS	1062	frvX	3.4.11.-	COG1363	Tetrahedral aminopeptidase
+GHADJAEK_00062	CDS	1419	cimA_1	2.3.1.182	COG0119	(R)-citramalate synthase CimA
+GHADJAEK_00063	CDS	1671	iolD_1	3.7.1.22		3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+GHADJAEK_00064	CDS	501				hypothetical protein
+GHADJAEK_00065	CDS	978	ilvC	1.1.1.383	COG0059	Ketol-acid reductoisomerase (NAD(P)(+))
+GHADJAEK_00066	CDS	633				hypothetical protein
+GHADJAEK_00067	CDS	324				hypothetical protein
+GHADJAEK_00068	CDS	312				hypothetical protein
+GHADJAEK_00069	CDS	384				hypothetical protein
+GHADJAEK_00070	CDS	504	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+GHADJAEK_00071	CDS	1182	ald	1.4.1.1	COG0686	Alanine dehydrogenase
+GHADJAEK_00072	CDS	312				hypothetical protein
+GHADJAEK_00073	CDS	1383				hypothetical protein
+GHADJAEK_00074	CDS	1176	murJ			lipid II flippase MurJ
+GHADJAEK_00075	CDS	294				hypothetical protein
+GHADJAEK_00076	CDS	531	ppa_1	3.6.1.1	COG0221	Inorganic pyrophosphatase
+GHADJAEK_00077	CDS	273				hypothetical protein
+GHADJAEK_00078	CDS	1014				hypothetical protein
+GHADJAEK_00079	CDS	321			COG0599	putative protein
+GHADJAEK_00080	CDS	612				hypothetical protein
+GHADJAEK_00081	tRNA	74				tRNA-His(gtg)
+GHADJAEK_00082	CDS	1542	ppaC	3.6.1.1		manganese-dependent inorganic pyrophosphatase
+GHADJAEK_00083	CDS	675				hypothetical protein
+GHADJAEK_00084	CDS	720				hypothetical protein
+GHADJAEK_00085	CDS	141				hypothetical protein
+GHADJAEK_00086	CDS	786				hypothetical protein
+GHADJAEK_00087	CDS	984	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GHADJAEK_00088	CDS	1299				hypothetical protein
+GHADJAEK_00089	CDS	438				hypothetical protein
+GHADJAEK_00090	CDS	1368	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+GHADJAEK_00091	CDS	258				hypothetical protein
+GHADJAEK_00092	CDS	366	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+GHADJAEK_00093	CDS	696		1.11.1.15	COG0450	Peroxiredoxin
+GHADJAEK_00094	CDS	186				hypothetical protein
+GHADJAEK_00095	CDS	567				hypothetical protein
+GHADJAEK_00096	CDS	1362				hypothetical protein
+GHADJAEK_00097	CDS	309				hypothetical protein
+GHADJAEK_00098	CDS	369		1.11.1.15		Peroxiredoxin
+GHADJAEK_00099	CDS	291				hypothetical protein
+GHADJAEK_00100	CDS	486				hypothetical protein
+GHADJAEK_00101	CDS	816				hypothetical protein
+GHADJAEK_00102	CDS	528	xerA_1		COG0582	Tyrosine recombinase XerA
+GHADJAEK_00103	CDS	429	xerA_2		COG0582	Tyrosine recombinase XerA
+GHADJAEK_00104	CDS	558	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GHADJAEK_00105	CDS	1143				hypothetical protein
+GHADJAEK_00106	CDS	1470				hypothetical protein
+GHADJAEK_00107	CDS	747				hypothetical protein
+GHADJAEK_00108	CDS	270				hypothetical protein
+GHADJAEK_00109	CDS	1104		3.4.24.-	COG0517	Zinc metalloprotease
+GHADJAEK_00110	CDS	597				hypothetical protein
+GHADJAEK_00111	CDS	633				hypothetical protein
+GHADJAEK_00112	CDS	1404		2.7.2.4	COG0527	putative aspartokinase
+GHADJAEK_00113	CDS	1011	purM	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+GHADJAEK_00114	CDS	537				hypothetical protein
+GHADJAEK_00115	CDS	747	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+GHADJAEK_00116	CDS	606	cobY	2.7.7.62	COG2266	Adenosylcobinamide-phosphate guanylyltransferase
+GHADJAEK_00117	CDS	498				hypothetical protein
+GHADJAEK_00118	CDS	252				hypothetical protein
+GHADJAEK_00119	CDS	918	truB	5.4.99.25	COG0130	putative tRNA pseudouridine synthase B
+GHADJAEK_00120	CDS	558	cmk	2.7.4.25		Cytidylate kinase
+GHADJAEK_00121	CDS	579	adkA	2.7.4.3	COG2019	Adenylate kinase
+GHADJAEK_00122	CDS	1458	secY		COG0201	Protein translocase subunit SecY
+GHADJAEK_00123	CDS	429			COG0200	50S ribosomal protein L15
+GHADJAEK_00124	CDS	462			COG1841	50S ribosomal protein L30
+GHADJAEK_00125	CDS	618	rps5		COG0098	30S ribosomal protein S5
+GHADJAEK_00126	CDS	591			COG0256	50S ribosomal protein L18
+GHADJAEK_00127	CDS	459			COG2147	50S ribosomal protein L19e
+GHADJAEK_00128	CDS	606				hypothetical protein
+GHADJAEK_00129	CDS	546	rpl6		COG0097	50S ribosomal protein L6
+GHADJAEK_00130	CDS	393	rps8		COG0096	30S ribosomal protein S8
+GHADJAEK_00131	CDS	540	rpl5		COG0094	50S ribosomal protein L5
+GHADJAEK_00132	CDS	672	rps4e		COG1471	30S ribosomal protein S4E
+GHADJAEK_00133	CDS	366			COG0198	50S ribosomal protein L24
+GHADJAEK_00134	CDS	399			COG0093	50S ribosomal protein L14
+GHADJAEK_00135	CDS	321			COG0186	30S ribosomal protein S17
+GHADJAEK_00136	CDS	291	rnp1	3.1.26.5	COG1588	Ribonuclease P protein component 1
+GHADJAEK_00137	CDS	219			COG0255	50S ribosomal protein L29
+GHADJAEK_00138	CDS	666	rps3		COG0092	30S ribosomal protein S3
+GHADJAEK_00139	CDS	471			COG0091	50S ribosomal protein L22
+GHADJAEK_00140	CDS	411			COG0185	30S ribosomal protein S19
+GHADJAEK_00141	CDS	714	rpl2		COG0090	50S ribosomal protein L2
+GHADJAEK_00142	CDS	246			COG0089	50S ribosomal protein L23
+GHADJAEK_00143	CDS	744	rpl4		COG0088	50S ribosomal protein L4
+GHADJAEK_00144	CDS	993	rpl3		COG0087	50S ribosomal protein L3
+GHADJAEK_00145	CDS	798				hypothetical protein
+GHADJAEK_00146	CDS	900	fieF			Ferrous-iron efflux pump FieF
+GHADJAEK_00147	CDS	957		2.4.2.54	COG1907	Beta-ribofuranosylaminobenzene 5'-phosphate synthase
+GHADJAEK_00148	CDS	534	ubiC	4.1.3.40		Chorismate pyruvate-lyase
+GHADJAEK_00149	CDS	366				hypothetical protein
+GHADJAEK_00150	CDS	267				hypothetical protein
+GHADJAEK_00151	CDS	246				hypothetical protein
+GHADJAEK_00152	CDS	324				hypothetical protein
+GHADJAEK_00153	CDS	1038				hypothetical protein
+GHADJAEK_00154	CDS	594				hypothetical protein
+GHADJAEK_00155	CDS	693			COG1136	putative ABC transporter ATP-binding protein
+GHADJAEK_00156	CDS	2904				hypothetical protein
+GHADJAEK_00157	CDS	2298	aglB3	2.4.99.21	COG1287	Dolichyl-phosphooligosaccharide-protein glycotransferase 3
+GHADJAEK_00158	CDS	624				hypothetical protein
+GHADJAEK_00159	CDS	180				hypothetical protein
+GHADJAEK_00160	CDS	462				hypothetical protein
+GHADJAEK_00161	CDS	519	faeA	4.2.1.147	COG1795	5,6,7,8-tetrahydromethanopterin hydro-lyase
+GHADJAEK_00162	CDS	429				hypothetical protein
+GHADJAEK_00163	CDS	864				hypothetical protein
+GHADJAEK_00164	CDS	2583				hypothetical protein
+GHADJAEK_00165	CDS	804	surE1	3.1.3.5	COG0496	5'-nucleotidase SurE1
+GHADJAEK_00166	CDS	1056				hypothetical protein
+GHADJAEK_00167	CDS	297			COG0023	Protein translation factor SUI1 
+GHADJAEK_00168	CDS	429				hypothetical protein
+GHADJAEK_00169	CDS	1725		1.2.7.11		2-oxoacid:ferredoxin oxidoreductase subunit alpha
+GHADJAEK_00170	CDS	861		1.2.7.11	COG1013	2-oxoacid:ferredoxin oxidoreductase 2, subunit beta
+GHADJAEK_00171	CDS	861				hypothetical protein
+GHADJAEK_00172	CDS	414				hypothetical protein
+GHADJAEK_00173	CDS	1596				hypothetical protein
+GHADJAEK_00174	CDS	903				hypothetical protein
+GHADJAEK_00175	CDS	516				hypothetical protein
+GHADJAEK_00176	CDS	1296				hypothetical protein
+GHADJAEK_00177	CDS	201				hypothetical protein
+GHADJAEK_00178	CDS	1350				hypothetical protein
+GHADJAEK_00179	CDS	456				hypothetical protein
+GHADJAEK_00180	CDS	633				hypothetical protein
+GHADJAEK_00181	CDS	678		3.1.3.-	COG1011	Glyceraldehyde 3-phosphate phosphatase
+GHADJAEK_00182	CDS	1113				hypothetical protein
+GHADJAEK_00183	CDS	1458	rnj_1	3.1.-.-		Ribonuclease J
+GHADJAEK_00184	CDS	963				hypothetical protein
+GHADJAEK_00185	CDS	1479				hypothetical protein
+GHADJAEK_00186	CDS	417				hypothetical protein
+GHADJAEK_00187	CDS	702				hypothetical protein
+GHADJAEK_00188	CDS	309				hypothetical protein
+GHADJAEK_00189	CDS	276				hypothetical protein
+GHADJAEK_00190	CDS	267				hypothetical protein
+GHADJAEK_00191	CDS	498				hypothetical protein
+GHADJAEK_00192	CDS	789				hypothetical protein
+GHADJAEK_00193	CDS	507				hypothetical protein
+GHADJAEK_00194	CDS	2862	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+GHADJAEK_00195	CDS	2301				hypothetical protein
+GHADJAEK_00196	CDS	336				hypothetical protein
+GHADJAEK_00197	CDS	4317	recD	3.1.11.5		RecBCD enzyme subunit RecD
+GHADJAEK_00198	CDS	2211				hypothetical protein
+GHADJAEK_00199	CDS	783				hypothetical protein
+GHADJAEK_00200	CDS	558				hypothetical protein
+GHADJAEK_00201	CDS	321				hypothetical protein
+GHADJAEK_00202	CDS	1044				hypothetical protein
+GHADJAEK_00203	CDS	699				hypothetical protein
+GHADJAEK_00204	CDS	399				hypothetical protein
+GHADJAEK_00205	CDS	828	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+GHADJAEK_00206	CDS	222				hypothetical protein
+GHADJAEK_00207	CDS	1272	metZ_1	2.5.1.-		O-succinylhomoserine sulfhydrylase
+GHADJAEK_00208	CDS	1089	metXA_1	2.3.1.31		Homoserine O-acetyltransferase
+GHADJAEK_00209	CDS	609				hypothetical protein
+GHADJAEK_00210	CDS	951	fdhD			Sulfur carrier protein FdhD
+GHADJAEK_00211	CDS	765				hypothetical protein
+GHADJAEK_00212	tRNA	72				tRNA-Cys(gca)
+GHADJAEK_00213	CDS	1854				hypothetical protein
+GHADJAEK_00214	CDS	861				hypothetical protein
+GHADJAEK_00215	CDS	261				hypothetical protein
+GHADJAEK_00216	CDS	234				hypothetical protein
+GHADJAEK_00217	CDS	258				hypothetical protein
+GHADJAEK_00218	CDS	336			COG0347	putative nitrogen regulatory PII-like protein
+GHADJAEK_00219	CDS	462				hypothetical protein
+GHADJAEK_00220	CDS	1254				hypothetical protein
+GHADJAEK_00221	CDS	825				hypothetical protein
+GHADJAEK_00222	CDS	210				hypothetical protein
+GHADJAEK_00223	CDS	111				hypothetical protein
+GHADJAEK_00224	CDS	438	mdoC	2.1.-.-		Glucans biosynthesis protein C
+GHADJAEK_00225	CDS	771				hypothetical protein
+GHADJAEK_00226	CDS	189				hypothetical protein
+GHADJAEK_00227	CDS	327				hypothetical protein
+GHADJAEK_00228	CDS	402				hypothetical protein
+GHADJAEK_00229	CDS	159				hypothetical protein
+GHADJAEK_00230	CDS	357				hypothetical protein
+GHADJAEK_00231	CDS	936	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GHADJAEK_00232	CDS	801				hypothetical protein
+GHADJAEK_00233	CDS	288				hypothetical protein
+GHADJAEK_00234	CDS	1434	potE_1			Putrescine transporter PotE
+GHADJAEK_00235	CDS	633	gph	3.1.3.18		Phosphoglycolate phosphatase
+GHADJAEK_00236	CDS	630				hypothetical protein
+GHADJAEK_00237	CDS	189				hypothetical protein
+GHADJAEK_00238	CDS	318				hypothetical protein
+GHADJAEK_00239	CDS	726				hypothetical protein
+GHADJAEK_00240	CDS	306				hypothetical protein
+GHADJAEK_00241	CDS	540				hypothetical protein
+GHADJAEK_00242	CDS	837	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+GHADJAEK_00243	CDS	1185	mntH			Divalent metal cation transporter MntH
+GHADJAEK_00244	CDS	1248				hypothetical protein
+GHADJAEK_00245	CDS	468	ptr2_1		COG1522	HTH-type transcriptional regulator Ptr2
+GHADJAEK_00246	CDS	162				hypothetical protein
+GHADJAEK_00247	CDS	1320	cbiA_1	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+GHADJAEK_00248	CDS	474	cbiM_1			Cobalt transport protein CbiM
+GHADJAEK_00249	CDS	321				hypothetical protein
+GHADJAEK_00250	CDS	810	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+GHADJAEK_00251	CDS	1326	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GHADJAEK_00252	CDS	327				hypothetical protein
+GHADJAEK_00253	CDS	360				hypothetical protein
+GHADJAEK_00254	CDS	138				hypothetical protein
+GHADJAEK_00255	CDS	522	cbiT	2.1.1.196	COG2242	putative cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+GHADJAEK_00256	CDS	606				hypothetical protein
+GHADJAEK_00257	CDS	702		2.1.1.107	COG0007	S-adenosyl-L-methionine-dependent uroporphyrinogen III methyltransferase
+GHADJAEK_00258	CDS	741				hypothetical protein
+GHADJAEK_00259	CDS	771	cobA	2.1.1.107		Uroporphyrinogen-III C-methyltransferase
+GHADJAEK_00260	CDS	642				hypothetical protein
+GHADJAEK_00261	CDS	1017	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+GHADJAEK_00262	CDS	606				hypothetical protein
+GHADJAEK_00263	CDS	285	mer_1	1.5.98.2	COG2141	5,10-methylenetetrahydromethanopterin reductase
+GHADJAEK_00264	CDS	825	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GHADJAEK_00265	CDS	939	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+GHADJAEK_00266	CDS	435			COG0864	Putative nickel-responsive regulator
+GHADJAEK_00267	CDS	357				hypothetical protein
+GHADJAEK_00268	CDS	717	cbiM_2			Cobalt transport protein CbiM
+GHADJAEK_00269	CDS	165				hypothetical protein
+GHADJAEK_00270	CDS	453				hypothetical protein
+GHADJAEK_00271	CDS	726	mntR			HTH-type transcriptional regulator MntR
+GHADJAEK_00272	CDS	1950			COG0370	Fe(2+) transporter FeoB
+GHADJAEK_00273	CDS	120				hypothetical protein
+GHADJAEK_00274	CDS	633				hypothetical protein
+GHADJAEK_00275	CDS	258				hypothetical protein
+GHADJAEK_00276	CDS	207				hypothetical protein
+GHADJAEK_00277	CDS	1410	mdtG			Multidrug resistance protein MdtG
+GHADJAEK_00278	CDS	840				hypothetical protein
+GHADJAEK_00279	CDS	681				hypothetical protein
+GHADJAEK_00280	CDS	474				hypothetical protein
+GHADJAEK_00281	CDS	810	tam_1	2.1.1.144		Trans-aconitate 2-methyltransferase
+GHADJAEK_00282	CDS	540				hypothetical protein
+GHADJAEK_00283	CDS	216				hypothetical protein
+GHADJAEK_00284	CDS	714				hypothetical protein
+GHADJAEK_00285	CDS	903				hypothetical protein
+GHADJAEK_00286	CDS	1395	potE_2			Putrescine transporter PotE
+GHADJAEK_00287	CDS	690				hypothetical protein
+GHADJAEK_00288	CDS	351				hypothetical protein
+GHADJAEK_00289	CDS	687				hypothetical protein
+GHADJAEK_00290	CDS	444				hypothetical protein
+GHADJAEK_00291	CDS	267				hypothetical protein
+GHADJAEK_00292	CDS	456				hypothetical protein
+GHADJAEK_00293	CDS	651				hypothetical protein
+GHADJAEK_00294	CDS	225				hypothetical protein
+GHADJAEK_00295	CDS	132				hypothetical protein
+GHADJAEK_00296	CDS	450				hypothetical protein
+GHADJAEK_00297	CDS	543			COG1853	putative protein
+GHADJAEK_00298	CDS	567				hypothetical protein
+GHADJAEK_00299	CDS	261				hypothetical protein
+GHADJAEK_00300	CDS	156				hypothetical protein
+GHADJAEK_00301	CDS	2094				hypothetical protein
+GHADJAEK_00302	CDS	996				hypothetical protein
+GHADJAEK_00303	CDS	558				hypothetical protein
+GHADJAEK_00304	CDS	3642				hypothetical protein
+GHADJAEK_00305	CDS	2502				hypothetical protein
+GHADJAEK_00306	CDS	306				hypothetical protein
+GHADJAEK_00307	CDS	555				hypothetical protein
+GHADJAEK_00308	CDS	1383	miaB_1	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+GHADJAEK_00309	CDS	636	sod	1.15.1.1	COG0605	Superoxide dismutase [Fe]
+GHADJAEK_00310	CDS	2736			COG0419	DNA double-strand break repair Rad50 ATPase
+GHADJAEK_00311	CDS	1167		3.1.-.-	COG0420	DNA double-strand break repair protein Mre11
+GHADJAEK_00312	CDS	1290				hypothetical protein
+GHADJAEK_00313	CDS	138				hypothetical protein
+GHADJAEK_00314	CDS	1077				HEAT repeat-containing taxis proteinF
+GHADJAEK_00315	CDS	390				hypothetical protein
+GHADJAEK_00316	CDS	1776				hypothetical protein
+GHADJAEK_00317	CDS	1242	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_00318	CDS	129				hypothetical protein
+GHADJAEK_00319	CDS	372				hypothetical protein
+GHADJAEK_00320	CDS	3474	polC	2.7.7.7	COG1933	DNA polymerase II large subunit
+GHADJAEK_00321	CDS	1110				hypothetical protein
+GHADJAEK_00322	CDS	90				hypothetical protein
+GHADJAEK_00323	CDS	1176	cdc6-2		COG1474	ORC1-type DNA replication protein 2
+GHADJAEK_00324	CDS	408				hypothetical protein
+GHADJAEK_00325	CDS	492				hypothetical protein
+GHADJAEK_00326	CDS	1173	glmU_1		COG1208	Bifunctional protein GlmU
+GHADJAEK_00327	CDS	1224				hypothetical protein
+GHADJAEK_00328	CDS	249				hypothetical protein
+GHADJAEK_00329	CDS	429				hypothetical protein
+GHADJAEK_00330	CDS	198				hypothetical protein
+GHADJAEK_00331	CDS	1104	napF_1			Ferredoxin-type protein NapF
+GHADJAEK_00332	CDS	474				hypothetical protein
+GHADJAEK_00333	CDS	198				hypothetical protein
+GHADJAEK_00334	CDS	420				hypothetical protein
+GHADJAEK_00335	CDS	165				hypothetical protein
+GHADJAEK_00336	CDS	435				hypothetical protein
+GHADJAEK_00337	CDS	1071	mgsA	4.2.3.3		Methylglyoxal synthase
+GHADJAEK_00338	CDS	525				hypothetical protein
+GHADJAEK_00339	CDS	528				hypothetical protein
+GHADJAEK_00340	CDS	390				hypothetical protein
+GHADJAEK_00341	CDS	600				hypothetical protein
+GHADJAEK_00342	CDS	324				hypothetical protein
+GHADJAEK_00343	CDS	192				hypothetical protein
+GHADJAEK_00344	CDS	141				hypothetical protein
+GHADJAEK_00345	CDS	159				hypothetical protein
+GHADJAEK_00346	CDS	195				hypothetical protein
+GHADJAEK_00347	CDS	114				hypothetical protein
+GHADJAEK_00348	CDS	288				hypothetical protein
+GHADJAEK_00349	CDS	528				hypothetical protein
+GHADJAEK_00350	CDS	1452				hypothetical protein
+GHADJAEK_00351	CDS	2238				hypothetical protein
+GHADJAEK_00352	CDS	567				hypothetical protein
+GHADJAEK_00353	CDS	1125		2.4.1.281		4-O-beta-D-mannosyl-D-glucose phosphorylase
+GHADJAEK_00354	CDS	147				hypothetical protein
+GHADJAEK_00355	CDS	108				hypothetical protein
+GHADJAEK_00356	CDS	702				hypothetical protein
+GHADJAEK_00357	CDS	1341				hypothetical protein
+GHADJAEK_00358	CDS	588				hypothetical protein
+GHADJAEK_00359	CDS	996				hypothetical protein
+GHADJAEK_00360	CDS	516				hypothetical protein
+GHADJAEK_00361	CDS	342				hypothetical protein
+GHADJAEK_00362	CDS	267				hypothetical protein
+GHADJAEK_00363	CDS	528				hypothetical protein
+GHADJAEK_00364	CDS	252				hypothetical protein
+GHADJAEK_00365	CDS	303				hypothetical protein
+GHADJAEK_00366	CDS	864		2.5.1.105	COG1237	7,8-dihydropterin-6-methyl-4-(beta-D-ribofuranosyl)-aminobenzene-5'-phosphate synthase
+GHADJAEK_00367	CDS	438				hypothetical protein
+GHADJAEK_00368	CDS	186				hypothetical protein
+GHADJAEK_00369	CDS	525				hypothetical protein
+GHADJAEK_00370	CDS	366				hypothetical protein
+GHADJAEK_00371	CDS	1566	aldhT	1.2.1.26	COG1012	2,5-dioxopentanoate dehydrogenase
+GHADJAEK_00372	CDS	621			COG0794	putative protein
+GHADJAEK_00373	CDS	342				hypothetical protein
+GHADJAEK_00374	CDS	297				hypothetical protein
+GHADJAEK_00375	CDS	429				hypothetical protein
+GHADJAEK_00376	CDS	471				hypothetical protein
+GHADJAEK_00377	CDS	177				hypothetical protein
+GHADJAEK_00378	CDS	1428				hypothetical protein
+GHADJAEK_00379	CDS	1245	bamB_1			Outer membrane protein assembly factor BamB
+GHADJAEK_00380	CDS	300	bamB_2			Outer membrane protein assembly factor BamB
+GHADJAEK_00381	CDS	282	bamB_3			Outer membrane protein assembly factor BamB
+GHADJAEK_00382	CDS	558	bamB_4			Outer membrane protein assembly factor BamB
+GHADJAEK_00383	CDS	1671	ilvD	4.2.1.9		Dihydroxy-acid dehydratase
+GHADJAEK_00384	CDS	1965				hypothetical protein
+GHADJAEK_00385	CDS	1149	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_00386	CDS	1197	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_00387	CDS	1122	treT	2.4.1.245	COG0438	Trehalose synthase
+GHADJAEK_00388	CDS	1197	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_00389	CDS	246				hypothetical protein
+GHADJAEK_00390	CDS	552				hypothetical protein
+GHADJAEK_00391	CDS	516				hypothetical protein
+GHADJAEK_00392	CDS	2178		3.6.4.12	COG1204	ATP-dependent DNA helicase Hel308
+GHADJAEK_00393	CDS	462				hypothetical protein
+GHADJAEK_00394	CDS	564				hypothetical protein
+GHADJAEK_00395	CDS	609				hypothetical protein
+GHADJAEK_00396	CDS	933	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+GHADJAEK_00397	CDS	1281	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+GHADJAEK_00398	CDS	840	dapF	5.1.1.7		Diaminopimelate epimerase
+GHADJAEK_00399	CDS	669	radB		COG0468	DNA repair and recombination protein RadB
+GHADJAEK_00400	CDS	570				hypothetical protein
+GHADJAEK_00401	CDS	1188	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+GHADJAEK_00402	CDS	2217	vat_1		COG0464	VCP-like ATPase
+GHADJAEK_00403	CDS	261				hypothetical protein
+GHADJAEK_00404	CDS	444				hypothetical protein
+GHADJAEK_00405	CDS	300				hypothetical protein
+GHADJAEK_00406	CDS	789				hypothetical protein
+GHADJAEK_00407	CDS	1056	rtc	6.5.1.5	COG0430	RNA 3'-terminal phosphate cyclase
+GHADJAEK_00408	CDS	774				hypothetical protein
+GHADJAEK_00409	CDS	1323		5.4.2.2	COG1109	Phosphoglucomutase/phosphomannomutase
+GHADJAEK_00410	CDS	279				hypothetical protein
+GHADJAEK_00411	CDS	252				hypothetical protein
+GHADJAEK_00412	CDS	2406	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+GHADJAEK_00413	CDS	378				hypothetical protein
+GHADJAEK_00414	CDS	171				hypothetical protein
+GHADJAEK_00415	CDS	441				hypothetical protein
+GHADJAEK_00416	CDS	621	fbiB_1	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+GHADJAEK_00417	CDS	153				hypothetical protein
+GHADJAEK_00418	CDS	543				hypothetical protein
+GHADJAEK_00419	CDS	219				hypothetical protein
+GHADJAEK_00420	CDS	708				hypothetical protein
+GHADJAEK_00421	CDS	285				hypothetical protein
+GHADJAEK_00422	CDS	165				hypothetical protein
+GHADJAEK_00423	CDS	711				hypothetical protein
+GHADJAEK_00424	CDS	1215	fdhB_1	1.17.1.9		Formate dehydrogenase subunit beta
+GHADJAEK_00425	CDS	1989	fdhA	1.17.1.9		Formate dehydrogenase subunit alpha
+GHADJAEK_00426	CDS	1002				hypothetical protein
+GHADJAEK_00427	CDS	264				hypothetical protein
+GHADJAEK_00428	CDS	126				hypothetical protein
+GHADJAEK_00429	CDS	753	rutD	3.5.1.-		Putative aminoacrylate hydrolase RutD
+GHADJAEK_00430	CDS	258				hypothetical protein
+GHADJAEK_00431	CDS	327				hypothetical protein
+GHADJAEK_00432	CDS	876				hypothetical protein
+GHADJAEK_00433	CDS	825				hypothetical protein
+GHADJAEK_00434	CDS	282				hypothetical protein
+GHADJAEK_00435	CDS	828	filR1_2		COG4742	Methanogenesis regulatory protein FilR1
+GHADJAEK_00436	CDS	822				hypothetical protein
+GHADJAEK_00437	CDS	879				hypothetical protein
+GHADJAEK_00438	CDS	852	filR1_3		COG4742	Methanogenesis regulatory protein FilR1
+GHADJAEK_00439	CDS	774				hypothetical protein
+GHADJAEK_00440	CDS	261				hypothetical protein
+GHADJAEK_00441	CDS	744	ubaA	2.7.7.-	COG0476	SAMP-activating enzyme E1
+GHADJAEK_00442	CDS	393				hypothetical protein
+GHADJAEK_00443	CDS	366	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+GHADJAEK_00444	CDS	498	feR	1.16.1.10	COG1853	Ferric-chelate reductase (NAD(P)H)
+GHADJAEK_00445	CDS	1149	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+GHADJAEK_00446	CDS	801	purE_1	5.4.99.18		N5-carboxyaminoimidazole ribonucleotide mutase
+GHADJAEK_00447	CDS	489	scpB			Segregation and condensation protein B
+GHADJAEK_00448	CDS	696	scpA			Segregation and condensation protein A
+GHADJAEK_00449	CDS	3471	smc		COG1196	Chromosome partition protein Smc
+GHADJAEK_00450	CDS	363				hypothetical protein
+GHADJAEK_00451	CDS	1263	aspS	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+GHADJAEK_00452	CDS	1269	hisD	1.1.1.23		Histidinol dehydrogenase
+GHADJAEK_00453	CDS	114				hypothetical protein
+GHADJAEK_00454	CDS	981				hypothetical protein
+GHADJAEK_00455	CDS	948	pqqE_1	1.21.98.4		PqqA peptide cyclase
+GHADJAEK_00456	CDS	609				hypothetical protein
+GHADJAEK_00457	CDS	489				hypothetical protein
+GHADJAEK_00458	CDS	720				hypothetical protein
+GHADJAEK_00459	CDS	192				Ferredoxin
+GHADJAEK_00460	CDS	423				hypothetical protein
+GHADJAEK_00461	tRNA	75				tRNA-Glu(ctc)
+GHADJAEK_00462	CDS	762		3.5.5.1	COG0388	Nitrilase
+GHADJAEK_00463	CDS	879	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate/[LysW]-glutamate kinase
+GHADJAEK_00464	CDS	1224			COG1915	putative protein
+GHADJAEK_00465	CDS	330				hypothetical protein
+GHADJAEK_00466	CDS	1011				hypothetical protein
+GHADJAEK_00467	CDS	894	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+GHADJAEK_00468	CDS	882				hypothetical protein
+GHADJAEK_00469	CDS	681	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+GHADJAEK_00470	CDS	2358				hypothetical protein
+GHADJAEK_00471	CDS	1194	mshA_5	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_00472	CDS	1152				hypothetical protein
+GHADJAEK_00473	CDS	963	gmd_1	4.2.1.47		GDP-mannose 4,6-dehydratase
+GHADJAEK_00474	CDS	423				hypothetical protein
+GHADJAEK_00475	CDS	2334				hypothetical protein
+GHADJAEK_00476	CDS	426				hypothetical protein
+GHADJAEK_00477	CDS	1086				hypothetical protein
+GHADJAEK_00478	CDS	273				hypothetical protein
+GHADJAEK_00479	CDS	1128	mshA_6	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_00480	CDS	2253				hypothetical protein
+GHADJAEK_00481	CDS	174				hypothetical protein
+GHADJAEK_00482	CDS	951				hypothetical protein
+GHADJAEK_00483	CDS	741				hypothetical protein
+GHADJAEK_00484	CDS	1476				hypothetical protein
+GHADJAEK_00485	CDS	978	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+GHADJAEK_00486	CDS	690	glmU_2	2.7.7.23		Bifunctional protein GlmU
+GHADJAEK_00487	CDS	1128	mshA_7	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_00488	CDS	1161	mshA_8	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_00489	CDS	1980				hypothetical protein
+GHADJAEK_00490	CDS	876				hypothetical protein
+GHADJAEK_00491	CDS	1020				hypothetical protein
+GHADJAEK_00492	CDS	945	mshA_9	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_00493	CDS	1257	mshA_10	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_00494	CDS	132				hypothetical protein
+GHADJAEK_00495	CDS	768	glmU_3	2.7.7.23		Bifunctional protein GlmU
+GHADJAEK_00496	CDS	1122	gpdA1	1.1.5.3	COG0578	Anaerobic glycerol-3-phosphate dehydrogenase subunit A1
+GHADJAEK_00497	CDS	1029				hypothetical protein
+GHADJAEK_00498	CDS	1260				hypothetical protein
+GHADJAEK_00499	CDS	984				hypothetical protein
+GHADJAEK_00500	CDS	252				hypothetical protein
+GHADJAEK_00501	CDS	1713				hypothetical protein
+GHADJAEK_00502	CDS	171				hypothetical protein
+GHADJAEK_00503	CDS	1452				hypothetical protein
+GHADJAEK_00504	CDS	666				hypothetical protein
+GHADJAEK_00505	CDS	174				hypothetical protein
+GHADJAEK_00506	CDS	1200				hypothetical protein
+GHADJAEK_00507	CDS	1041				hypothetical protein
+GHADJAEK_00508	CDS	456				hypothetical protein
+GHADJAEK_00509	CDS	468				hypothetical protein
+GHADJAEK_00510	CDS	273				hypothetical protein
+GHADJAEK_00511	CDS	615	rutE_1	1.1.1.298		malonic semialdehyde reductase RutE
+GHADJAEK_00512	CDS	363	fprA_1	1.-.-.-	COG0426	Type A flavoprotein FprA
+GHADJAEK_00513	CDS	828	fprA_2	1.-.-.-	COG0426	Type A flavoprotein FprA
+GHADJAEK_00514	CDS	1044	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+GHADJAEK_00515	CDS	270				hypothetical protein
+GHADJAEK_00516	CDS	1158	frsA_1	3.1.-.-		Esterase FrsA
+GHADJAEK_00517	CDS	138				hypothetical protein
+GHADJAEK_00518	CDS	1128				hypothetical protein
+GHADJAEK_00519	CDS	327				hypothetical protein
+GHADJAEK_00520	CDS	483				hypothetical protein
+GHADJAEK_00521	CDS	303				hypothetical protein
+GHADJAEK_00522	CDS	495				hypothetical protein
+GHADJAEK_00523	CDS	1464	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+GHADJAEK_00524	CDS	696				hypothetical protein
+GHADJAEK_00525	CDS	1194				hypothetical protein
+GHADJAEK_00526	CDS	1023	btuD_6	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GHADJAEK_00527	CDS	273				hypothetical protein
+GHADJAEK_00528	CDS	660				hypothetical protein
+GHADJAEK_00529	CDS	258				hypothetical protein
+GHADJAEK_00530	CDS	738				hypothetical protein
+GHADJAEK_00531	CDS	579				hypothetical protein
+GHADJAEK_00532	CDS	666			COG0655	Iron-sulfur flavoprotein
+GHADJAEK_00533	CDS	159				hypothetical protein
+GHADJAEK_00534	CDS	342				hypothetical protein
+GHADJAEK_00535	CDS	225				hypothetical protein
+GHADJAEK_00536	CDS	693	lon	3.4.21.53		Lon protease
+GHADJAEK_00537	CDS	456				hypothetical protein
+GHADJAEK_00538	CDS	507				hypothetical protein
+GHADJAEK_00539	CDS	1545	katG2	1.11.1.21	COG0376	Catalase-peroxidase 2
+GHADJAEK_00540	CDS	444				hypothetical protein
+GHADJAEK_00541	CDS	732				hypothetical protein
+GHADJAEK_00542	CDS	267				hypothetical protein
+GHADJAEK_00543	CDS	555	bamB_5			Outer membrane protein assembly factor BamB
+GHADJAEK_00544	CDS	165				hypothetical protein
+GHADJAEK_00545	CDS	402				hypothetical protein
+GHADJAEK_00546	CDS	2211				hypothetical protein
+GHADJAEK_00547	CDS	747				hypothetical protein
+GHADJAEK_00548	CDS	381				hypothetical protein
+GHADJAEK_00549	CDS	777				hypothetical protein
+GHADJAEK_00550	CDS	498	rhaD_1	1.1.1.377	COG1028	L-rhamnose 1-dehydrogenase (NADP(+))
+GHADJAEK_00551	CDS	1140	pqqE_2	1.21.98.4		PqqA peptide cyclase
+GHADJAEK_00552	CDS	978	pqqE_3	1.21.98.4		PqqA peptide cyclase
+GHADJAEK_00553	CDS	456				hypothetical protein
+GHADJAEK_00554	CDS	483				hypothetical protein
+GHADJAEK_00555	CDS	174				hypothetical protein
+GHADJAEK_00556	CDS	336				hypothetical protein
+GHADJAEK_00557	CDS	387				hypothetical protein
+GHADJAEK_00558	CDS	615				hypothetical protein
+GHADJAEK_00559	CDS	855	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+GHADJAEK_00560	CDS	405	nudF	3.6.1.13	COG1051	ADP-ribose pyrophosphatase
+GHADJAEK_00561	CDS	1182	sufS	2.8.1.7	COG0520	Cysteine desulfurase
+GHADJAEK_00562	CDS	813				hypothetical protein
+GHADJAEK_00563	CDS	795	nadX	1.4.1.21	COG1712	putative L-aspartate dehydrogenase
+GHADJAEK_00564	CDS	831		2.5.1.42	COG0382	Digeranylgeranylglyceryl phosphate synthase
+GHADJAEK_00565	CDS	441				hypothetical protein
+GHADJAEK_00566	CDS	2031				hypothetical protein
+GHADJAEK_00567	CDS	306				hypothetical protein
+GHADJAEK_00568	CDS	306				hypothetical protein
+GHADJAEK_00569	CDS	384				hypothetical protein
+GHADJAEK_00570	CDS	135				hypothetical protein
+GHADJAEK_00571	CDS	384			COG1853	Protein MTH_152
+GHADJAEK_00572	CDS	345				hypothetical protein
+GHADJAEK_00573	CDS	228				hypothetical protein
+GHADJAEK_00574	CDS	1206	frsA_2	3.1.-.-		Esterase FrsA
+GHADJAEK_00575	CDS	642				hypothetical protein
+GHADJAEK_00576	CDS	198				hypothetical protein
+GHADJAEK_00577	CDS	411	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+GHADJAEK_00578	CDS	1470	mdtD_2			Putative multidrug resistance protein MdtD
+GHADJAEK_00579	CDS	594	fbiB_2	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+GHADJAEK_00580	CDS	177				hypothetical protein
+GHADJAEK_00581	CDS	444				hypothetical protein
+GHADJAEK_00582	CDS	666				hypothetical protein
+GHADJAEK_00583	CDS	441				hypothetical protein
+GHADJAEK_00584	CDS	1020	adh_1	1.1.1.1	COG1064	NAD-dependent alcohol dehydrogenase
+GHADJAEK_00585	CDS	786	tam_2	2.1.1.144		Trans-aconitate 2-methyltransferase
+GHADJAEK_00586	CDS	351				hypothetical protein
+GHADJAEK_00587	CDS	609				hypothetical protein
+GHADJAEK_00588	CDS	228				hypothetical protein
+GHADJAEK_00589	CDS	183				hypothetical protein
+GHADJAEK_00590	CDS	162				hypothetical protein
+GHADJAEK_00591	CDS	180				hypothetical protein
+GHADJAEK_00592	CDS	192				hypothetical protein
+GHADJAEK_00593	CDS	432				hypothetical protein
+GHADJAEK_00594	CDS	468				hypothetical protein
+GHADJAEK_00595	CDS	576				hypothetical protein
+GHADJAEK_00596	CDS	1734	acsA_1	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+GHADJAEK_00597	CDS	768				hypothetical protein
+GHADJAEK_00598	CDS	234			COG1958	Putative snRNP Sm-like protein
+GHADJAEK_00599	CDS	471				hypothetical protein
+GHADJAEK_00600	CDS	339			COG0347	putative nitrogen regulatory PII-like protein
+GHADJAEK_00601	CDS	1221			COG0004	Putative ammonium transporter
+GHADJAEK_00602	CDS	363				hypothetical protein
+GHADJAEK_00603	CDS	291				hypothetical protein
+GHADJAEK_00604	CDS	489				hypothetical protein
+GHADJAEK_00605	CDS	399				hypothetical protein
+GHADJAEK_00606	CDS	1236	fni_1	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+GHADJAEK_00607	CDS	1638	iolD_2	3.7.1.22		3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+GHADJAEK_00608	CDS	273	yccX	3.6.1.7		Acylphosphatase
+GHADJAEK_00609	CDS	696	queC	6.3.4.20		7-cyano-7-deazaguanine synthase
+GHADJAEK_00610	CDS	114				hypothetical protein
+GHADJAEK_00611	CDS	684	aglD_1	2.4.1.-	COG0392	Glycosyltransferase AglD
+GHADJAEK_00612	CDS	1779				hypothetical protein
+GHADJAEK_00613	CDS	1179	iscS2_1	2.8.1.7	COG1104	Cysteine desulfurase IscS 2
+GHADJAEK_00614	CDS	1092	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+GHADJAEK_00615	CDS	342				hypothetical protein
+GHADJAEK_00616	CDS	297				hypothetical protein
+GHADJAEK_00617	CDS	813				hypothetical protein
+GHADJAEK_00618	CDS	246				hypothetical protein
+GHADJAEK_00619	CDS	1077				hypothetical protein
+GHADJAEK_00620	CDS	957				hypothetical protein
+GHADJAEK_00621	CDS	207				hypothetical protein
+GHADJAEK_00622	CDS	864	nadE_1	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+GHADJAEK_00623	CDS	993				hypothetical protein
+GHADJAEK_00624	CDS	642				hypothetical protein
+GHADJAEK_00625	CDS	1032	thiL_1	2.7.4.16		Thiamine-monophosphate kinase
+GHADJAEK_00626	CDS	621	thiDN_1		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+GHADJAEK_00627	CDS	609				hypothetical protein
+GHADJAEK_00628	CDS	612				hypothetical protein
+GHADJAEK_00629	CDS	321				hypothetical protein
+GHADJAEK_00630	CDS	855	cfbC	6.3.3.7	COG1348	Ni-sirohydrochlorin a,c-diamide reductive cyclase complex, component CfbC
+GHADJAEK_00631	CDS	798				hypothetical protein
+GHADJAEK_00632	CDS	702				hypothetical protein
+GHADJAEK_00633	CDS	189				hypothetical protein
+GHADJAEK_00634	CDS	243				hypothetical protein
+GHADJAEK_00635	CDS	546				hypothetical protein
+GHADJAEK_00636	CDS	333				hypothetical protein
+GHADJAEK_00637	CDS	219				hypothetical protein
+GHADJAEK_00638	CDS	225				hypothetical protein
+GHADJAEK_00639	CDS	1773	bamB_6			Outer membrane protein assembly factor BamB
+GHADJAEK_00640	CDS	1218				hypothetical protein
+GHADJAEK_00641	CDS	240				hypothetical protein
+GHADJAEK_00642	CDS	189				hypothetical protein
+GHADJAEK_00643	CDS	243				hypothetical protein
+GHADJAEK_00644	CDS	495				hypothetical protein
+GHADJAEK_00645	CDS	762				hypothetical protein
+GHADJAEK_00646	CDS	663				hypothetical protein
+GHADJAEK_00647	CDS	582				hypothetical protein
+GHADJAEK_00648	CDS	903				hypothetical protein
+GHADJAEK_00649	CDS	567				hypothetical protein
+GHADJAEK_00650	CDS	1242				hypothetical protein
+GHADJAEK_00651	CDS	573				hypothetical protein
+GHADJAEK_00652	CDS	240				hypothetical protein
+GHADJAEK_00653	CDS	438	mtrH	2.1.1.86	COG1962	Tetrahydromethanopterin S-methyltransferase subunit H
+GHADJAEK_00654	CDS	654			COG1878	putative protein
+GHADJAEK_00655	CDS	303				hypothetical protein
+GHADJAEK_00656	CDS	264				hypothetical protein
+GHADJAEK_00657	CDS	351				hypothetical protein
+GHADJAEK_00658	CDS	1218				hypothetical protein
+GHADJAEK_00659	CDS	669				hypothetical protein
+GHADJAEK_00660	CDS	513				hypothetical protein
+GHADJAEK_00661	CDS	915				hypothetical protein
+GHADJAEK_00662	CDS	213				hypothetical protein
+GHADJAEK_00663	CDS	330				hypothetical protein
+GHADJAEK_00664	CDS	189				hypothetical protein
+GHADJAEK_00665	CDS	855	nfo	3.1.21.2		endonuclease 4
+GHADJAEK_00666	CDS	270	albA		COG1581	DNA/RNA-binding protein Alba
+GHADJAEK_00667	CDS	906		2.7.1.213	COG0524	Nucleoside kinase
+GHADJAEK_00668	CDS	750	hydG	1.12.98.4	COG0543	Sulfhydrogenase 1 subunit gamma
+GHADJAEK_00669	CDS	762	kdaD	4.2.1.141	COG3970	2-dehydro-3-deoxy-D-arabinonate dehydratase
+GHADJAEK_00670	CDS	2670	ileS_1	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+GHADJAEK_00671	CDS	777				hypothetical protein
+GHADJAEK_00672	CDS	1320	trpB1	4.2.1.20	COG1350	Tryptophan synthase beta chain 1
+GHADJAEK_00673	CDS	465				hypothetical protein
+GHADJAEK_00674	CDS	1155				hypothetical protein
+GHADJAEK_00675	CDS	234				hypothetical protein
+GHADJAEK_00676	CDS	1275	mshA_11	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_00677	CDS	363				hypothetical protein
+GHADJAEK_00678	CDS	1374		3.5.1.4	COG0154	Amidase
+GHADJAEK_00679	CDS	267	GATC	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit C, chloroplastic/mitochondrial
+GHADJAEK_00680	CDS	1320	purF_1	2.4.2.14		Amidophosphoribosyltransferase
+GHADJAEK_00681	CDS	1344	argH_1	4.3.2.1		Argininosuccinate lyase
+GHADJAEK_00682	CDS	1218	apgM1_1	5.4.2.12	COG3635	2,3-bisphosphoglycerate-independent phosphoglycerate mutase 1
+GHADJAEK_00683	CDS	585	rps3ae		COG1890	30S ribosomal protein S3Ae
+GHADJAEK_00684	CDS	1509	serS2	6.1.1.11	COG0172	Type-2 serine--tRNA ligase
+GHADJAEK_00685	CDS	867				hypothetical protein
+GHADJAEK_00686	CDS	717	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+GHADJAEK_00687	CDS	1176				hypothetical protein
+GHADJAEK_00688	CDS	963				hypothetical protein
+GHADJAEK_00689	CDS	570				hypothetical protein
+GHADJAEK_00690	CDS	648	rraA			Regulator of ribonuclease activity A
+GHADJAEK_00691	CDS	654	tpiA	5.3.1.1		Triosephosphate isomerase
+GHADJAEK_00692	CDS	1245	faeB-hpsB		COG0269	Bifunctional enzyme Fae/Hps
+GHADJAEK_00693	CDS	1005	mshA_12	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_00694	CDS	2139	purL	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurL
+GHADJAEK_00695	CDS	309				hypothetical protein
+GHADJAEK_00696	CDS	321				hypothetical protein
+GHADJAEK_00697	CDS	1029			COG0244	50S ribosomal protein L10
+GHADJAEK_00698	CDS	642	rpl1			50S ribosomal protein L1
+GHADJAEK_00699	CDS	474			COG0080	50S ribosomal protein L11
+GHADJAEK_00700	CDS	480	spt5		COG0250	Transcription elongation factor Spt5
+GHADJAEK_00701	CDS	447				hypothetical protein
+GHADJAEK_00702	CDS	1110	ftsZ1_1		COG0206	Cell division protein FtsZ 1
+GHADJAEK_00703	CDS	1401				hypothetical protein
+GHADJAEK_00704	CDS	402				hypothetical protein
+GHADJAEK_00705	tRNA	76				tRNA-Met(cat)
+GHADJAEK_00706	CDS	285	resA_1			Thiol-disulfide oxidoreductase ResA
+GHADJAEK_00707	CDS	483				hypothetical protein
+GHADJAEK_00708	CDS	546	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+GHADJAEK_00709	CDS	1806	iorA_1	1.2.7.8	COG4231	Indolepyruvate oxidoreductase subunit IorA
+GHADJAEK_00710	CDS	573	iorB	1.2.7.8	COG1014	Indolepyruvate oxidoreductase subunit IorB
+GHADJAEK_00711	CDS	1362	ycf3			Photosystem I assembly protein Ycf3
+GHADJAEK_00712	CDS	1308		2.6.1.57		Aromatic-amino-acid aminotransferase 2
+GHADJAEK_00713	CDS	1239	mshA_13	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_00714	CDS	612	nfi	3.1.21.7	COG1515	Endonuclease V
+GHADJAEK_00715	CDS	213	hpkA_1		COG2036	Archaeal histone A
+GHADJAEK_00716	CDS	510				hypothetical protein
+GHADJAEK_00717	CDS	762	rnz_1	3.1.26.11	COG1234	Ribonuclease Z
+GHADJAEK_00718	CDS	444				hypothetical protein
+GHADJAEK_00719	CDS	381				hypothetical protein
+GHADJAEK_00720	CDS	147				hypothetical protein
+GHADJAEK_00721	CDS	210				hypothetical protein
+GHADJAEK_00722	CDS	480				hypothetical protein
+GHADJAEK_00723	CDS	222				hypothetical protein
+GHADJAEK_00724	CDS	297				hypothetical protein
+GHADJAEK_00725	CDS	435				hypothetical protein
+GHADJAEK_00726	CDS	345				hypothetical protein
+GHADJAEK_00727	CDS	180				hypothetical protein
+GHADJAEK_00728	CDS	306				hypothetical protein
+GHADJAEK_00729	CDS	447				hypothetical protein
+GHADJAEK_00730	CDS	372				hypothetical protein
+GHADJAEK_00731	CDS	198				hypothetical protein
+GHADJAEK_00732	CDS	414				hypothetical protein
+GHADJAEK_00733	CDS	447				hypothetical protein
+GHADJAEK_00734	CDS	234				hypothetical protein
+GHADJAEK_00735	CDS	372				hypothetical protein
+GHADJAEK_00736	CDS	129				hypothetical protein
+GHADJAEK_00737	CDS	435				hypothetical protein
+GHADJAEK_00738	CDS	189				hypothetical protein
+GHADJAEK_00739	CDS	765	ku			Non-homologous end joining protein Ku
+GHADJAEK_00740	CDS	876	lig_1	6.5.1.1	COG1793	DNA ligase
+GHADJAEK_00741	CDS	1341				hypothetical protein
+GHADJAEK_00742	CDS	264				hypothetical protein
+GHADJAEK_00743	CDS	450				hypothetical protein
+GHADJAEK_00744	CDS	417	arsC_1	1.20.4.4		Arsenate reductase
+GHADJAEK_00745	CDS	270				hypothetical protein
+GHADJAEK_00746	CDS	765	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GHADJAEK_00747	CDS	594				hypothetical protein
+GHADJAEK_00748	CDS	291				hypothetical protein
+GHADJAEK_00749	CDS	1050	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+GHADJAEK_00750	CDS	213				hypothetical protein
+GHADJAEK_00751	CDS	429				hypothetical protein
+GHADJAEK_00752	tmRNA	257	ssrA			transfer-messenger RNA, SsrA
+GHADJAEK_00753	tRNA	74				tRNA-Val(tac)
+GHADJAEK_00754	CDS	261				hypothetical protein
+GHADJAEK_00755	CDS	204				hypothetical protein
+GHADJAEK_00756	CDS	393				hypothetical protein
+GHADJAEK_00757	CDS	267				hypothetical protein
+GHADJAEK_00758	CDS	186				hypothetical protein
+GHADJAEK_00759	CDS	1755				hypothetical protein
+GHADJAEK_00760	CDS	270				hypothetical protein
+GHADJAEK_00761	CDS	1446	resA_2			Thiol-disulfide oxidoreductase ResA
+GHADJAEK_00762	CDS	303				hypothetical protein
+GHADJAEK_00763	CDS	192				hypothetical protein
+GHADJAEK_00764	CDS	366				hypothetical protein
+GHADJAEK_00765	CDS	243				hypothetical protein
+GHADJAEK_00766	CDS	645				hypothetical protein
+GHADJAEK_00767	CDS	438				hypothetical protein
+GHADJAEK_00768	CDS	264				hypothetical protein
+GHADJAEK_00769	CDS	372				hypothetical protein
+GHADJAEK_00770	CDS	186				hypothetical protein
+GHADJAEK_00771	CDS	921				hypothetical protein
+GHADJAEK_00772	CDS	210				hypothetical protein
+GHADJAEK_00773	CDS	663				hypothetical protein
+GHADJAEK_00774	CDS	822				hypothetical protein
+GHADJAEK_00775	CDS	1686				hypothetical protein
+GHADJAEK_00776	CDS	270				hypothetical protein
+GHADJAEK_00777	CDS	1035				hypothetical protein
+GHADJAEK_00778	CDS	801	hdrB1	1.8.7.3	COG2048	Ferredoxin:CoB-CoM heterodisulfide reductase subunit B
+GHADJAEK_00779	CDS	591	hdrC1	1.8.7.3	COG1150	Ferredoxin:CoB-CoM heterodisulfide reductase subunit C
+GHADJAEK_00780	CDS	1293		2.5.1.76	COG0498	Cysteate synthase
+GHADJAEK_00781	CDS	1158	comDE	4.1.1.79	COG0028	Sulfopyruvate decarboxylase
+GHADJAEK_00782	CDS	240			COG0425	Putative sulfur carrier protein/Ta1414
+GHADJAEK_00783	CDS	363				hypothetical protein
+GHADJAEK_00784	CDS	1167	iscS2_2	2.8.1.7	COG1104	Cysteine desulfurase IscS 2
+GHADJAEK_00785	CDS	795				hypothetical protein
+GHADJAEK_00786	CDS	1653	clpX			ATP-dependent Clp protease ATP-binding subunit ClpX
+GHADJAEK_00787	CDS	699				hypothetical protein
+GHADJAEK_00788	CDS	342				hypothetical protein
+GHADJAEK_00789	CDS	408	nth_1	4.2.99.18		Endonuclease III
+GHADJAEK_00790	CDS	1905	rnj_2	3.1.-.-		Ribonuclease J
+GHADJAEK_00791	CDS	636	psmB	3.4.25.1	COG0638	Proteasome subunit beta
+GHADJAEK_00792	CDS	423				hypothetical protein
+GHADJAEK_00793	CDS	642				hypothetical protein
+GHADJAEK_00794	CDS	723	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+GHADJAEK_00795	CDS	1005	fen	3.1.-.-	COG0258	Flap endonuclease 1
+GHADJAEK_00796	CDS	903				hypothetical protein
+GHADJAEK_00797	CDS	972	obg_1	3.6.5.-		GTPase Obg
+GHADJAEK_00798	CDS	885				hypothetical protein
+GHADJAEK_00799	CDS	789	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+GHADJAEK_00800	CDS	1029				hypothetical protein
+GHADJAEK_00801	CDS	1383	cca	2.7.7.72	COG1746	CCA-adding enzyme
+GHADJAEK_00802	CDS	570		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+GHADJAEK_00803	CDS	1062	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+GHADJAEK_00804	CDS	744	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+GHADJAEK_00805	CDS	957				hypothetical protein
+GHADJAEK_00806	CDS	741			COG1082	putative protein
+GHADJAEK_00807	CDS	906	rnz_2	3.1.26.11	COG1234	Ribonuclease Z
+GHADJAEK_00808	CDS	270				hypothetical protein
+GHADJAEK_00809	CDS	849				hypothetical protein
+GHADJAEK_00810	CDS	219				hypothetical protein
+GHADJAEK_00811	CDS	135				hypothetical protein
+GHADJAEK_00812	CDS	825				hypothetical protein
+GHADJAEK_00813	CDS	450	ptr2_2		COG1522	HTH-type transcriptional regulator Ptr2
+GHADJAEK_00814	CDS	408				hypothetical protein
+GHADJAEK_00815	CDS	345				hypothetical protein
+GHADJAEK_00816	CDS	852				hypothetical protein
+GHADJAEK_00817	CDS	879	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+GHADJAEK_00818	CDS	279				hypothetical protein
+GHADJAEK_00819	CDS	267			COG0051	30S ribosomal protein S10
+GHADJAEK_00820	CDS	1266	tuf_1		COG5256	Elongation factor 1-alpha
+GHADJAEK_00821	CDS	2190	fusA		COG0480	Elongation factor 2
+GHADJAEK_00822	CDS	573	rps7		COG0049	30S ribosomal protein S7
+GHADJAEK_00823	CDS	429			COG0048	30S ribosomal protein S12
+GHADJAEK_00824	CDS	432	nusA			Transcription termination/antitermination protein NusA
+GHADJAEK_00825	CDS	315			COG1911	50S ribosomal protein L30e
+GHADJAEK_00826	CDS	1131	rpoA2	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit A''
+GHADJAEK_00827	CDS	2658	rpoA1	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit A'
+GHADJAEK_00828	CDS	1818	rpoB1	2.7.7.6		DNA-directed RNA polymerase subunit B'
+GHADJAEK_00829	CDS	1566	rpoB2	2.7.7.6		DNA-directed RNA polymerase subunit B''
+GHADJAEK_00830	CDS	249	rpoH	2.7.7.6	COG2012	DNA-directed RNA polymerase subunit H
+GHADJAEK_00831	tRNA	93				tRNA-Lys(ttt)
+GHADJAEK_00832	CDS	1116	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+GHADJAEK_00833	CDS	177				hypothetical protein
+GHADJAEK_00834	CDS	1008	rfcS_1		COG0470	Replication factor C small subunit
+GHADJAEK_00835	CDS	384	rps8e		COG2007	30S ribosomal protein S8e
+GHADJAEK_00836	CDS	684	hypB		COG0378	putative hydrogenase maturation factor HypB
+GHADJAEK_00837	CDS	297			COG1400	Signal recognition particle 19 kDa protein
+GHADJAEK_00838	CDS	639				hypothetical protein
+GHADJAEK_00839	CDS	999				hypothetical protein
+GHADJAEK_00840	tRNA	85				tRNA-Ala(cgc)
+GHADJAEK_00841	CDS	984				hypothetical protein
+GHADJAEK_00842	CDS	579	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+GHADJAEK_00843	CDS	552				hypothetical protein
+GHADJAEK_00844	CDS	459	rssB			Regulator of RpoS
+GHADJAEK_00845	CDS	1080	purF_2	2.4.2.14		Amidophosphoribosyltransferase
+GHADJAEK_00846	CDS	1509	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+GHADJAEK_00847	CDS	741				hypothetical protein
+GHADJAEK_00848	CDS	1068	fsr	1.8.98.3	COG1035	Coenzyme F420-dependent sulfite reductase
+GHADJAEK_00849	CDS	801			COG1082	putative protein
+GHADJAEK_00850	CDS	573				hypothetical protein
+GHADJAEK_00851	CDS	930				hypothetical protein
+GHADJAEK_00852	CDS	198				hypothetical protein
+GHADJAEK_00853	CDS	567			COG2078	Protein
+GHADJAEK_00854	CDS	1221	pyrC			Dihydroorotase
+GHADJAEK_00855	CDS	1125	top6A	5.6.2.2	COG1697	Type 2 DNA topoisomerase 6 subunit A
+GHADJAEK_00856	CDS	1866	top6B	5.6.2.2	COG1389	Type 2 DNA topoisomerase 6 subunit B
+GHADJAEK_00857	CDS	213				hypothetical protein
+GHADJAEK_00858	tRNA	83				tRNA-Leu(caa)
+GHADJAEK_00859	CDS	438			COG1310	putative metalloprotease
+GHADJAEK_00860	CDS	426	ribL	2.7.7.2	COG0615	FAD synthase
+GHADJAEK_00861	CDS	1179		2.6.1.57		Aromatic-amino-acid aminotransferase 2
+GHADJAEK_00862	CDS	423	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+GHADJAEK_00863	CDS	456	ribC	2.5.1.9	COG1731	Riboflavin synthase
+GHADJAEK_00864	CDS	1149	phnW	2.6.1.37		2-aminoethylphosphonate--pyruvate transaminase
+GHADJAEK_00865	CDS	408	purE_2	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+GHADJAEK_00866	CDS	1395	thiC_1	4.1.99.17		Phosphomethylpyrimidine synthase
+GHADJAEK_00867	CDS	618	gloB_3	3.1.2.6		Hydroxyacylglutathione hydrolase
+GHADJAEK_00868	CDS	603				hypothetical protein
+GHADJAEK_00869	CDS	951	metE_1	2.1.1.-	COG0620	Methionine synthase
+GHADJAEK_00870	CDS	822	taw2	2.5.1.114	COG2520	tRNA(Phe) (4-demethylwyosine(37)-C(7)) aminocarboxypropyltransferase
+GHADJAEK_00871	CDS	1023				hypothetical protein
+GHADJAEK_00872	CDS	327				hypothetical protein
+GHADJAEK_00873	CDS	2064	MCM	3.6.4.12	COG1241	Minichromosome maintenance protein MCM
+GHADJAEK_00874	CDS	282	mptD	4.1.2.25	COG2098	Dihydroneopterin aldolase
+GHADJAEK_00875	CDS	663				hypothetical protein
+GHADJAEK_00876	CDS	588	asd_2	4.1.1.-	COG0688	Putative archaetidylserine decarboxylase proenzyme
+GHADJAEK_00877	CDS	789	artA	3.4.22.-	COG4083	Archaeosortase A
+GHADJAEK_00878	CDS	687	trmJ	2.1.1.-	COG0565	tRNA (cytidine-2'-O-)-methyltransferase TrmJ
+GHADJAEK_00879	CDS	855	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+GHADJAEK_00880	CDS	687	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+GHADJAEK_00881	CDS	453				hypothetical protein
+GHADJAEK_00882	CDS	750		6.3.2.36	COG1701	4-phosphopantoate--beta-alanine ligase
+GHADJAEK_00883	CDS	1137	nreA		COG1602	DNA repair protein NreA
+GHADJAEK_00884	CDS	1101	gap	1.2.1.59	COG0057	Glyceraldehyde-3-phosphate dehydrogenase
+GHADJAEK_00885	CDS	795				hypothetical protein
+GHADJAEK_00886	CDS	861				hypothetical protein
+GHADJAEK_00887	CDS	1173	metZ_2	2.5.1.-		O-succinylhomoserine sulfhydrylase
+GHADJAEK_00888	CDS	1500	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+GHADJAEK_00889	CDS	312	cutA		COG1324	Divalent-cation tolerance protein CutA
+GHADJAEK_00890	CDS	1287				hypothetical protein
+GHADJAEK_00891	CDS	696	ribB	4.1.99.12	COG0108	3,4-dihydroxy-2-butanone 4-phosphate synthase
+GHADJAEK_00892	CDS	798				hypothetical protein
+GHADJAEK_00893	CDS	1593	sepS	6.1.1.27	COG2024	O-phosphoserine--tRNA(Cys) ligase
+GHADJAEK_00894	CDS	1008				hypothetical protein
+GHADJAEK_00895	CDS	342				hypothetical protein
+GHADJAEK_00896	CDS	945	uppS_1	2.5.1.89		Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+GHADJAEK_00897	CDS	594	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+GHADJAEK_00898	CDS	1068	ccsA			Cytochrome c biogenesis protein CcsA
+GHADJAEK_00899	CDS	972	ccs1			Cytochrome c biogenesis protein Ccs1
+GHADJAEK_00900	CDS	639	uppS_2	2.5.1.89	COG0020	Tritrans,polycis-undecaprenyl-diphosphate synthase (GGDP specific)
+GHADJAEK_00901	CDS	1296				hypothetical protein
+GHADJAEK_00902	CDS	777				hypothetical protein
+GHADJAEK_00903	CDS	1761	btuD_7	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GHADJAEK_00904	CDS	369				hypothetical protein
+GHADJAEK_00905	CDS	1986				hypothetical protein
+GHADJAEK_00906	CDS	375	rpl7ae		COG1358	50S ribosomal protein L7Ae
+GHADJAEK_00907	CDS	216			COG2053	30S ribosomal protein S28e
+GHADJAEK_00908	CDS	462	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+GHADJAEK_00909	CDS	549	guaAA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing] subunit A
+GHADJAEK_00910	CDS	234				hypothetical protein
+GHADJAEK_00911	CDS	972				hypothetical protein
+GHADJAEK_00912	CDS	285				hypothetical protein
+GHADJAEK_00913	CDS	849	aroK	2.7.1.71	COG1685	Shikimate kinase
+GHADJAEK_00914	CDS	468	moaC	4.6.1.17	COG0315	putative cyclic pyranopterin monophosphate synthase
+GHADJAEK_00915	CDS	552		3.5.1.124	COG0693	Deglycase
+GHADJAEK_00916	CDS	1443	cbiA_2	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+GHADJAEK_00917	CDS	1155	cfbD	6.3.3.7	COG2710	Ni-sirohydrochlorin a,c-diamide reductive cyclase complex, component CfbD
+GHADJAEK_00918	CDS	1311	cfbE	6.4.1.9	COG0770	Coenzyme F(430) synthetase
+GHADJAEK_00919	CDS	393	cbiX	4.99.1.3	COG2138	Sirohydrochlorin cobaltochelatase
+GHADJAEK_00920	CDS	672				hypothetical protein
+GHADJAEK_00921	CDS	714	mfnB	4.2.3.153	COG1891	(5-formylfuran-3-yl)methyl phosphate synthase
+GHADJAEK_00922	CDS	1323	mcrB	2.8.4.1	COG4054	Methyl-coenzyme M reductase subunit beta
+GHADJAEK_00923	CDS	486	mrtD		COG4055	Methyl-coenzyme M reductase II operon protein D
+GHADJAEK_00924	CDS	630	mcrC		COG4056	Methyl-coenzyme M reductase I operon protein C
+GHADJAEK_00925	CDS	750	mcrG	2.8.4.1	COG4057	Methyl-coenzyme M reductase I subunit gamma
+GHADJAEK_00926	CDS	1677	mcrA	2.8.4.1	COG4058	Methyl-coenzyme M reductase subunit alpha
+GHADJAEK_00927	CDS	186				hypothetical protein
+GHADJAEK_00928	CDS	330				hypothetical protein
+GHADJAEK_00929	CDS	1164	pqqE_4	1.21.98.4		PqqA peptide cyclase
+GHADJAEK_00930	CDS	159				hypothetical protein
+GHADJAEK_00931	CDS	306				hypothetical protein
+GHADJAEK_00932	CDS	219				hypothetical protein
+GHADJAEK_00933	CDS	504			COG4090	putative protein MTH_862
+GHADJAEK_00934	CDS	1095	cofH	2.5.1.147	COG1060	5-amino-6-(D-ribitylamino)uracil--L-tyrosine 4-hydroxyphenyl transferase
+GHADJAEK_00935	CDS	900	mtrE	2.1.1.86	COG4059	Tetrahydromethanopterin S-methyltransferase subunit E
+GHADJAEK_00936	CDS	741	mtrD	2.1.1.86	COG4060	Tetrahydromethanopterin S-methyltransferase subunit D
+GHADJAEK_00937	CDS	810	mtrC	2.1.1.86	COG4061	Tetrahydromethanopterin S-methyltransferase subunit C
+GHADJAEK_00938	CDS	318	mtrB	2.1.1.86	COG4062	Tetrahydromethanopterin S-methyltransferase subunit B
+GHADJAEK_00939	CDS	711	mtrA1	2.1.1.86	COG4063	Tetrahydromethanopterin S-methyltransferase subunit A 1
+GHADJAEK_00940	CDS	291				hypothetical protein
+GHADJAEK_00941	CDS	237				hypothetical protein
+GHADJAEK_00942	CDS	576				hypothetical protein
+GHADJAEK_00943	CDS	678				hypothetical protein
+GHADJAEK_00944	CDS	546				hypothetical protein
+GHADJAEK_00945	CDS	657				hypothetical protein
+GHADJAEK_00946	CDS	294				hypothetical protein
+GHADJAEK_00947	CDS	141				hypothetical protein
+GHADJAEK_00948	CDS	4404				hypothetical protein
+GHADJAEK_00949	CDS	1482				hypothetical protein
+GHADJAEK_00950	tRNA	75				tRNA-Val(gac)
+GHADJAEK_00951	CDS	933	btuD_8	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GHADJAEK_00952	CDS	828				hypothetical protein
+GHADJAEK_00953	CDS	237				hypothetical protein
+GHADJAEK_00954	CDS	942				hypothetical protein
+GHADJAEK_00955	CDS	204				hypothetical protein
+GHADJAEK_00956	CDS	330				hypothetical protein
+GHADJAEK_00957	CDS	309				hypothetical protein
+GHADJAEK_00958	CDS	327				hypothetical protein
+GHADJAEK_00959	CDS	477				hypothetical protein
+GHADJAEK_00960	CDS	1854			COG1855	putative KH and PIN-domain containing protein
+GHADJAEK_00961	CDS	441				hypothetical protein
+GHADJAEK_00962	CDS	1572	ghrB	1.1.1.81		Glyoxylate/hydroxypyruvate reductase B
+GHADJAEK_00963	CDS	2292	ppsA	2.7.9.2	COG0574	Phosphoenolpyruvate synthase
+GHADJAEK_00964	CDS	1086	mfnA_1	4.1.1.11	COG0076	L-aspartate decarboxylase
+GHADJAEK_00965	CDS	1035	dph2	2.5.1.108	COG1736	2-(3-amino-3-carboxypropyl)histidine synthase
+GHADJAEK_00966	CDS	1443	purF_3	2.4.2.14		Amidophosphoribosyltransferase
+GHADJAEK_00967	CDS	219			COG1958	Putative snRNP Sm-like protein
+GHADJAEK_00968	CDS	480				hypothetical protein
+GHADJAEK_00969	CDS	381				hypothetical protein
+GHADJAEK_00970	CDS	573				hypothetical protein
+GHADJAEK_00971	CDS	585				hypothetical protein
+GHADJAEK_00972	CDS	1047	pelA	3.1.-.-	COG1537	Protein pelota 
+GHADJAEK_00973	CDS	288				hypothetical protein
+GHADJAEK_00974	CDS	927	glcV_1	7.5.2.-	COG3839	Glucose import ATP-binding protein GlcV
+GHADJAEK_00975	CDS	882				hypothetical protein
+GHADJAEK_00976	CDS	447				hypothetical protein
+GHADJAEK_00977	CDS	1167				hypothetical protein
+GHADJAEK_00978	CDS	435				hypothetical protein
+GHADJAEK_00979	CDS	801	thiM	2.7.1.50	COG2145	Hydroxyethylthiazole kinase
+GHADJAEK_00980	CDS	633	thiE	2.5.1.3	COG0352	Thiamine-phosphate synthase
+GHADJAEK_00981	CDS	570				hypothetical protein
+GHADJAEK_00982	CDS	993	btuD_9	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GHADJAEK_00983	CDS	771				hypothetical protein
+GHADJAEK_00984	CDS	1023				hypothetical protein
+GHADJAEK_00985	CDS	279				hypothetical protein
+GHADJAEK_00986	CDS	666				hypothetical protein
+GHADJAEK_00987	CDS	669				hypothetical protein
+GHADJAEK_00988	CDS	633				hypothetical protein
+GHADJAEK_00989	CDS	606				hypothetical protein
+GHADJAEK_00990	CDS	702				hypothetical protein
+GHADJAEK_00991	CDS	768				hypothetical protein
+GHADJAEK_00992	CDS	393				hypothetical protein
+GHADJAEK_00993	CDS	321				hypothetical protein
+GHADJAEK_00994	CDS	732			COG0327	GTP cyclohydrolase 1 type 2 
+GHADJAEK_00995	CDS	930	moaA			GTP 3',8-cyclase
+GHADJAEK_00996	CDS	339				hypothetical protein
+GHADJAEK_00997	CDS	1200	dnaG	2.7.7.-	COG0358	DNA primase DnaG
+GHADJAEK_00998	CDS	282				hypothetical protein
+GHADJAEK_00999	CDS	450	ard1	2.3.1.255	COG0456	N-alpha-acetyltransferase
+GHADJAEK_01000	CDS	420				hypothetical protein
+GHADJAEK_01001	CDS	231				hypothetical protein
+GHADJAEK_01002	CDS	1575	tuf_2			Elongation factor Tu
+GHADJAEK_01003	CDS	939	mch	3.5.4.27	COG3252	Methenyltetrahydromethanopterin cyclohydrolase
+GHADJAEK_01004	CDS	921	metE_2	2.1.1.-	COG0620	Methionine synthase
+GHADJAEK_01005	CDS	1068				hypothetical protein
+GHADJAEK_01006	CDS	411				hypothetical protein
+GHADJAEK_01007	CDS	1191				hypothetical protein
+GHADJAEK_01008	CDS	873	dacB	2.7.7.85		Diadenylate cyclase
+GHADJAEK_01009	CDS	585				hypothetical protein
+GHADJAEK_01010	CDS	579	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+GHADJAEK_01011	CDS	1314	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+GHADJAEK_01012	CDS	1233	glmU_4		COG1208	Bifunctional protein GlmU
+GHADJAEK_01013	CDS	1305	wecB_1	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+GHADJAEK_01014	CDS	1002	mraY	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+GHADJAEK_01015	CDS	2316				hypothetical protein
+GHADJAEK_01016	CDS	1158	mshA_14	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01017	CDS	588	dapH_3	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+GHADJAEK_01018	CDS	1050				hypothetical protein
+GHADJAEK_01019	CDS	921	hldD_1	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+GHADJAEK_01020	CDS	633	dac	3.5.1.105	COG2120	Diacetylchitobiose deacetylase
+GHADJAEK_01021	CDS	1614				hypothetical protein
+GHADJAEK_01022	CDS	1143	glmU_5		COG1208	Bifunctional protein GlmU
+GHADJAEK_01023	CDS	468	grpE		COG0576	Protein GrpE
+GHADJAEK_01024	CDS	1800	dnaK			Chaperone protein DnaK
+GHADJAEK_01025	CDS	1179	dnaJ			Chaperone protein DnaJ
+GHADJAEK_01026	CDS	804	nadE_2	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+GHADJAEK_01027	CDS	981	trm5b	2.1.1.228	COG2520	tRNA (guanine(37)-N1)-methyltransferase Trm5b
+GHADJAEK_01028	CDS	777	dphB	2.1.1.98	COG1798	Diphthine synthase
+GHADJAEK_01029	CDS	252				hypothetical protein
+GHADJAEK_01030	CDS	345				hypothetical protein
+GHADJAEK_01031	CDS	666				hypothetical protein
+GHADJAEK_01032	CDS	1791				hypothetical protein
+GHADJAEK_01033	CDS	1692	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+GHADJAEK_01034	CDS	969	idsA3	2.5.1.81	COG0142	Geranylfarnesyl diphosphate synthase
+GHADJAEK_01035	CDS	1341	rnj_3	3.1.-.-	COG0595	Ribonuclease J
+GHADJAEK_01036	CDS	1065	fni_2	5.3.3.2	COG1304	Isopentenyl-diphosphate delta-isomerase
+GHADJAEK_01037	CDS	765		2.7.4.26	COG1608	Isopentenyl phosphate kinase
+GHADJAEK_01038	CDS	924	mvk	2.7.1.36	COG1577	Mevalonate kinase
+GHADJAEK_01039	CDS	759				hypothetical protein
+GHADJAEK_01040	CDS	597	rps2		COG0052	30S ribosomal protein S2
+GHADJAEK_01041	CDS	1089	eno_1	4.2.1.11	COG0148	Enolase
+GHADJAEK_01042	tRNA	74				tRNA-Pro(cgg)
+GHADJAEK_01043	CDS	189	rpoN	2.7.7.6	COG1644	DNA-directed RNA polymerase subunit N
+GHADJAEK_01044	CDS	405	rps9		COG0103	30S ribosomal protein S9
+GHADJAEK_01045	CDS	420			COG0102	50S ribosomal protein L13
+GHADJAEK_01046	CDS	369			COG1727	50S ribosomal protein L18e
+GHADJAEK_01047	tRNA	85				tRNA-Leu(gag)
+GHADJAEK_01048	CDS	786	rpoD	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit D
+GHADJAEK_01049	CDS	390			COG0100	30S ribosomal protein S11
+GHADJAEK_01050	CDS	543	rps4		COG0522	30S ribosomal protein S4
+GHADJAEK_01051	CDS	474			COG0099	30S ribosomal protein S13
+GHADJAEK_01052	tRNA	88				tRNA-Ser(gct)
+GHADJAEK_01053	CDS	1413	rtcB	6.5.1.-	COG1690	tRNA-splicing ligase RtcB
+GHADJAEK_01054	CDS	411			COG1371	Protein archease
+GHADJAEK_01055	CDS	666	arfC	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+GHADJAEK_01056	CDS	864				hypothetical protein
+GHADJAEK_01057	CDS	978				hypothetical protein
+GHADJAEK_01058	CDS	1128	mshA_15	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01059	CDS	306				hypothetical protein
+GHADJAEK_01060	CDS	246	purS	6.3.5.3	COG1828	Phosphoribosylformylglycinamidine synthase subunit PurS
+GHADJAEK_01061	CDS	681	purQ	3.5.1.2		Phosphoribosylformylglycinamidine synthase subunit PurQ
+GHADJAEK_01062	CDS	948	fcl	1.1.1.271		GDP-L-fucose synthase
+GHADJAEK_01063	CDS	282				hypothetical protein
+GHADJAEK_01064	CDS	834				hypothetical protein
+GHADJAEK_01065	CDS	987	aksF	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+GHADJAEK_01066	CDS	501	leuD_1	4.2.1.33	COG0066	Isopropylmalate/citramalate isomerase small subunit
+GHADJAEK_01067	CDS	360				hypothetical protein
+GHADJAEK_01068	CDS	849	leuC_1	4.2.1.33	COG0065	Isopropylmalate/citramalate isomerase large subunit
+GHADJAEK_01069	CDS	330				hypothetical protein
+GHADJAEK_01070	CDS	1155	cimA_2	2.3.1.182	COG0119	(R)-citramalate synthase CimA
+GHADJAEK_01071	CDS	1524	iorA_2	1.2.7.8	COG4231	Indolepyruvate oxidoreductase subunit IorA
+GHADJAEK_01072	CDS	975				hypothetical protein
+GHADJAEK_01073	CDS	375				hypothetical protein
+GHADJAEK_01074	CDS	1167				hypothetical protein
+GHADJAEK_01075	CDS	1161	mshA_16	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01076	CDS	1161	mshA_17	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01077	CDS	1014	mshA_18	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01078	CDS	567				hypothetical protein
+GHADJAEK_01079	CDS	654	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GHADJAEK_01080	CDS	1314	thiDN_2		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+GHADJAEK_01081	CDS	876	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+GHADJAEK_01082	CDS	741	dapB	1.17.1.8		4-hydroxy-tetrahydrodipicolinate reductase
+GHADJAEK_01083	CDS	1572				hypothetical protein
+GHADJAEK_01084	CDS	771				hypothetical protein
+GHADJAEK_01085	CDS	1221	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+GHADJAEK_01086	CDS	648	thyA	2.1.1.45		Thymidylate synthase
+GHADJAEK_01087	CDS	1275	thiC_2	4.1.99.17		Phosphomethylpyrimidine synthase
+GHADJAEK_01088	CDS	687		3.1.3.18	COG0561	Phosphoglycolate phosphatase
+GHADJAEK_01089	CDS	975	radA		COG0468	DNA repair and recombination protein RadA
+GHADJAEK_01090	CDS	1413				hypothetical protein
+GHADJAEK_01091	CDS	1245	leuC_2	4.2.1.33	COG0065	Isopropylmalate/citramalate isomerase large subunit
+GHADJAEK_01092	CDS	543	leuD_2	4.2.1.33	COG0066	Isopropylmalate/citramalate isomerase small subunit
+GHADJAEK_01093	CDS	1140	leuB_1	1.1.1.85	COG0473	3-isopropylmalate/3-methylmalate dehydrogenase
+GHADJAEK_01094	tRNA	73				tRNA-Arg(gcg)
+GHADJAEK_01095	CDS	648				hypothetical protein
+GHADJAEK_01096	CDS	765	cofE	6.3.2.31	COG1478	Coenzyme F420:L-glutamate ligase
+GHADJAEK_01097	CDS	411			COG0071	Small heat shock protein HSP16.5
+GHADJAEK_01098	CDS	1719				hypothetical protein
+GHADJAEK_01099	CDS	840				hypothetical protein
+GHADJAEK_01100	CDS	729				hypothetical protein
+GHADJAEK_01101	CDS	213	hpkA_2		COG2036	Archaeal histone A
+GHADJAEK_01102	tRNA	73				tRNA-Gly(ccc)
+GHADJAEK_01103	CDS	1743	infB		COG0532	putative translation initiation factor IF-2
+GHADJAEK_01104	CDS	396	rps6e		COG2125	30S ribosomal protein S6e
+GHADJAEK_01105	CDS	1101				hypothetical protein
+GHADJAEK_01106	CDS	579	engB		COG0218	putative GTP-binding protein EngB
+GHADJAEK_01107	CDS	291				hypothetical protein
+GHADJAEK_01108	CDS	1947				hypothetical protein
+GHADJAEK_01109	CDS	1125				hypothetical protein
+GHADJAEK_01110	CDS	501				hypothetical protein
+GHADJAEK_01111	CDS	231				hypothetical protein
+GHADJAEK_01112	CDS	1101	dadD	3.5.4.31		5'-deoxyadenosine deaminase
+GHADJAEK_01113	CDS	255				hypothetical protein
+GHADJAEK_01114	CDS	837	IMPDH_3	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+GHADJAEK_01115	CDS	1059				hypothetical protein
+GHADJAEK_01116	CDS	1011			COG0857	putative protein
+GHADJAEK_01117	CDS	2115		6.2.1.13	COG1042	Acetate--CoA ligase [ADP-forming] I
+GHADJAEK_01118	CDS	1017				hypothetical protein
+GHADJAEK_01119	CDS	594	prmC_1	2.1.1.297		Release factor glutamine methyltransferase
+GHADJAEK_01120	CDS	558	csl4		COG1096	Exosome complex component Csl4
+GHADJAEK_01121	CDS	285	rpoL	2.7.7.6	COG1761	DNA-directed RNA polymerase subunit L
+GHADJAEK_01122	CDS	540				hypothetical protein
+GHADJAEK_01123	CDS	621	prmC_2	2.1.1.297		Release factor glutamine methyltransferase
+GHADJAEK_01124	CDS	816	rsmA	2.1.1.-	COG0030	putative ribosomal RNA small subunit methyltransferase A
+GHADJAEK_01125	CDS	558				hypothetical protein
+GHADJAEK_01126	CDS	345			COG1460	putative protein
+GHADJAEK_01127	CDS	300			COG2139	50S ribosomal protein L21e
+GHADJAEK_01128	CDS	1212		5.4.99.25	COG1258	tRNA pseudouridine synthase Pus10
+GHADJAEK_01129	CDS	624				hypothetical protein
+GHADJAEK_01130	CDS	522			COG0197	50S ribosomal protein L10e
+GHADJAEK_01131	CDS	627	flpA	2.1.1.-	COG1889	Fibrillarin-like rRNA/tRNA 2'-O-methyltransferase
+GHADJAEK_01132	CDS	906			COG1498	putative NOP5 family protein
+GHADJAEK_01133	CDS	783	pyrD_1	1.3.-.-		Dihydroorotate dehydrogenase
+GHADJAEK_01134	CDS	948				hypothetical protein
+GHADJAEK_01135	CDS	1470	CARKD	4.2.1.136		ATP-dependent (S)-NAD(P)H-hydrate dehydratase
+GHADJAEK_01136	CDS	459	tgtA_1	2.4.2.48	COG0343	tRNA-guanine(15) transglycosylase
+GHADJAEK_01137	CDS	339	nac		COG1308	Nascent polypeptide-associated complex protein
+GHADJAEK_01138	CDS	726	trmI	2.1.1.219	COG2519	tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase TrmI
+GHADJAEK_01139	CDS	201				hypothetical protein
+GHADJAEK_01140	CDS	1200	mshA_19	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01141	CDS	843	arnD	3.5.1.-		4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD
+GHADJAEK_01142	CDS	936				hypothetical protein
+GHADJAEK_01143	CDS	1182	argG	6.3.4.5		Argininosuccinate synthase
+GHADJAEK_01144	CDS	483				hypothetical protein
+GHADJAEK_01145	CDS	3243	carB_1			Carbamoyl-phosphate synthase large chain
+GHADJAEK_01146	CDS	1074	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+GHADJAEK_01147	CDS	840	truA	5.4.99.12		tRNA pseudouridine synthase A
+GHADJAEK_01148	CDS	1617	rfcL		COG0470	Replication factor C large subunit
+GHADJAEK_01149	CDS	972	thiL_2	2.7.4.16		Thiamine-monophosphate kinase
+GHADJAEK_01150	CDS	1416	mvhA	1.12.99.-	COG3259	F420-non-reducing hydrogenase subunit A
+GHADJAEK_01151	CDS	912	vhcG	1.12.99.-		F420-non-reducing hydrogenase vhc subunit G
+GHADJAEK_01152	CDS	1113	mvhB		COG1145	Polyferredoxin protein MvhB
+GHADJAEK_01153	CDS	558	hdrC	1.8.98.5	COG1150	H(2):CoB-CoM heterodisulfide,ferredoxin reductase subunit C
+GHADJAEK_01154	CDS	885	hdrB2	1.8.98.5	COG2048	H(2)/formate:CoB-CoM heterodisulfide,ferredoxin reductase subunit B2
+GHADJAEK_01155	CDS	1980	hdrA	1.8.98.5	COG1148	H(2):CoB-CoM heterodisulfide,ferredoxin reductase subunit A
+GHADJAEK_01156	CDS	468	vhcD	1.12.99.-	COG1908	F420-non-reducing hydrogenase vhc iron-sulfur subunit D
+GHADJAEK_01157	CDS	1707	hyuA	3.5.2.-		D-phenylhydantoinase
+GHADJAEK_01158	CDS	468				hypothetical protein
+GHADJAEK_01159	CDS	498				hypothetical protein
+GHADJAEK_01160	CDS	546				hypothetical protein
+GHADJAEK_01161	CDS	483				hypothetical protein
+GHADJAEK_01162	CDS	294				hypothetical protein
+GHADJAEK_01163	CDS	534				hypothetical protein
+GHADJAEK_01164	CDS	528	fucA	4.1.2.17	COG0235	L-fuculose phosphate aldolase
+GHADJAEK_01165	CDS	420				hypothetical protein
+GHADJAEK_01166	CDS	285				hypothetical protein
+GHADJAEK_01167	CDS	762	rhaD_2	1.1.1.377	COG1028	L-rhamnose 1-dehydrogenase (NADP(+))
+GHADJAEK_01168	CDS	393				hypothetical protein
+GHADJAEK_01169	CDS	252				hypothetical protein
+GHADJAEK_01170	CDS	663				hypothetical protein
+GHADJAEK_01171	CDS	327				hypothetical protein
+GHADJAEK_01172	CDS	660				hypothetical protein
+GHADJAEK_01173	CDS	336				hypothetical protein
+GHADJAEK_01174	CDS	306				hypothetical protein
+GHADJAEK_01175	CDS	618	COQ5_4	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GHADJAEK_01176	CDS	246				hypothetical protein
+GHADJAEK_01177	CDS	567				hypothetical protein
+GHADJAEK_01178	CDS	501				hypothetical protein
+GHADJAEK_01179	CDS	744	gloB_4	3.1.2.6		Hydroxyacylglutathione hydrolase
+GHADJAEK_01180	CDS	1341	hdrA1	1.8.7.3	COG1148	Ferredoxin:CoB-CoM heterodisulfide reductase subunit A
+GHADJAEK_01181	CDS	1263				hypothetical protein
+GHADJAEK_01182	tRNA	75				tRNA-Pro(ggg)
+GHADJAEK_01183	CDS	1041				hypothetical protein
+GHADJAEK_01184	CDS	1164	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+GHADJAEK_01185	CDS	390				hypothetical protein
+GHADJAEK_01186	CDS	1215	hmgA	1.1.1.34	COG1257	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+GHADJAEK_01187	CDS	903				hypothetical protein
+GHADJAEK_01188	CDS	951	napF_2			Ferredoxin-type protein NapF
+GHADJAEK_01189	CDS	1185	porA	1.2.7.1	COG0674	Pyruvate synthase subunit PorA
+GHADJAEK_01190	CDS	930	porB	1.2.7.1	COG1013	Pyruvate synthase subunit PorB
+GHADJAEK_01191	CDS	1227	thrC	4.2.3.1	COG0498	Threonine synthase
+GHADJAEK_01192	CDS	2922	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+GHADJAEK_01193	CDS	201				hypothetical protein
+GHADJAEK_01194	CDS	897	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+GHADJAEK_01195	CDS	747				hypothetical protein
+GHADJAEK_01196	CDS	228				hypothetical protein
+GHADJAEK_01197	CDS	1104				hypothetical protein
+GHADJAEK_01198	CDS	2811	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+GHADJAEK_01199	CDS	1068	mer_2	1.5.98.2	COG2141	5,10-methylenetetrahydromethanopterin reductase
+GHADJAEK_01200	CDS	498				hypothetical protein
+GHADJAEK_01201	CDS	873				hypothetical protein
+GHADJAEK_01202	CDS	423				hypothetical protein
+GHADJAEK_01203	CDS	285				hypothetical protein
+GHADJAEK_01204	CDS	264				hypothetical protein
+GHADJAEK_01205	CDS	1374				hypothetical protein
+GHADJAEK_01206	CDS	744	nrpRII		COG1693	Global nitrogen regulator NrpRII
+GHADJAEK_01207	CDS	477				hypothetical protein
+GHADJAEK_01208	CDS	840	nth_2	4.2.99.18		Endonuclease III
+GHADJAEK_01209	CDS	471				hypothetical protein
+GHADJAEK_01210	CDS	492	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+GHADJAEK_01211	CDS	192				hypothetical protein
+GHADJAEK_01212	CDS	1620	thsA		COG0459	Thermosome subunit alpha
+GHADJAEK_01213	CDS	318				hypothetical protein
+GHADJAEK_01214	CDS	378				hypothetical protein
+GHADJAEK_01215	CDS	894	nifB	4.-.-.-	COG0535	FeMo cofactor biosynthesis protein NifB
+GHADJAEK_01216	CDS	237				hypothetical protein
+GHADJAEK_01217	CDS	777			COG0330	Stomatin
+GHADJAEK_01218	CDS	558				hypothetical protein
+GHADJAEK_01219	CDS	324				hypothetical protein
+GHADJAEK_01220	CDS	192				hypothetical protein
+GHADJAEK_01221	CDS	855				hypothetical protein
+GHADJAEK_01222	CDS	204				hypothetical protein
+GHADJAEK_01223	CDS	1023	adh_2	1.1.1.1	COG1064	NAD-dependent alcohol dehydrogenase
+GHADJAEK_01224	CDS	999				hypothetical protein
+GHADJAEK_01225	CDS	423				hypothetical protein
+GHADJAEK_01226	CDS	945				hypothetical protein
+GHADJAEK_01227	CDS	654				hypothetical protein
+GHADJAEK_01228	CDS	387				hypothetical protein
+GHADJAEK_01229	CDS	981				hypothetical protein
+GHADJAEK_01230	CDS	1221	mshA_20	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01231	CDS	774	rhaD_3	1.1.1.377	COG1028	L-rhamnose 1-dehydrogenase (NADP(+))
+GHADJAEK_01232	CDS	111				hypothetical protein
+GHADJAEK_01233	CDS	798				hypothetical protein
+GHADJAEK_01234	CDS	816				hypothetical protein
+GHADJAEK_01235	CDS	552				hypothetical protein
+GHADJAEK_01236	CDS	120				hypothetical protein
+GHADJAEK_01237	CDS	1101				hypothetical protein
+GHADJAEK_01238	CDS	120				hypothetical protein
+GHADJAEK_01239	CDS	177				hypothetical protein
+GHADJAEK_01240	CDS	879				hypothetical protein
+GHADJAEK_01241	CDS	465				hypothetical protein
+GHADJAEK_01242	CDS	1284	fpaA	1.-.-.-	COG0426	Type A flavoprotein FprA
+GHADJAEK_01243	CDS	1023	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+GHADJAEK_01244	CDS	633				hypothetical protein
+GHADJAEK_01245	CDS	1560	pyrG	6.3.4.2	COG0504	CTP synthase
+GHADJAEK_01246	CDS	915	guaAB	6.3.5.2	COG0519	GMP synthase [glutamine-hydrolyzing] subunit B
+GHADJAEK_01247	CDS	1176	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde/glutamate semialdehyde transaminase
+GHADJAEK_01248	CDS	1056	hisC_1	2.6.1.9		Histidinol-phosphate aminotransferase
+GHADJAEK_01249	CDS	519		2.7.4.3	COG1936	Putative adenylate kinase
+GHADJAEK_01250	CDS	594	pgsA	2.7.8.39	COG0558	Archaetidylinositol phosphate synthase
+GHADJAEK_01251	CDS	1224	pan		COG1222	Proteasome-activating nucleotidase
+GHADJAEK_01252	CDS	477				hypothetical protein
+GHADJAEK_01253	CDS	597	sua5	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+GHADJAEK_01254	CDS	945				hypothetical protein
+GHADJAEK_01255	CDS	1362				hypothetical protein
+GHADJAEK_01256	CDS	1563				hypothetical protein
+GHADJAEK_01257	CDS	2910	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+GHADJAEK_01258	CDS	1041	endA	4.6.1.16	COG1676	tRNA-splicing endonuclease
+GHADJAEK_01259	CDS	1131	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+GHADJAEK_01260	CDS	306				hypothetical protein
+GHADJAEK_01261	CDS	1491	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+GHADJAEK_01262	CDS	1581	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+GHADJAEK_01263	CDS	165				hypothetical protein
+GHADJAEK_01264	tRNA	76				tRNA-Arg(cct)
+GHADJAEK_01265	tRNA	75				tRNA-Pro(tgg)
+GHADJAEK_01266	CDS	1191				hypothetical protein
+GHADJAEK_01267	CDS	336				hypothetical protein
+GHADJAEK_01268	CDS	276	samp3			Small archaeal modifier protein 3
+GHADJAEK_01269	CDS	123				hypothetical protein
+GHADJAEK_01270	CDS	429	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+GHADJAEK_01271	CDS	4134				hypothetical protein
+GHADJAEK_01272	CDS	945	cdhD		COG2069	Acetyl-CoA decarbonylase/synthase complex subunit delta
+GHADJAEK_01273	CDS	1335	cdhE	2.1.1.245	COG1456	Acetyl-CoA decarbonylase/synthase complex subunit gamma
+GHADJAEK_01274	CDS	747				hypothetical protein
+GHADJAEK_01275	CDS	1872	nqrF	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit F
+GHADJAEK_01276	CDS	783				hypothetical protein
+GHADJAEK_01277	CDS	321				hypothetical protein
+GHADJAEK_01278	CDS	1794				hypothetical protein
+GHADJAEK_01279	CDS	240				hypothetical protein
+GHADJAEK_01280	CDS	549	atpE			V-type proton ATPase subunit E
+GHADJAEK_01281	CDS	1059	atpC			V-type ATP synthase subunit C
+GHADJAEK_01282	CDS	315	atpF		COG1436	V-type ATP synthase subunit F
+GHADJAEK_01283	CDS	1728	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+GHADJAEK_01284	CDS	1410	atpB		COG1156	V-type ATP synthase beta chain
+GHADJAEK_01285	CDS	642	atpD		COG1394	V-type ATP synthase subunit D
+GHADJAEK_01286	CDS	135				hypothetical protein
+GHADJAEK_01287	CDS	414				hypothetical protein
+GHADJAEK_01288	CDS	303				hypothetical protein
+GHADJAEK_01289	CDS	381				hypothetical protein
+GHADJAEK_01290	CDS	504			COG2042	putative ribosome biogenesis protein
+GHADJAEK_01291	CDS	744		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+GHADJAEK_01292	CDS	1452	rgy1		COG1110	Reverse gyrase 1
+GHADJAEK_01293	CDS	546				hypothetical protein
+GHADJAEK_01294	CDS	729	glcV_2	7.5.2.-	COG3839	Glucose import ATP-binding protein GlcV
+GHADJAEK_01295	CDS	1131				hypothetical protein
+GHADJAEK_01296	CDS	639				hypothetical protein
+GHADJAEK_01297	CDS	672				hypothetical protein
+GHADJAEK_01298	CDS	456				hypothetical protein
+GHADJAEK_01299	CDS	672				hypothetical protein
+GHADJAEK_01300	CDS	279				hypothetical protein
+GHADJAEK_01301	CDS	1521	pqqE_5	1.21.98.4		PqqA peptide cyclase
+GHADJAEK_01302	CDS	1428				hypothetical protein
+GHADJAEK_01303	CDS	615				hypothetical protein
+GHADJAEK_01304	CDS	948		1.18.1.2		Ferredoxin--NADP reductase
+GHADJAEK_01305	CDS	489	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+GHADJAEK_01306	CDS	936	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+GHADJAEK_01307	CDS	1083	mbhL	1.12.7.2	COG3261	Membrane-bound hydrogenase subunit alpha
+GHADJAEK_01308	CDS	399				hypothetical protein
+GHADJAEK_01309	CDS	519	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+GHADJAEK_01310	CDS	1407	fpoM	1.12.98.3	COG1008	F(420)H(2) dehydrogenase subunit M
+GHADJAEK_01311	CDS	600				hypothetical protein
+GHADJAEK_01312	CDS	1881	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+GHADJAEK_01313	CDS	669	fno	1.5.1.40	COG2085	F420-dependent NADP reductase
+GHADJAEK_01314	CDS	270				hypothetical protein
+GHADJAEK_01315	CDS	129				hypothetical protein
+GHADJAEK_01316	CDS	360				hypothetical protein
+GHADJAEK_01317	CDS	1170		2.5.1.73	COG1103	O-phospho-L-seryl-tRNA:Cys-tRNA synthase
+GHADJAEK_01318	CDS	189				hypothetical protein
+GHADJAEK_01319	CDS	423	thrS_1	6.1.1.3	COG0441	Threonine--tRNA ligase
+GHADJAEK_01320	CDS	393	iscU2_1		COG0822	Iron-sulfur cluster assembly scaffold protein IscU 2
+GHADJAEK_01321	CDS	474				hypothetical protein
+GHADJAEK_01322	CDS	147				hypothetical protein
+GHADJAEK_01323	CDS	1074				hypothetical protein
+GHADJAEK_01324	CDS	624			COG0794	putative protein
+GHADJAEK_01325	CDS	612	moaB	2.7.7.75	COG0521	Molybdopterin adenylyltransferase
+GHADJAEK_01326	CDS	1068				hypothetical protein
+GHADJAEK_01327	CDS	1230	cdc6		COG1474	ORC1-type DNA replication protein
+GHADJAEK_01328	CDS	1107	hisC_2	2.6.1.9		Histidinol-phosphate aminotransferase
+GHADJAEK_01329	CDS	645	tmk_1	2.7.4.9		Thymidylate kinase
+GHADJAEK_01330	CDS	933			COG0517	putative protein
+GHADJAEK_01331	CDS	756			COG0517	putative protein
+GHADJAEK_01332	CDS	645				hypothetical protein
+GHADJAEK_01333	CDS	501	taw1	4.1.3.44	COG0731	S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase
+GHADJAEK_01334	CDS	240				hypothetical protein
+GHADJAEK_01335	CDS	1620	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+GHADJAEK_01336	CDS	1233	prf1		COG1503	Peptide chain release factor subunit 1
+GHADJAEK_01337	CDS	231				hypothetical protein
+GHADJAEK_01338	CDS	351	hypA		COG0375	Hydrogenase maturation factor HypA
+GHADJAEK_01339	CDS	1035	thiL_3	2.7.4.16		Thiamine-monophosphate kinase
+GHADJAEK_01340	CDS	153				hypothetical protein
+GHADJAEK_01341	CDS	393				hypothetical protein
+GHADJAEK_01342	CDS	210				hypothetical protein
+GHADJAEK_01343	CDS	876				hypothetical protein
+GHADJAEK_01344	CDS	516				hypothetical protein
+GHADJAEK_01345	CDS	585				hypothetical protein
+GHADJAEK_01346	CDS	279				hypothetical protein
+GHADJAEK_01347	CDS	156				hypothetical protein
+GHADJAEK_01348	tRNA	74				tRNA-Asp(gtc)
+GHADJAEK_01349	CDS	222				hypothetical protein
+GHADJAEK_01350	CDS	219				hypothetical protein
+GHADJAEK_01351	CDS	2385				hypothetical protein
+GHADJAEK_01352	CDS	234				hypothetical protein
+GHADJAEK_01353	CDS	345				hypothetical protein
+GHADJAEK_01354	CDS	699				hypothetical protein
+GHADJAEK_01355	CDS	114				hypothetical protein
+GHADJAEK_01356	CDS	963				hypothetical protein
+GHADJAEK_01357	CDS	171				hypothetical protein
+GHADJAEK_01358	CDS	816				hypothetical protein
+GHADJAEK_01359	CDS	270				hypothetical protein
+GHADJAEK_01360	CDS	324				hypothetical protein
+GHADJAEK_01361	CDS	210				hypothetical protein
+GHADJAEK_01362	CDS	138				hypothetical protein
+GHADJAEK_01363	CDS	642				hypothetical protein
+GHADJAEK_01364	CDS	150				hypothetical protein
+GHADJAEK_01365	CDS	252				hypothetical protein
+GHADJAEK_01366	CDS	387				hypothetical protein
+GHADJAEK_01367	CDS	579				hypothetical protein
+GHADJAEK_01368	CDS	1104				hypothetical protein
+GHADJAEK_01369	CDS	321				hypothetical protein
+GHADJAEK_01370	CDS	354				hypothetical protein
+GHADJAEK_01371	CDS	393	sdx		COG2146	Sulredoxin
+GHADJAEK_01372	CDS	285	tbp2_1		COG2101	TATA-box-binding protein 2
+GHADJAEK_01373	CDS	129				hypothetical protein
+GHADJAEK_01374	CDS	183				hypothetical protein
+GHADJAEK_01375	CDS	258				hypothetical protein
+GHADJAEK_01376	CDS	234				hypothetical protein
+GHADJAEK_01377	CDS	594				hypothetical protein
+GHADJAEK_01378	CDS	390				hypothetical protein
+GHADJAEK_01379	CDS	177				hypothetical protein
+GHADJAEK_01380	CDS	231				hypothetical protein
+GHADJAEK_01381	CDS	273				hypothetical protein
+GHADJAEK_01382	CDS	297				hypothetical protein
+GHADJAEK_01383	CDS	186				hypothetical protein
+GHADJAEK_01384	CDS	387				hypothetical protein
+GHADJAEK_01385	CDS	399				hypothetical protein
+GHADJAEK_01386	CDS	627	kdpC			Potassium-transporting ATPase KdpC subunit
+GHADJAEK_01387	CDS	768	kdpQ			putative Kdp system regulatory protein KdpQ
+GHADJAEK_01388	CDS	1698	kdpA			Potassium-transporting ATPase potassium-binding subunit
+GHADJAEK_01389	CDS	2010	kdpB_1	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+GHADJAEK_01390	CDS	534				hypothetical protein
+GHADJAEK_01391	CDS	423				hypothetical protein
+GHADJAEK_01392	CDS	1419				hypothetical protein
+GHADJAEK_01393	CDS	1419	potE_3			Putrescine transporter PotE
+GHADJAEK_01394	CDS	690				hypothetical protein
+GHADJAEK_01395	CDS	819	hisF_1	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+GHADJAEK_01396	CDS	492	caiE			Carnitine operon protein CaiE
+GHADJAEK_01397	CDS	444	coaD	2.7.7.3	COG1019	Phosphopantetheine adenylyltransferase
+GHADJAEK_01398	CDS	675	pyrH	2.7.4.22	COG0528	Uridylate kinase
+GHADJAEK_01399	CDS	600	msrP	1.8.5.-		Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+GHADJAEK_01400	CDS	702				hypothetical protein
+GHADJAEK_01401	CDS	696		1.3.1.76	COG1648	Precorrin-2 dehydrogenase
+GHADJAEK_01402	CDS	1248	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+GHADJAEK_01403	CDS	960				hypothetical protein
+GHADJAEK_01404	CDS	1221	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+GHADJAEK_01405	CDS	447	hemC_1	2.5.1.61		Porphobilinogen deaminase
+GHADJAEK_01406	CDS	462	hemC_2	2.5.1.61		Porphobilinogen deaminase
+GHADJAEK_01407	CDS	777		2.1.1.107	COG0007	S-adenosyl-L-methionine-dependent uroporphyrinogen III methyltransferase
+GHADJAEK_01408	CDS	777				hypothetical protein
+GHADJAEK_01409	CDS	876	mfnD	6.3.4.24	COG1821	Tyramine--L-glutamate ligase
+GHADJAEK_01410	CDS	987	mfnF	2.5.1.131	COG1548	(4-{4-[2-(gamma-L-glutamylamino)ethyl]phenoxymethyl}furan-2-yl)methanamine synthase
+GHADJAEK_01411	CDS	243				hypothetical protein
+GHADJAEK_01412	CDS	1296				hypothetical protein
+GHADJAEK_01413	CDS	183				hypothetical protein
+GHADJAEK_01414	CDS	471				hypothetical protein
+GHADJAEK_01415	CDS	489				hypothetical protein
+GHADJAEK_01416	CDS	1059				hypothetical protein
+GHADJAEK_01417	CDS	963				hypothetical protein
+GHADJAEK_01418	CDS	927	cyoE	2.5.1.141		Protoheme IX farnesyltransferase
+GHADJAEK_01419	CDS	381				hypothetical protein
+GHADJAEK_01420	CDS	1569				hypothetical protein
+GHADJAEK_01421	CDS	603	mfnE	2.7.4.31	COG2054	[5-(aminomethyl)furan-3-yl]methyl phosphate kinase
+GHADJAEK_01422	CDS	270	ef1b		COG2092	Elongation factor 1-beta
+GHADJAEK_01423	CDS	297	rnp4	3.1.26.5	COG2023	Ribonuclease P protein component 4
+GHADJAEK_01424	CDS	321				hypothetical protein
+GHADJAEK_01425	CDS	420			COG2238	30S ribosomal protein S19e
+GHADJAEK_01426	CDS	330			COG2118	DNA-binding protein
+GHADJAEK_01427	CDS	588			COG2117	putative protein
+GHADJAEK_01428	CDS	282			COG2097	50S ribosomal protein L31e
+GHADJAEK_01429	CDS	669	eif6		COG1976	Translation initiation factor 6
+GHADJAEK_01430	CDS	426	pfdA		COG1730	Prefoldin subunit alpha
+GHADJAEK_01431	CDS	1122	ftsY			Signal recognition particle receptor FtsY
+GHADJAEK_01432	CDS	1320			COG0541	Signal recognition particle 54 kDa protein
+GHADJAEK_01433	CDS	141				hypothetical protein
+GHADJAEK_01434	CDS	1218	thiI	2.8.1.4		tRNA sulfurtransferase
+GHADJAEK_01435	CDS	327				hypothetical protein
+GHADJAEK_01436	CDS	207	hpkA_3		COG2036	Archaeal histone A
+GHADJAEK_01437	CDS	495				hypothetical protein
+GHADJAEK_01438	CDS	963	cbiB			Cobalamin biosynthesis protein CbiB
+GHADJAEK_01439	CDS	1506	cobQ			Cobyric acid synthase
+GHADJAEK_01440	CDS	1092	aroC	4.2.3.5		Chorismate synthase
+GHADJAEK_01441	CDS	1278	aroA	2.5.1.19		3-phosphoshikimate 1-carboxyvinyltransferase
+GHADJAEK_01442	CDS	339				hypothetical protein
+GHADJAEK_01443	tRNA	73				tRNA-Asn(gtt)
+GHADJAEK_01444	tRNA	75				tRNA-Met(cat)
+GHADJAEK_01445	CDS	1047	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+GHADJAEK_01446	CDS	210	eIF1A_1		COG0361	Translation initiation factor 1A
+GHADJAEK_01447	CDS	789	rio1	2.7.11.1	COG1718	RIO-type serine/threonine-protein kinase Rio1
+GHADJAEK_01448	CDS	537				hypothetical protein
+GHADJAEK_01449	CDS	813				hypothetical protein
+GHADJAEK_01450	CDS	585		4.2.1.32	COG1838	Putative L(+)-tartrate dehydratase subunit beta
+GHADJAEK_01451	CDS	1137				hypothetical protein
+GHADJAEK_01452	CDS	900	rio2	2.7.11.1	COG0478	RIO-type serine/threonine-protein kinase Rio2
+GHADJAEK_01453	CDS	894	ttuA	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+GHADJAEK_01454	CDS	1146	ftsZ1_2		COG0206	Cell division protein FtsZ 1
+GHADJAEK_01455	CDS	186				hypothetical protein
+GHADJAEK_01456	tRNA	74				tRNA-Tyr(gta)
+GHADJAEK_01457	tRNA	74				tRNA-Phe(gaa)
+GHADJAEK_01458	CDS	672				hypothetical protein
+GHADJAEK_01459	CDS	243				hypothetical protein
+GHADJAEK_01460	tRNA	75				tRNA-Gly(gcc)
+GHADJAEK_01461	CDS	723				hypothetical protein
+GHADJAEK_01462	CDS	504				hypothetical protein
+GHADJAEK_01463	CDS	681				hypothetical protein
+GHADJAEK_01464	CDS	552				hypothetical protein
+GHADJAEK_01465	CDS	495	tfe		COG1675	Transcription factor E
+GHADJAEK_01466	CDS	1095	carB_2			Carbamoyl-phosphate synthase large chain
+GHADJAEK_01467	CDS	432		2.1.1.206	COG1303	tRNA (cytidine(56)-2'-O)-methyltransferase
+GHADJAEK_01468	CDS	330				hypothetical protein
+GHADJAEK_01469	tRNA	85				tRNA-Leu(cag)
+GHADJAEK_01470	CDS	273				hypothetical protein
+GHADJAEK_01471	CDS	375		4.2.1.96		Putative pterin-4-alpha-carbinolamine dehydratase
+GHADJAEK_01472	CDS	456				hypothetical protein
+GHADJAEK_01473	tRNA	73				tRNA-Ala(ggc)
+GHADJAEK_01474	CDS	1023				hypothetical protein
+GHADJAEK_01475	CDS	1101	wecB_2	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+GHADJAEK_01476	CDS	1254	mshA_21	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01477	CDS	1206	mshA_22	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01478	CDS	1278				hypothetical protein
+GHADJAEK_01479	CDS	1236	leuC_3	4.2.1.33	COG0065	Isopropylmalate/citramalate isomerase large subunit
+GHADJAEK_01480	CDS	513	leuD_3	4.2.1.33	COG0066	Isopropylmalate/citramalate isomerase small subunit
+GHADJAEK_01481	CDS	1032	leuB_2	1.1.1.85	COG0473	3-isopropylmalate/3-methylmalate dehydrogenase
+GHADJAEK_01482	CDS	1425		2.3.3.13	COG0119	2-isopropylmalate synthase
+GHADJAEK_01483	CDS	1269				hypothetical protein
+GHADJAEK_01484	CDS	1056				hypothetical protein
+GHADJAEK_01485	CDS	903	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+GHADJAEK_01486	CDS	477	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+GHADJAEK_01487	CDS	519				hypothetical protein
+GHADJAEK_01488	CDS	1035		5.3.1.23	COG0182	Putative methylthioribose-1-phosphate isomerase
+GHADJAEK_01489	CDS	669			COG1707	putative protein
+GHADJAEK_01490	CDS	915	dys	2.5.1.46	COG1899	putative deoxyhypusine synthase
+GHADJAEK_01491	CDS	852		3.5.3.24	COG0010	N(1)-aminopropylagmatine ureohydrolase
+GHADJAEK_01492	CDS	384	eif5a		COG0231	Translation initiation factor 5A
+GHADJAEK_01493	CDS	801			COG0061	Bifunctional NADP phosphatase/NAD kinase
+GHADJAEK_01494	CDS	651	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+GHADJAEK_01495	CDS	1173		1.3.7.11	COG0644	Digeranylgeranylglycerophospholipid reductase
+GHADJAEK_01496	CDS	762				hypothetical protein
+GHADJAEK_01497	CDS	774	eif2a		COG1093	Translation initiation factor 2 subunit alpha
+GHADJAEK_01498	CDS	162			COG2051	30S ribosomal protein S27e
+GHADJAEK_01499	CDS	735				hypothetical protein
+GHADJAEK_01500	CDS	1152	priS	2.7.7.-	COG1467	DNA primase small subunit PriS
+GHADJAEK_01501	CDS	1002				hypothetical protein
+GHADJAEK_01502	CDS	747	pcn		COG0592	DNA polymerase sliding clamp
+GHADJAEK_01503	CDS	399				hypothetical protein
+GHADJAEK_01504	CDS	810	rlmE	2.1.1.166		Ribosomal RNA large subunit methyltransferase E
+GHADJAEK_01505	CDS	612				hypothetical protein
+GHADJAEK_01506	CDS	1068	trm1	2.1.1.216	COG1867	tRNA (guanine(26)-N(2))-dimethyltransferase
+GHADJAEK_01507	CDS	1239	ubiD	4.1.1.98		3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+GHADJAEK_01508	CDS	555	PAD1	2.5.1.129		Flavin prenyltransferase PAD1, mitochondrial
+GHADJAEK_01509	CDS	336				hypothetical protein
+GHADJAEK_01510	CDS	834	cofD	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+GHADJAEK_01511	CDS	1107	pyrD_2	1.3.-.-		Dihydroorotate dehydrogenase
+GHADJAEK_01512	CDS	849	citG	2.4.2.52		2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase
+GHADJAEK_01513	CDS	582			COG2457	putative protein MTH_863
+GHADJAEK_01514	CDS	705	dmrX	1.5.99.15	COG1036	Dihydromethanopterin reductase (acceptor)
+GHADJAEK_01515	CDS	666				hypothetical protein
+GHADJAEK_01516	CDS	1455				hypothetical protein
+GHADJAEK_01517	CDS	1815	thrS_2	6.1.1.3	COG0441	Threonine--tRNA ligase
+GHADJAEK_01518	CDS	1224	miaB_2	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+GHADJAEK_01519	CDS	879	aglJ_1	2.4.1.-	COG0463	Glycosyltransferase AglJ
+GHADJAEK_01520	CDS	1080	mshA_23	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01521	CDS	1935		3.4.21.-	COG1067	Archaeal Lon protease
+GHADJAEK_01522	CDS	702				hypothetical protein
+GHADJAEK_01523	CDS	138				hypothetical protein
+GHADJAEK_01524	CDS	756		2.5.1.-	COG1912	Chlorinase
+GHADJAEK_01525	CDS	501	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+GHADJAEK_01526	CDS	702				hypothetical protein
+GHADJAEK_01527	CDS	582	tbp2_2		COG2101	TATA-box-binding protein 2
+GHADJAEK_01528	CDS	981		2.1.1.213	COG1041	tRNA (guanine(10)-N2)-dimethyltransferase
+GHADJAEK_01529	CDS	282				hypothetical protein
+GHADJAEK_01530	CDS	285				hypothetical protein
+GHADJAEK_01531	CDS	1995	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+GHADJAEK_01532	CDS	477				hypothetical protein
+GHADJAEK_01533	CDS	447				hypothetical protein
+GHADJAEK_01534	CDS	1506				hypothetical protein
+GHADJAEK_01535	CDS	795				hypothetical protein
+GHADJAEK_01536	CDS	1824				hypothetical protein
+GHADJAEK_01537	CDS	1020	mshA_24	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01538	CDS	1269	metK	2.5.1.6		S-adenosylmethionine synthase
+GHADJAEK_01539	CDS	1254		3.3.1.-	COG0499	S-inosyl-L-homocysteine hydrolase
+GHADJAEK_01540	CDS	1071				hypothetical protein
+GHADJAEK_01541	CDS	537	cysC	2.7.1.25	COG0529	putative adenylyl-sulfate kinase
+GHADJAEK_01542	CDS	804	suhB	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+GHADJAEK_01543	CDS	300				hypothetical protein
+GHADJAEK_01544	CDS	165				hypothetical protein
+GHADJAEK_01545	CDS	1080				hypothetical protein
+GHADJAEK_01546	CDS	2235	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+GHADJAEK_01547	CDS	723	hisF_2	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+GHADJAEK_01548	CDS	573	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+GHADJAEK_01549	CDS	219				hypothetical protein
+GHADJAEK_01550	CDS	252				hypothetical protein
+GHADJAEK_01551	CDS	159				hypothetical protein
+GHADJAEK_01552	CDS	861				hypothetical protein
+GHADJAEK_01553	CDS	1293				hypothetical protein
+GHADJAEK_01554	CDS	435				hypothetical protein
+GHADJAEK_01555	CDS	789	aroA'_1	2.2.1.10	COG1830	2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase
+GHADJAEK_01556	CDS	372				hypothetical protein
+GHADJAEK_01557	CDS	348				hypothetical protein
+GHADJAEK_01558	CDS	501				hypothetical protein
+GHADJAEK_01559	CDS	219				hypothetical protein
+GHADJAEK_01560	CDS	345	cobB_1	6.3.5.11		Hydrogenobyrinate a,c-diamide synthase
+GHADJAEK_01561	CDS	693	cobB_2	6.3.5.11		Hydrogenobyrinate a,c-diamide synthase
+GHADJAEK_01562	CDS	189				hypothetical protein
+GHADJAEK_01563	CDS	249				hypothetical protein
+GHADJAEK_01564	CDS	273				hypothetical protein
+GHADJAEK_01565	CDS	720	cof	3.6.1.-		HMP-PP phosphatase
+GHADJAEK_01566	CDS	819	pheA	4.2.1.51	COG0077	Prephenate dehydratase
+GHADJAEK_01567	CDS	798	aroA'_2	2.2.1.10	COG1830	2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase
+GHADJAEK_01568	CDS	1122	aroB'	1.4.1.24	COG1465	3-dehydroquinate synthase
+GHADJAEK_01569	CDS	729	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+GHADJAEK_01570	CDS	873	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+GHADJAEK_01571	CDS	1242				hypothetical protein
+GHADJAEK_01572	CDS	912	gmd_2	4.2.1.47		GDP-mannose 4,6-dehydratase
+GHADJAEK_01573	CDS	468				hypothetical protein
+GHADJAEK_01574	CDS	153				hypothetical protein
+GHADJAEK_01575	CDS	357	rsxB_3	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+GHADJAEK_01576	CDS	165	metXA_2	2.3.1.31	COG0517	Homoserine O-acetyltransferase
+GHADJAEK_01577	CDS	162				hypothetical protein
+GHADJAEK_01578	CDS	186				hypothetical protein
+GHADJAEK_01579	CDS	1191				hypothetical protein
+GHADJAEK_01580	CDS	1221			COG0004	Putative ammonium transporter
+GHADJAEK_01581	CDS	258				hypothetical protein
+GHADJAEK_01582	CDS	957				hypothetical protein
+GHADJAEK_01583	CDS	264				hypothetical protein
+GHADJAEK_01584	CDS	1143				hypothetical protein
+GHADJAEK_01585	CDS	672				hypothetical protein
+GHADJAEK_01586	CDS	789	aglJ_2	2.4.1.-	COG0463	Glycosyltransferase AglJ
+GHADJAEK_01587	CDS	786				hypothetical protein
+GHADJAEK_01588	CDS	558				hypothetical protein
+GHADJAEK_01589	CDS	1104	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+GHADJAEK_01590	CDS	1446				hypothetical protein
+GHADJAEK_01591	CDS	996	arnC_3	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+GHADJAEK_01592	CDS	420	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+GHADJAEK_01593	CDS	1185				hypothetical protein
+GHADJAEK_01594	CDS	285				hypothetical protein
+GHADJAEK_01595	CDS	1095	mshA_25	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01596	CDS	1203				hypothetical protein
+GHADJAEK_01597	CDS	2205				hypothetical protein
+GHADJAEK_01598	CDS	1044				hypothetical protein
+GHADJAEK_01599	CDS	1326				hypothetical protein
+GHADJAEK_01600	CDS	165				hypothetical protein
+GHADJAEK_01601	CDS	93				hypothetical protein
+GHADJAEK_01602	CDS	267				hypothetical protein
+GHADJAEK_01603	CDS	615				hypothetical protein
+GHADJAEK_01604	CDS	435				hypothetical protein
+GHADJAEK_01605	CDS	849	MENG	2.1.1.329		2-phytyl-1,4-beta-naphthoquinone methyltransferase, chloroplastic
+GHADJAEK_01606	CDS	315				hypothetical protein
+GHADJAEK_01607	CDS	159				hypothetical protein
+GHADJAEK_01608	CDS	282				hypothetical protein
+GHADJAEK_01609	CDS	261				hypothetical protein
+GHADJAEK_01610	CDS	306				hypothetical protein
+GHADJAEK_01611	CDS	831				hypothetical protein
+GHADJAEK_01612	CDS	1479	mdtL			Multidrug resistance protein MdtL
+GHADJAEK_01613	CDS	315				hypothetical protein
+GHADJAEK_01614	CDS	237				hypothetical protein
+GHADJAEK_01615	CDS	606				hypothetical protein
+GHADJAEK_01616	CDS	591				hypothetical protein
+GHADJAEK_01617	CDS	330				hypothetical protein
+GHADJAEK_01618	CDS	225				hypothetical protein
+GHADJAEK_01619	CDS	495				hypothetical protein
+GHADJAEK_01620	CDS	261				hypothetical protein
+GHADJAEK_01621	CDS	483				hypothetical protein
+GHADJAEK_01622	CDS	837	btuD_10	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GHADJAEK_01623	CDS	756				hypothetical protein
+GHADJAEK_01624	CDS	813				hypothetical protein
+GHADJAEK_01625	CDS	405				hypothetical protein
+GHADJAEK_01626	CDS	450				hypothetical protein
+GHADJAEK_01627	CDS	309				hypothetical protein
+GHADJAEK_01628	CDS	231				hypothetical protein
+GHADJAEK_01629	CDS	702				hypothetical protein
+GHADJAEK_01630	CDS	606				hypothetical protein
+GHADJAEK_01631	CDS	735				hypothetical protein
+GHADJAEK_01632	CDS	156				hypothetical protein
+GHADJAEK_01633	CDS	327				hypothetical protein
+GHADJAEK_01634	CDS	318				hypothetical protein
+GHADJAEK_01635	CDS	186				hypothetical protein
+GHADJAEK_01636	CDS	177				hypothetical protein
+GHADJAEK_01637	CDS	693	COQ5_5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GHADJAEK_01638	CDS	1170	fdhB_2	1.17.1.9		Formate dehydrogenase subunit beta
+GHADJAEK_01639	CDS	567				hypothetical protein
+GHADJAEK_01640	CDS	513				hypothetical protein
+GHADJAEK_01641	CDS	315				hypothetical protein
+GHADJAEK_01642	CDS	432	arsC_2	1.20.4.4		Arsenate reductase
+GHADJAEK_01643	CDS	249				hypothetical protein
+GHADJAEK_01644	CDS	399				hypothetical protein
+GHADJAEK_01645	CDS	207				hypothetical protein
+GHADJAEK_01646	CDS	240				hypothetical protein
+GHADJAEK_01647	CDS	231				hypothetical protein
+GHADJAEK_01648	CDS	885				hypothetical protein
+GHADJAEK_01649	CDS	333				hypothetical protein
+GHADJAEK_01650	CDS	414				hypothetical protein
+GHADJAEK_01651	CDS	375				hypothetical protein
+GHADJAEK_01652	CDS	300				hypothetical protein
+GHADJAEK_01653	CDS	819	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+GHADJAEK_01654	CDS	255				hypothetical protein
+GHADJAEK_01655	CDS	807		2.7.1.169	COG1829	Pantoate kinase
+GHADJAEK_01656	CDS	1155	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+GHADJAEK_01657	CDS	1461	argH_2	4.3.2.1		Argininosuccinate lyase
+GHADJAEK_01658	CDS	537	gatD_1	6.3.5.-	COG0252	Glutamyl-tRNA(Gln) amidotransferase subunit D
+GHADJAEK_01659	CDS	729	gatD_2	6.3.5.-	COG0252	Glutamyl-tRNA(Gln) amidotransferase subunit D
+GHADJAEK_01660	CDS	624	gatE_1	6.3.5.-	COG2511	Glutamyl-tRNA(Gln) amidotransferase subunit E
+GHADJAEK_01661	CDS	1191	gatE_2	6.3.5.-	COG2511	Glutamyl-tRNA(Gln) amidotransferase subunit E
+GHADJAEK_01662	CDS	1020	lysK	3.5.1.-	COG0624	[LysW]-lysine/[LysW]-ornithine hydrolase
+GHADJAEK_01663	CDS	723				hypothetical protein
+GHADJAEK_01664	CDS	1497	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+GHADJAEK_01665	CDS	744	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+GHADJAEK_01666	CDS	549				hypothetical protein
+GHADJAEK_01667	CDS	366	pfdB		COG1382	Prefoldin subunit beta
+GHADJAEK_01668	CDS	309				hypothetical protein
+GHADJAEK_01669	CDS	297			COG1997	50S ribosomal protein L37Ae
+GHADJAEK_01670	CDS	786			COG2123	Exosome complex component Rrp42
+GHADJAEK_01671	CDS	711		3.1.13.-	COG0689	Exosome complex component Rrp41
+GHADJAEK_01672	CDS	693	rrp4		COG1097	Exosome complex component Rrp4
+GHADJAEK_01673	CDS	717			COG1500	Ribosome maturation protein SDO1 
+GHADJAEK_01674	CDS	738	psmA	3.4.25.1	COG0638	Proteasome subunit alpha
+GHADJAEK_01675	CDS	504				hypothetical protein
+GHADJAEK_01676	CDS	660				hypothetical protein
+GHADJAEK_01677	CDS	477			COG1325	RNA-binding protein
+GHADJAEK_01678	CDS	582			COG1632	50S ribosomal protein L15e
+GHADJAEK_01679	CDS	1182	OLA1			Obg-like ATPase 1
+GHADJAEK_01680	CDS	648	mptE	2.7.6.3	COG1634	6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase
+GHADJAEK_01681	CDS	3117	ileS_2	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+GHADJAEK_01682	CDS	738				hypothetical protein
+GHADJAEK_01683	CDS	525				hypothetical protein
+GHADJAEK_01684	CDS	366				hypothetical protein
+GHADJAEK_01685	CDS	150				hypothetical protein
+GHADJAEK_01686	CDS	996	glgC	2.7.7.27		Glucose-1-phosphate adenylyltransferase
+GHADJAEK_01687	CDS	324	erpA			Iron-sulfur cluster insertion protein ErpA
+GHADJAEK_01688	CDS	1728	ths_1			Thermosome subunit
+GHADJAEK_01689	CDS	942				hypothetical protein
+GHADJAEK_01690	CDS	1257	tiaS	6.3.4.22	COG1571	tRNA(Ile2) 2-agmatinylcytidine synthetase TiaS
+GHADJAEK_01691	CDS	954				hypothetical protein
+GHADJAEK_01692	CDS	192				hypothetical protein
+GHADJAEK_01693	CDS	714				hypothetical protein
+GHADJAEK_01694	CDS	243				hypothetical protein
+GHADJAEK_01695	CDS	465				hypothetical protein
+GHADJAEK_01696	CDS	561				hypothetical protein
+GHADJAEK_01697	CDS	606				hypothetical protein
+GHADJAEK_01698	CDS	99				hypothetical protein
+GHADJAEK_01699	CDS	171				hypothetical protein
+GHADJAEK_01700	CDS	177				hypothetical protein
+GHADJAEK_01701	CDS	1245				hypothetical protein
+GHADJAEK_01702	CDS	114				hypothetical protein
+GHADJAEK_01703	CDS	735				hypothetical protein
+GHADJAEK_01704	CDS	216				hypothetical protein
+GHADJAEK_01705	CDS	135				hypothetical protein
+GHADJAEK_01706	CDS	309				hypothetical protein
+GHADJAEK_01707	CDS	312				hypothetical protein
+GHADJAEK_01708	CDS	423				hypothetical protein
+GHADJAEK_01709	CDS	387				hypothetical protein
+GHADJAEK_01710	CDS	348			COG0655	Iron-sulfur flavoprotein
+GHADJAEK_01711	CDS	318				hypothetical protein
+GHADJAEK_01712	CDS	510	COQ5_6	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GHADJAEK_01713	CDS	477				hypothetical protein
+GHADJAEK_01714	CDS	363				hypothetical protein
+GHADJAEK_01715	CDS	2022	rhlB	3.6.4.13		ATP-dependent RNA helicase RhlB
+GHADJAEK_01716	CDS	630				hypothetical protein
+GHADJAEK_01717	CDS	795				hypothetical protein
+GHADJAEK_01718	CDS	480				hypothetical protein
+GHADJAEK_01719	CDS	852				hypothetical protein
+GHADJAEK_01720	CDS	2391	copA	7.2.2.8	COG2217	putative copper-exporting P-type ATPase
+GHADJAEK_01721	CDS	807				hypothetical protein
+GHADJAEK_01722	CDS	450			COG1522	putative HTH-type transcriptional regulator
+GHADJAEK_01723	CDS	1749				hypothetical protein
+GHADJAEK_01724	CDS	411				hypothetical protein
+GHADJAEK_01725	CDS	747				hypothetical protein
+GHADJAEK_01726	CDS	168				hypothetical protein
+GHADJAEK_01727	CDS	399				hypothetical protein
+GHADJAEK_01728	CDS	909	ftr_2	2.3.1.101	COG2037	Formylmethanofuran--tetrahydromethanopterin formyltransferase
+GHADJAEK_01729	CDS	822	mtd	1.5.98.1	COG1927	F420-dependent methylenetetrahydromethanopterin dehydrogenase
+GHADJAEK_01730	CDS	768				hypothetical protein
+GHADJAEK_01731	CDS	426				hypothetical protein
+GHADJAEK_01732	CDS	243				hypothetical protein
+GHADJAEK_01733	CDS	294				hypothetical protein
+GHADJAEK_01734	CDS	867				hypothetical protein
+GHADJAEK_01735	CDS	798	btuD_11	7.6.2.8	COG1120	Cobalamin import ATP-binding protein BtuD
+GHADJAEK_01736	CDS	936				hypothetical protein
+GHADJAEK_01737	CDS	441				hypothetical protein
+GHADJAEK_01738	CDS	528		2.7.7.1	COG1056	Nicotinamide-nucleotide adenylyltransferase
+GHADJAEK_01739	CDS	201				hypothetical protein
+GHADJAEK_01740	CDS	1125				hypothetical protein
+GHADJAEK_01741	CDS	408				hypothetical protein
+GHADJAEK_01742	CDS	672				hypothetical protein
+GHADJAEK_01743	CDS	324				hypothetical protein
+GHADJAEK_01744	CDS	1179	miaB_3	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+GHADJAEK_01745	CDS	642	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+GHADJAEK_01746	CDS	741		5.2.1.8	COG1047	Putative FKBP-type peptidyl-prolyl cis-trans isomerase
+GHADJAEK_01747	CDS	450				hypothetical protein
+GHADJAEK_01748	CDS	1035	egsA	1.1.1.261	COG0371	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+GHADJAEK_01749	CDS	840				hypothetical protein
+GHADJAEK_01750	CDS	1389	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+GHADJAEK_01751	CDS	1152	pepQ_1	3.4.13.9	COG0006	Xaa-Pro dipeptidase
+GHADJAEK_01752	CDS	870	map	3.4.11.18	COG0024	Methionine aminopeptidase
+GHADJAEK_01753	CDS	1284	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+GHADJAEK_01754	CDS	1332	eif2g		COG5257	Translation initiation factor 2 subunit gamma
+GHADJAEK_01755	CDS	360	vapC9	3.1.-.-	COG1412	Ribonuclease VapC9
+GHADJAEK_01756	CDS	531	ppa_2	3.6.1.1	COG0221	Inorganic pyrophosphatase
+GHADJAEK_01757	CDS	591	rpoE1	2.7.7.6	COG1095	DNA-directed RNA polymerase subunit E'
+GHADJAEK_01758	CDS	186	spt4		COG2093	Transcription elongation factor Spt4
+GHADJAEK_01759	CDS	510		2.7.1.-	COG1909	GTP-dependent dephospho-CoA kinase
+GHADJAEK_01760	CDS	312			COG2004	30S ribosomal protein S24e
+GHADJAEK_01761	CDS	978			COG0533	putative bifunctional tRNA threonylcarbamoyladenosine biosynthesis protein
+GHADJAEK_01762	CDS	561		3.6.-.-	COG3642	KEOPS complex subunit Bud32
+GHADJAEK_01763	CDS	540		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+GHADJAEK_01764	CDS	453			COG0184	30S ribosomal protein S15
+GHADJAEK_01765	CDS	492				hypothetical protein
+GHADJAEK_01766	CDS	654	uppS_3	2.5.1.89	COG0020	Tritrans,polycis-undecaprenyl-diphosphate synthase (GGDP specific)
+GHADJAEK_01767	CDS	195				hypothetical protein
+GHADJAEK_01768	CDS	564	ths_2			Thermosome subunit
+GHADJAEK_01769	CDS	1464	groL			60 kDa chaperonin
+GHADJAEK_01770	CDS	1326	eno_2	4.2.1.11	COG0148	Enolase
+GHADJAEK_01771	CDS	675				hypothetical protein
+GHADJAEK_01772	CDS	708				hypothetical protein
+GHADJAEK_01773	CDS	1047	rfcS_2		COG0470	Replication factor C small subunit
+GHADJAEK_01774	CDS	261				hypothetical protein
+GHADJAEK_01775	CDS	1104		2.6.1.57		Aromatic-amino-acid aminotransferase 2
+GHADJAEK_01776	CDS	1245	apgM1_2	5.4.2.12	COG3635	2,3-bisphosphoglycerate-independent phosphoglycerate mutase 1
+GHADJAEK_01777	CDS	663				HEAT repeat-containing taxis proteinF
+GHADJAEK_01778	CDS	336				hypothetical protein
+GHADJAEK_01779	CDS	183				hypothetical protein
+GHADJAEK_01780	CDS	1089	btuD_12	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GHADJAEK_01781	CDS	627	kefF	1.6.5.2		Glutathione-regulated potassium-efflux system ancillary protein KefF
+GHADJAEK_01782	CDS	207				hypothetical protein
+GHADJAEK_01783	CDS	1434		1.2.1.89	COG1012	D-glyceraldehyde dehydrogenase (NADP(+))
+GHADJAEK_01784	CDS	297				hypothetical protein
+GHADJAEK_01785	CDS	243				hypothetical protein
+GHADJAEK_01786	CDS	882				hypothetical protein
+GHADJAEK_01787	CDS	837				hypothetical protein
+GHADJAEK_01788	CDS	642				hypothetical protein
+GHADJAEK_01789	CDS	1452				hypothetical protein
+GHADJAEK_01790	CDS	432				hypothetical protein
+GHADJAEK_01791	CDS	801	fwdC	1.2.7.12	COG2218	Tungsten-containing formylmethanofuran dehydrogenase 2 subunit C
+GHADJAEK_01792	CDS	1146	purP_1	6.3.4.23	COG1759	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+GHADJAEK_01793	CDS	1416				hypothetical protein
+GHADJAEK_01794	CDS	1044	purP_2	6.3.4.23	COG1759	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+GHADJAEK_01795	rRNA	104				5S ribosomal RNA
+GHADJAEK_01796	tRNA	72				tRNA-Cys(gca)
+GHADJAEK_01797	rRNA	2903				23S ribosomal RNA
+GHADJAEK_01798	tRNA	73				tRNA-Ala(tgc)
+GHADJAEK_01799	rRNA	1470				16S ribosomal RNA
+GHADJAEK_01800	CDS	267				hypothetical protein
+GHADJAEK_01801	CDS	219				hypothetical protein
+GHADJAEK_01802	CDS	411				hypothetical protein
+GHADJAEK_01803	CDS	834	dhmA	3.8.1.5		Haloalkane dehalogenase
+GHADJAEK_01804	CDS	246				hypothetical protein
+GHADJAEK_01805	CDS	948				hypothetical protein
+GHADJAEK_01806	CDS	2208				hypothetical protein
+GHADJAEK_01807	CDS	228				hypothetical protein
+GHADJAEK_01808	CDS	396				hypothetical protein
+GHADJAEK_01809	CDS	609				hypothetical protein
+GHADJAEK_01810	CDS	504				hypothetical protein
+GHADJAEK_01811	CDS	759				hypothetical protein
+GHADJAEK_01812	CDS	2433	dbpA_3	3.6.4.13		ATP-dependent RNA helicase DbpA
+GHADJAEK_01813	CDS	1191	argJ	2.3.1.35	COG1364	Glutamate N-acetyltransferase
+GHADJAEK_01814	CDS	474			COG0517	putative protein
+GHADJAEK_01815	CDS	993	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate/[LysW]-L-glutamate phosphate reductase
+GHADJAEK_01816	CDS	330				hypothetical protein
+GHADJAEK_01817	CDS	177				hypothetical protein
+GHADJAEK_01818	CDS	252				hypothetical protein
+GHADJAEK_01819	CDS	732				hypothetical protein
+GHADJAEK_01820	CDS	639				hypothetical protein
+GHADJAEK_01821	CDS	120				hypothetical protein
+GHADJAEK_01822	CDS	570				hypothetical protein
+GHADJAEK_01823	CDS	144				hypothetical protein
+GHADJAEK_01824	CDS	189				hypothetical protein
+GHADJAEK_01825	CDS	783				hypothetical protein
+GHADJAEK_01826	CDS	603				hypothetical protein
+GHADJAEK_01827	CDS	324				hypothetical protein
+GHADJAEK_01828	CDS	516				hypothetical protein
+GHADJAEK_01829	CDS	267				hypothetical protein
+GHADJAEK_01830	CDS	552				hypothetical protein
+GHADJAEK_01831	CDS	270				hypothetical protein
+GHADJAEK_01832	CDS	441				hypothetical protein
+GHADJAEK_01833	CDS	489				hypothetical protein
+GHADJAEK_01834	CDS	4329	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+GHADJAEK_01835	CDS	621				hypothetical protein
+GHADJAEK_01836	CDS	90				hypothetical protein
+GHADJAEK_01837	CDS	390				hypothetical protein
+GHADJAEK_01838	CDS	357				hypothetical protein
+GHADJAEK_01839	CDS	210				hypothetical protein
+GHADJAEK_01840	CDS	222				hypothetical protein
+GHADJAEK_01841	CDS	327				hypothetical protein
+GHADJAEK_01842	CDS	405				hypothetical protein
+GHADJAEK_01843	CDS	348				hypothetical protein
+GHADJAEK_01844	CDS	213				hypothetical protein
+GHADJAEK_01845	CDS	285				hypothetical protein
+GHADJAEK_01846	CDS	1275	yfeO			Putative ion-transport protein YfeO
+GHADJAEK_01847	CDS	525				hypothetical protein
+GHADJAEK_01848	CDS	513				hypothetical protein
+GHADJAEK_01849	CDS	444				hypothetical protein
+GHADJAEK_01850	CDS	261				hypothetical protein
+GHADJAEK_01851	CDS	774				hypothetical protein
+GHADJAEK_01852	CDS	366				hypothetical protein
+GHADJAEK_01853	CDS	1005	mfnA_2	4.1.1.11	COG0076	L-aspartate/L-glutamate decarboxylase
+GHADJAEK_01854	CDS	369				hypothetical protein
+GHADJAEK_01855	CDS	513				hypothetical protein
+GHADJAEK_01856	CDS	123				hypothetical protein
+GHADJAEK_01857	CDS	954				hypothetical protein
+GHADJAEK_01858	CDS	570				hypothetical protein
+GHADJAEK_01859	CDS	249				hypothetical protein
+GHADJAEK_01860	CDS	348				hypothetical protein
+GHADJAEK_01861	CDS	1698	lig_2	6.5.1.6		DNA ligase
+GHADJAEK_01862	CDS	444			COG0589	Universal stress protein
+GHADJAEK_01863	CDS	282				hypothetical protein
+GHADJAEK_01864	CDS	369				hypothetical protein
+GHADJAEK_01865	CDS	510				hypothetical protein
+GHADJAEK_01866	CDS	759				hypothetical protein
+GHADJAEK_01867	CDS	444				hypothetical protein
+GHADJAEK_01868	CDS	1686				hypothetical protein
+GHADJAEK_01869	CDS	735				hypothetical protein
+GHADJAEK_01870	CDS	954				hypothetical protein
+GHADJAEK_01871	CDS	210				hypothetical protein
+GHADJAEK_01872	CDS	336				hypothetical protein
+GHADJAEK_01873	CDS	540				hypothetical protein
+GHADJAEK_01874	CDS	546				hypothetical protein
+GHADJAEK_01875	CDS	315	aglJ_3	2.4.1.-	COG0463	Glycosyltransferase AglJ
+GHADJAEK_01876	CDS	216				hypothetical protein
+GHADJAEK_01877	CDS	564				hypothetical protein
+GHADJAEK_01878	CDS	1275				hypothetical protein
+GHADJAEK_01879	CDS	612				hypothetical protein
+GHADJAEK_01880	CDS	807	aglJ_4	2.4.1.-	COG0463	Glycosyltransferase AglJ
+GHADJAEK_01881	CDS	1293	arnC_4	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+GHADJAEK_01882	CDS	282				hypothetical protein
+GHADJAEK_01883	CDS	762	COQ3_1	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+GHADJAEK_01884	CDS	795	COQ5_7	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GHADJAEK_01885	CDS	1473	miaB_4	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+GHADJAEK_01886	CDS	267				hypothetical protein
+GHADJAEK_01887	CDS	1017	mshA_26	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01888	CDS	1275	mshA_27	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01889	CDS	198				hypothetical protein
+GHADJAEK_01890	CDS	756	tmk_2	2.7.4.9		Thymidylate kinase
+GHADJAEK_01891	CDS	1503				hypothetical protein
+GHADJAEK_01892	CDS	1065	mshA_28	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01893	CDS	804	COQ3_2	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+GHADJAEK_01894	CDS	123				hypothetical protein
+GHADJAEK_01895	CDS	1170				hypothetical protein
+GHADJAEK_01896	CDS	1452				hypothetical protein
+GHADJAEK_01897	CDS	1728				hypothetical protein
+GHADJAEK_01898	CDS	942				hypothetical protein
+GHADJAEK_01899	CDS	264				hypothetical protein
+GHADJAEK_01900	CDS	1224				hypothetical protein
+GHADJAEK_01901	CDS	246				hypothetical protein
+GHADJAEK_01902	CDS	1650				hypothetical protein
+GHADJAEK_01903	CDS	1101	obg_2	3.6.5.-		GTPase Obg
+GHADJAEK_01904	CDS	417				hypothetical protein
+GHADJAEK_01905	CDS	141				hypothetical protein
+GHADJAEK_01906	CDS	468				hypothetical protein
+GHADJAEK_01907	CDS	1644		2.1.1.-	COG1964	7,8-dihydro-6-hydroxymethylpterin dimethyltransferase
+GHADJAEK_01908	CDS	534	carS	2.7.7.67	COG0575	CDP-archaeol synthase
+GHADJAEK_01909	CDS	903	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase, anabolic
+GHADJAEK_01910	CDS	1281	purD	6.3.4.13		Phosphoribosylamine--glycine ligase
+GHADJAEK_01911	CDS	1827	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+GHADJAEK_01912	CDS	1161				hypothetical protein
+GHADJAEK_01913	CDS	1248	frhA	1.12.98.1	COG3259	Coenzyme F420 hydrogenase subunit alpha
+GHADJAEK_01914	CDS	459				hypothetical protein
+GHADJAEK_01915	CDS	774				hypothetical protein
+GHADJAEK_01916	CDS	849	frhB	1.12.98.1	COG1035	Coenzyme F420 hydrogenase subunit beta
+GHADJAEK_01917	CDS	1218		2.1.1.-	COG1625	[Methyl-coenzyme M reductase subunit alpha]-arginine C-methyltransferase
+GHADJAEK_01918	CDS	921				hypothetical protein
+GHADJAEK_01919	CDS	564				hypothetical protein
+GHADJAEK_01920	CDS	1233				hypothetical protein
+GHADJAEK_01921	CDS	459				hypothetical protein
+GHADJAEK_01922	CDS	447				hypothetical protein
+GHADJAEK_01923	CDS	1521				hypothetical protein
+GHADJAEK_01924	CDS	1596	btuD_13	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GHADJAEK_01925	CDS	852	patS	3.6.3.-	COG4087	Soluble P-type ATPase-like phosphatase
+GHADJAEK_01926	CDS	219				hypothetical protein
+GHADJAEK_01927	CDS	1812				hypothetical protein
+GHADJAEK_01928	CDS	213				hypothetical protein
+GHADJAEK_01929	CDS	549	nob1	3.1.-.-	COG1439	Endoribonuclease Nob1
+GHADJAEK_01930	CDS	594	pyrE_1	2.4.2.10		Orotate phosphoribosyltransferase
+GHADJAEK_01931	CDS	2907	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+GHADJAEK_01932	CDS	384				hypothetical protein
+GHADJAEK_01933	CDS	750				hypothetical protein
+GHADJAEK_01934	CDS	393				hypothetical protein
+GHADJAEK_01935	tRNA	75				tRNA-Arg(tct)
+GHADJAEK_01936	CDS	1341				hypothetical protein
+GHADJAEK_01937	tRNA	91				tRNA-Ser(gga)
+GHADJAEK_01938	CDS	978	nrpRI		COG1693	Global nitrogen regulator NrpRI
+GHADJAEK_01939	CDS	1332	glnA	6.3.1.2	COG0174	Glutamine synthetase
+GHADJAEK_01940	CDS	687				hypothetical protein
+GHADJAEK_01941	CDS	921				hypothetical protein
+GHADJAEK_01942	CDS	384				hypothetical protein
+GHADJAEK_01943	CDS	900				hypothetical protein
+GHADJAEK_01944	CDS	249				hypothetical protein
+GHADJAEK_01945	CDS	654				hypothetical protein
+GHADJAEK_01946	CDS	2241	vat_2		COG0464	VCP-like ATPase
+GHADJAEK_01947	CDS	489				hypothetical protein
+GHADJAEK_01948	CDS	660	ppaX_1	3.6.1.1		Pyrophosphatase PpaX
+GHADJAEK_01949	CDS	999				hypothetical protein
+GHADJAEK_01950	CDS	228				hypothetical protein
+GHADJAEK_01951	CDS	222				hypothetical protein
+GHADJAEK_01952	CDS	279				hypothetical protein
+GHADJAEK_01953	CDS	396				hypothetical protein
+GHADJAEK_01954	CDS	1134	mshA_29	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01955	CDS	1164	mshA_30	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01956	CDS	1107	mshA_31	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_01957	CDS	984				hypothetical protein
+GHADJAEK_01958	CDS	1452				hypothetical protein
+GHADJAEK_01959	CDS	1911				hypothetical protein
+GHADJAEK_01960	CDS	882				hypothetical protein
+GHADJAEK_01961	CDS	159				hypothetical protein
+GHADJAEK_01962	CDS	219				hypothetical protein
+GHADJAEK_01963	CDS	171				hypothetical protein
+GHADJAEK_01964	CDS	1155				hypothetical protein
+GHADJAEK_01965	CDS	255				hypothetical protein
+GHADJAEK_01966	CDS	186				hypothetical protein
+GHADJAEK_01967	CDS	240				hypothetical protein
+GHADJAEK_01968	CDS	501				hypothetical protein
+GHADJAEK_01969	CDS	837				hypothetical protein
+GHADJAEK_01970	CDS	417	bamB_7			Outer membrane protein assembly factor BamB
+GHADJAEK_01971	CDS	651				hypothetical protein
+GHADJAEK_01972	CDS	666			COG0655	Iron-sulfur flavoprotein
+GHADJAEK_01973	CDS	174				hypothetical protein
+GHADJAEK_01974	CDS	177				hypothetical protein
+GHADJAEK_01975	CDS	1413				hypothetical protein
+GHADJAEK_01976	CDS	369				hypothetical protein
+GHADJAEK_01977	CDS	3672		2.4.1.281		4-O-beta-D-mannosyl-D-glucose phosphorylase
+GHADJAEK_01978	CDS	258				hypothetical protein
+GHADJAEK_01979	CDS	252				hypothetical protein
+GHADJAEK_01980	CDS	1017				hypothetical protein
+GHADJAEK_01981	CDS	558				hypothetical protein
+GHADJAEK_01982	CDS	267				hypothetical protein
+GHADJAEK_01983	CDS	198				hypothetical protein
+GHADJAEK_01984	CDS	417				hypothetical protein
+GHADJAEK_01985	CDS	162				hypothetical protein
+GHADJAEK_01986	CDS	1122	bamB_8			Outer membrane protein assembly factor BamB
+GHADJAEK_01987	CDS	390				hypothetical protein
+GHADJAEK_01988	CDS	435				hypothetical protein
+GHADJAEK_01989	CDS	1335	thiL_4	2.7.4.16		Thiamine-monophosphate kinase
+GHADJAEK_01990	CDS	621	hisH	3.5.1.2		Imidazole glycerol phosphate synthase subunit HisH
+GHADJAEK_01991	CDS	468				hypothetical protein
+GHADJAEK_01992	CDS	1728	polB1	2.7.7.7	COG0417	DNA polymerase PolB subunit 1
+GHADJAEK_01993	CDS	678	pol	2.7.7.7		DNA polymerase
+GHADJAEK_01994	CDS	1947	acsA_2	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+GHADJAEK_01995	CDS	597				hypothetical protein
+GHADJAEK_01996	CDS	597				hypothetical protein
+GHADJAEK_01997	CDS	1311	hcp	1.7.99.1		Hydroxylamine reductase
+GHADJAEK_01998	CDS	330				hypothetical protein
+GHADJAEK_01999	CDS	813	napF_3			Ferredoxin-type protein NapF
+GHADJAEK_02000	CDS	642				hypothetical protein
+GHADJAEK_02001	CDS	369				hypothetical protein
+GHADJAEK_02002	CDS	150				hypothetical protein
+GHADJAEK_02003	CDS	777				hypothetical protein
+GHADJAEK_02004	CDS	513				hypothetical protein
+GHADJAEK_02005	CDS	933				hypothetical protein
+GHADJAEK_02006	CDS	1542				hypothetical protein
+GHADJAEK_02007	CDS	153				hypothetical protein
+GHADJAEK_02008	CDS	543				hypothetical protein
+GHADJAEK_02009	CDS	456				hypothetical protein
+GHADJAEK_02010	CDS	1545	mdtD_3			Putative multidrug resistance protein MdtD
+GHADJAEK_02011	CDS	312				hypothetical protein
+GHADJAEK_02012	CDS	195				hypothetical protein
+GHADJAEK_02013	CDS	1386	clcB			Voltage-gated ClC-type chloride channel ClcB
+GHADJAEK_02014	CDS	1314			COG0531	putative protein
+GHADJAEK_02015	CDS	222				hypothetical protein
+GHADJAEK_02016	CDS	189				hypothetical protein
+GHADJAEK_02017	CDS	1134	mshA_32	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GHADJAEK_02018	CDS	327				hypothetical protein
+GHADJAEK_02019	CDS	696				hypothetical protein
+GHADJAEK_02020	CDS	1503				hypothetical protein
+GHADJAEK_02021	CDS	1056				hypothetical protein
+GHADJAEK_02022	CDS	333				hypothetical protein
+GHADJAEK_02023	CDS	1260				hypothetical protein
+GHADJAEK_02024	CDS	573				hypothetical protein
+GHADJAEK_02025	CDS	339				hypothetical protein
+GHADJAEK_02026	CDS	1968				hypothetical protein
+GHADJAEK_02027	CDS	126				hypothetical protein
+GHADJAEK_02028	CDS	912				hypothetical protein
+GHADJAEK_02029	CDS	1887	btuD_14	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GHADJAEK_02030	CDS	318				hypothetical protein
+GHADJAEK_02031	CDS	1926				hypothetical protein
+GHADJAEK_02032	CDS	264				hypothetical protein
+GHADJAEK_02033	CDS	1935				hypothetical protein
+GHADJAEK_02034	CDS	969				hypothetical protein
+GHADJAEK_02035	CDS	222				hypothetical protein
+GHADJAEK_02036	CDS	1083	kdpB_2	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+GHADJAEK_02037	CDS	1236	kdpB_3	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+GHADJAEK_02038	CDS	1404	mfnA_3	4.1.1.11	COG0076	L-aspartate decarboxylase
+GHADJAEK_02039	CDS	459				hypothetical protein
+GHADJAEK_02040	CDS	354				hypothetical protein
+GHADJAEK_02041	CDS	477				hypothetical protein
+GHADJAEK_02042	CDS	306				hypothetical protein
+GHADJAEK_02043	CDS	669				hypothetical protein
+GHADJAEK_02044	CDS	561				hypothetical protein
+GHADJAEK_02045	CDS	510	fbiB_3	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+GHADJAEK_02046	CDS	1467	mdtD_4			Putative multidrug resistance protein MdtD
+GHADJAEK_02047	CDS	198				hypothetical protein
+GHADJAEK_02048	CDS	297				hypothetical protein
+GHADJAEK_02049	CDS	339				hypothetical protein
+GHADJAEK_02050	CDS	246				hypothetical protein
+GHADJAEK_02051	CDS	1392				hypothetical protein
+GHADJAEK_02052	CDS	225				hypothetical protein
+GHADJAEK_02053	CDS	1131	pepQ_2	3.4.13.9	COG0006	Xaa-Pro dipeptidase
+GHADJAEK_02054	CDS	372				hypothetical protein
+GHADJAEK_02055	CDS	423				hypothetical protein
+GHADJAEK_02056	CDS	1197				hypothetical protein
+GHADJAEK_02057	CDS	990	btuD_15	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GHADJAEK_02058	CDS	1359				hypothetical protein
+GHADJAEK_02059	CDS	480				hypothetical protein
+GHADJAEK_02060	CDS	225				hypothetical protein
+GHADJAEK_02061	CDS	396				hypothetical protein
+GHADJAEK_02062	CDS	357				hypothetical protein
+GHADJAEK_02063	CDS	2277	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+GHADJAEK_02064	CDS	180				hypothetical protein
+GHADJAEK_02065	CDS	1173		2.5.1.73	COG1103	O-phospho-L-seryl-tRNA:Cys-tRNA synthase
+GHADJAEK_02066	CDS	171				hypothetical protein
+GHADJAEK_02067	CDS	801				hypothetical protein
+GHADJAEK_02068	CDS	1638		2.7.8.-		Cardiolipin synthase
+GHADJAEK_02069	CDS	129				hypothetical protein
+GHADJAEK_02070	CDS	411				hypothetical protein
+GHADJAEK_02071	CDS	576			COG0655	Iron-sulfur flavoprotein
+GHADJAEK_02072	CDS	1020	bchB	1.3.7.7		Light-independent protochlorophyllide reductase subunit B
+GHADJAEK_02073	CDS	492				hypothetical protein
+GHADJAEK_02074	CDS	975	thiL_5	2.7.4.16		Thiamine-monophosphate kinase
+GHADJAEK_02075	CDS	861		3.1.3.-	COG1578	Damage-control phosphatase
+GHADJAEK_02076	CDS	807				hypothetical protein
+GHADJAEK_02077	CDS	888	htpX	3.4.24.-		Protease HtpX
+GHADJAEK_02078	CDS	741	ppaX_2	3.6.1.1		Pyrophosphatase PpaX
+GHADJAEK_02079	CDS	219				hypothetical protein
+GHADJAEK_02080	CDS	249				hypothetical protein
+GHADJAEK_02081	CDS	558				hypothetical protein
+GHADJAEK_02082	CDS	279				hypothetical protein
+GHADJAEK_02083	CDS	714				hypothetical protein
+GHADJAEK_02084	CDS	708	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+GHADJAEK_02085	CDS	393				hypothetical protein
+GHADJAEK_02086	CDS	999				hypothetical protein
+GHADJAEK_02087	CDS	927				hypothetical protein
+GHADJAEK_02088	CDS	399				hypothetical protein
+GHADJAEK_02089	CDS	849				hypothetical protein
+GHADJAEK_02090	CDS	762			COG1136	putative ABC transporter ATP-binding protein
+GHADJAEK_02091	CDS	609				hypothetical protein
+GHADJAEK_02092	CDS	420	gloB_5	3.1.2.6		Hydroxyacylglutathione hydrolase
+GHADJAEK_02093	CDS	954		2.2.1.11	COG1830	Fructose-bisphosphate aldolase/6-deoxy-5-ketofructose 1-phosphate synthase
+GHADJAEK_02094	CDS	927	pfkB	2.7.1.56	COG1105	1-phosphofructokinase
+GHADJAEK_02095	CDS	795	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+GHADJAEK_02096	CDS	1332				hypothetical protein
+GHADJAEK_02097	CDS	1386	tldD	3.4.-.-	COG0312	Zinc metalloprotease TldD 
+GHADJAEK_02098	CDS	636				hypothetical protein
+GHADJAEK_02099	CDS	210	eIF1A_2		COG0361	Translation initiation factor 1A
+GHADJAEK_02100	CDS	1203		1.3.7.11	COG0644	Digeranylgeranylglycerophospholipid reductase
+GHADJAEK_02101	CDS	591				hypothetical protein
+GHADJAEK_02102	CDS	237				hypothetical protein
+GHADJAEK_02103	CDS	543				hypothetical protein
+GHADJAEK_02104	CDS	633				hypothetical protein
+GHADJAEK_02105	CDS	1134				hypothetical protein
+GHADJAEK_02106	CDS	972	mptA	3.5.4.39	COG1469	GTP cyclohydrolase MptA
+GHADJAEK_02107	CDS	1191		1.3.7.11	COG0644	Digeranylgeranylglycerophospholipid reductase
+GHADJAEK_02108	CDS	345	pth	3.1.1.29	COG1990	Peptidyl-tRNA hydrolase
+GHADJAEK_02109	CDS	1296	truD	5.4.99.27	COG0585	putative tRNA pseudouridine synthase D
+GHADJAEK_02110	CDS	549				hypothetical protein
+GHADJAEK_02111	CDS	933	nth_3	4.2.99.18		Endonuclease III
+GHADJAEK_02112	CDS	930				hypothetical protein
+GHADJAEK_02113	CDS	339				hypothetical protein
+GHADJAEK_02114	CDS	906				hypothetical protein
+GHADJAEK_02115	CDS	468				hypothetical protein
+GHADJAEK_02116	CDS	159				hypothetical protein
+GHADJAEK_02117	CDS	1962	uvrB			UvrABC system protein B
+GHADJAEK_02118	CDS	2814	uvrA			UvrABC system protein A
+GHADJAEK_02119	CDS	1797	uvrC			UvrABC system protein C
+GHADJAEK_02120	CDS	1014				hypothetical protein
+GHADJAEK_02121	CDS	255				hypothetical protein
+GHADJAEK_02122	CDS	300				hypothetical protein
+GHADJAEK_02123	CDS	717	aglD_2	2.4.1.-	COG0392	Glycosyltransferase AglD
+GHADJAEK_02124	CDS	1290				hypothetical protein
+GHADJAEK_02125	CDS	528		3.5.1.124	COG0693	Deglycase
+GHADJAEK_02126	CDS	150				hypothetical protein
+GHADJAEK_02127	CDS	1083				hypothetical protein
+GHADJAEK_02128	CDS	273				hypothetical protein
+GHADJAEK_02129	CDS	462				hypothetical protein
+GHADJAEK_02130	CDS	2286				hypothetical protein
+GHADJAEK_02131	CDS	543				hypothetical protein
+GHADJAEK_02132	CDS	420				hypothetical protein
+GHADJAEK_02133	CDS	1083	glmU_6		COG1208	Bifunctional protein GlmU
+GHADJAEK_02134	CDS	861	hldD_2	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+GHADJAEK_02135	CDS	126				hypothetical protein
+GHADJAEK_02136	CDS	624				hypothetical protein
+GHADJAEK_02137	CDS	444				hypothetical protein
+GHADJAEK_02138	CDS	297				hypothetical protein
+GHADJAEK_02139	CDS	222	iscU2_2		COG0822	Iron-sulfur cluster assembly scaffold protein IscU 2
+GHADJAEK_02140	CDS	516				hypothetical protein
+GHADJAEK_02141	CDS	222	iscU2_3		COG0822	Iron-sulfur cluster assembly scaffold protein IscU 2
+GHADJAEK_02142	CDS	270				hypothetical protein
+GHADJAEK_02143	CDS	252				hypothetical protein
+GHADJAEK_02144	CDS	702				hypothetical protein
+GHADJAEK_02145	CDS	177				hypothetical protein
+GHADJAEK_02146	CDS	537				hypothetical protein
+GHADJAEK_02147	CDS	696				hypothetical protein
+GHADJAEK_02148	CDS	297				hypothetical protein
+GHADJAEK_02149	CDS	1158				hypothetical protein
+GHADJAEK_02150	CDS	432				hypothetical protein
+GHADJAEK_02151	CDS	474				hypothetical protein
+GHADJAEK_02152	CDS	171				hypothetical protein
+GHADJAEK_02153	CDS	528	pyrE_2	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+GHADJAEK_02154	CDS	249				hypothetical protein
+GHADJAEK_02155	CDS	270				hypothetical protein
+GHADJAEK_02156	CDS	114				hypothetical protein
+GHADJAEK_02157	CDS	228				hypothetical protein
+GHADJAEK_02158	CDS	738	aglD_3	2.4.1.-	COG0392	Glycosyltransferase AglD
+GHADJAEK_02159	CDS	606				hypothetical protein
+GHADJAEK_02160	CDS	147				hypothetical protein
+GHADJAEK_02161	CDS	168				hypothetical protein
+GHADJAEK_02162	CDS	183				hypothetical protein
+GHADJAEK_02163	CDS	225				hypothetical protein
+GHADJAEK_02164	CDS	561				hypothetical protein
+GHADJAEK_02165	CDS	684				hypothetical protein
+GHADJAEK_02166	CDS	570				hypothetical protein
+GHADJAEK_02167	CDS	579				hypothetical protein
+GHADJAEK_02168	CDS	510	tgtA_2	2.4.2.48	COG0343	tRNA-guanine(15) transglycosylase
+GHADJAEK_02169	CDS	807	tgtA_3	2.4.2.48	COG0343	tRNA-guanine(15) transglycosylase
+GHADJAEK_02170	CDS	1686	arcS	2.6.1.97	COG1549	Archaeosine synthase
+GHADJAEK_02171	CDS	1014				hypothetical protein
+GHADJAEK_02172	CDS	1650	kefC			Glutathione-regulated potassium-efflux system protein KefC
+GHADJAEK_02173	CDS	1236	glyA	2.1.2.-	COG0112	Serine hydroxymethyltransferase
+GHADJAEK_02174	CDS	747		3.1.3.3	COG0560	Phosphoserine phosphatase
+GHADJAEK_02175	CDS	744				hypothetical protein
+GHADJAEK_02176	CDS	1167				hypothetical protein
+GHADJAEK_02177	CDS	975				hypothetical protein
+GHADJAEK_02178	CDS	531				hypothetical protein
+GHADJAEK_02179	CDS	552	rutE_2	1.1.1.298		malonic semialdehyde reductase RutE
+GHADJAEK_02180	CDS	1587		2.3.1.-	COG1243	tRNA uridine(34) acetyltransferase
+GHADJAEK_02181	CDS	270				hypothetical protein
