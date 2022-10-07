@@ -740,7 +740,13 @@ get_amber_files <- function(path = "/mnt/hpccs01/scratch/microbiome/n10853499/00
     return(amber)
 }
 
-generate_plots_amber <- function(path = "/mnt/hpccs01/scratch/microbiome/n10853499/00-rosella_testing/00-CAMI_I/00-low_complexity/binning/data/amber_out/benchmarks/genome/") {
+generate_plots_amber <- function(
+    path = "/mnt/hpccs01/scratch/microbiome/n10853499/00-rosella_testing/00-CAMI_I/00-low_complexity/binning/data/amber_out/benchmarks/genome/",
+    legend = TRUE,
+    y_labels = TRUE,
+    x_labels = TRUE,
+    title = "CAMI I - Low complexity"
+    ) {
     amber <- get_amber_files(path)
     
     generate_ranks_refined(amber, 5)
@@ -777,13 +783,15 @@ generate_plots_amber <- function(path = "/mnt/hpccs01/scratch/microbiome/n108534
         guides(color = guide_legend(override.aes = list(color = values, linetype=linetypes))) +
         theme(axis.text=element_text(size=10),
               axis.title=element_text(size=10),
+            #   axis.text.y=ifelse(y_labels, element_text(), element_blank()),
+            #   axis.text.x=ifelse(x_labels, element_text(), element_blank()),
               axis.line = element_line(size=0.25),
               axis.ticks=element_line(size=0.25),
               panel.grid.major = element_blank(),
               panel.grid.minor = element_blank(),
               panel.border = element_blank(),
               panel.background = element_blank(),
-              legend.position="bottom" ,
+              legend.position=ifelse(legend, "bottom", "none"),
               legend.direction="horizontal", 
               legend.title=element_blank(),
               legend.text=element_text(size=10), 
@@ -799,13 +807,15 @@ generate_plots_amber <- function(path = "/mnt/hpccs01/scratch/microbiome/n108534
         guides(color = guide_legend(override.aes = list(color = values, linetype=linetypes))) +
         theme(axis.text=element_text(size=10),
               axis.title=element_text(size=10),
+            #   axis.text.y=ifelse(y_labels, element_text(), element_blank()),
+            #   axis.text.x=ifelse(x_labels, element_text(), element_blank()),
               axis.line = element_line(size=0.25),
               axis.ticks=element_line(size=0.25),
               panel.grid.major = element_blank(),
               panel.grid.minor = element_blank(),
               panel.border = element_blank(),
               panel.background = element_blank(),
-              legend.position="bottom" ,
+              legend.position=ifelse(legend, "bottom", "none"),
               legend.direction="horizontal", 
               legend.text=element_text(size=10), 
               legend.background=element_blank(), 
@@ -821,15 +831,18 @@ generate_plots_amber <- function(path = "/mnt/hpccs01/scratch/microbiome/n108534
 
     bar_chart <- ggplot(data=amber[mag_group != "<50%", .N, by=c("group", "binner", "mag_group")], aes(fill=mag_group, y=N, x=binner)) +
         geom_bar(position="stack", stat="identity") + 
-        labs(fill="Completeness", x = "", y = "MAGs") +
+        labs(title=title, fill="Completeness", x = "", y = "MAGs") +
     #     scale_fill_viridis(discrete=TRUE, option="mako")
         scale_fill_brewer() +
-        theme(panel.grid.major = element_blank(),
-              panel.grid.minor = element_blank(),
-              legend.position="right",
-              legend.direction="vertical", 
-              legend.text=element_text(size=10),
-              axis.text.x=element_text(angle=45, hjust=1, vjust=1)
+        theme(
+            panel.grid.major = element_blank(),
+            panel.grid.minor = element_blank(),
+            legend.position=ifelse(legend, "right", "none"),
+            legend.direction="vertical", 
+            legend.text=element_text(size=10),
+            axis.text.y=element_text(size=ifelse(y_labels, 10, 0)),
+            axis.text.x=element_text(angle=45, hjust=1, vjust=1),
+            plot.title=element_text(hjust=0.5)
             ) +
         facet_wrap(~group, nrow=3, ncol=1, scales="free_y") +
         coord_flip()
@@ -844,7 +857,15 @@ generate_plots_amber <- function(path = "/mnt/hpccs01/scratch/microbiome/n108534
     return(list(com, con, gt, t_all, amber))
 }
 
-combine_amber_results <- function(path="/mnt/hpccs01/scratch/microbiome/n10853499/00-rosella_testing/01-CAMI_II/CAMI_uro/binning/", regexp="amber_sample_*", inner_directory="/data/amber_out/benchmarks/genome/") {
+combine_amber_results <- function(
+    path="/mnt/hpccs01/scratch/microbiome/n10853499/00-rosella_testing/01-CAMI_II/CAMI_uro/binning/", 
+    regexp="amber_sample_*", 
+    inner_directory="/data/amber_out/benchmarks/genome/",
+    legend = TRUE,
+    y_labels = TRUE,
+    x_labels = TRUE,
+    title = "CAMI II - Urogenital"
+    ) {
     results <- Sys.glob(paste0(path, regexp))
 
     amber <- do.call(rbind, lapply(results, function(x) {
@@ -929,15 +950,17 @@ combine_amber_results <- function(path="/mnt/hpccs01/scratch/microbiome/n1085349
 
     bar_chart <- ggplot(data=amber[mag_group != "<50%", .N, by=c("group", "binner", "mag_group")], aes(fill=mag_group, y=N, x=binner)) +
         geom_bar(position="stack", stat="identity") + 
-        labs(fill="Completeness", x = "", y = "MAGs") +
+        labs(title=title, fill="Completeness", x = "", y = "MAGs") +
     #     scale_fill_viridis(discrete=TRUE, option="mako")
         scale_fill_brewer() +
         theme(panel.grid.major = element_blank(),
               panel.grid.minor = element_blank(),
-              legend.position="right",
+              legend.position=ifelse(legend, "right", "none"),
               legend.direction="vertical", 
               legend.text=element_text(size=10),
-              axis.text.x=element_text(angle=45, hjust=1, vjust=1)
+              axis.text.y=element_text(size=ifelse(y_labels, 10, 0)),
+              axis.text.x=element_text(angle=45, hjust=1, vjust=1),
+              plot.title=element_text(hjust=0.5)
             ) +
         facet_wrap(~group, nrow=3, ncol=1, scales="free_y") +
         coord_flip()
